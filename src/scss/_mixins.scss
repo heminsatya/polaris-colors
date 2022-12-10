@@ -1,0 +1,22 @@
+// ---------- Mixins ---------- //
+@mixin pack-color($property: null, $name: $name-color) {
+    @if $social-pack {
+        /* Social Colors */
+        @include color-class($social-colors, $name, $property, $strict-colors);
+    }
+
+    @if $html-pack {
+        /* HTML Colors */
+        @include color-class($html-colors, $name, $property, $strict-colors);
+    }
+
+    @if $metro-pack {
+        /* Metro Colors */
+        @include color-class($metro-colors, $name, $property, $strict-colors);
+    }
+
+    @if $flat-pack {
+        /* Flat Colors */
+        @include color-class($flat-colors, $name, $property, $strict-colors);
+    }
+}

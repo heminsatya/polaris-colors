@@ -1,0 +1,49 @@
+{
+  "name": "polaris-colors",
+  "version": "1.0.0",
+  "description": "Polaris Colors Plugin for Polaris Framework.",
+  "author": "Hemin Satya",
+  "license": "MIT",
+  "main": "index.js",
+  "style": "/dist/css/",
+  "sass": "/src/scss/",
+  "keywords": [
+    "CSS",
+    "Sass",
+    "JavaScript",
+    "TypeScript",
+    "webpack",
+    "HTML",
+    "responsive-design",
+    "front-end",
+    "Web",
+    "Framework"
+  ],
+  "homepage": "https://github.com/heminsatya/polaris-colors#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heminsatya/polaris-colors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heminsatya/polaris-colors/issues"
+  },
+  "devDependencies": {
+    "polaris-core": "^0.9.1",
+    "sass": "^1.56.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "polaris": "sass src/scss/polaris.scss dist/css/polaris.min.css --style compressed",
+    "polaris-dev": "sass src/scss/polaris.scss dist/css/polaris.css --watch",
+    "material": "sass src/scss/material.scss dist/css/material.min.css --style compressed",
+    "material-dev": "sass src/scss/material.scss dist/css/material.css --watch",
+    "html": "sass src/scss/html.scss dist/css/html.min.css --style compressed",
+    "html-dev": "sass src/scss/html.scss dist/css/html.css --watch",
+    "flat": "sass src/scss/flat.scss dist/css/flat.min.css --style compressed",
+    "flat-dev": "sass src/scss/flat.scss dist/css/flat.css --watch",
+    "metro": "sass src/scss/metro.scss dist/css/metro.min.css --style compressed",
+    "metro-dev": "sass src/scss/metro.scss dist/css/metro.css --watch",
+    "social": "sass src/scss/social.scss dist/css/social.min.css --style compressed",
+    "social-dev": "sass src/scss/social.scss dist/css/social.css --watch"
+  }
+}

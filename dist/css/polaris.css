@@ -1,0 +1,4390 @@
+@charset "UTF-8";
+/**
+ * Polaris Colors Plugin v1.0.0
+ * Polaris Color Palettes
+ * MIT License github.com/heminsatya/polaris-polariss | © 2022 polarisui.com
+**/
+/* -------------------------------------------------- */
+/*                   Color Palettes                   */
+/* -------------------------------------------------- */
+/*
+* color
+*/
+/* Plugin Colors */
+.color-sky-blue, .color-sky-blue-hover:hover {
+  color: #31AAF6 !important;
+}
+.color-blue, .color-blue-hover:hover {
+  color: #4283F2 !important;
+}
+.color-indigo, .color-indigo-hover:hover {
+  color: #5174E0 !important;
+}
+.color-purple, .color-purple-hover:hover {
+  color: #C43BE4 !important;
+}
+.color-pink, .color-pink-hover:hover {
+  color: #FF2894 !important;
+}
+.color-rose, .color-rose-hover:hover {
+  color: #FF3175 !important;
+}
+.color-red, .color-red-hover:hover {
+  color: #F23838 !important;
+}
+.color-sunset, .color-sunset-hover:hover {
+  color: #F95141 !important;
+}
+.color-orange, .color-orange-hover:hover {
+  color: #D99135 !important;
+}
+.color-amber, .color-amber-hover:hover {
+  color: #FFC002 !important;
+}
+.color-yellow, .color-yellow-hover:hover {
+  color: #FCE116 !important;
+}
+.color-lime-green, .color-lime-green-hover:hover {
+  color: #66D514 !important;
+}
+.color-spring-green, .color-spring-green-hover:hover {
+  color: #3DB727 !important;
+}
+.color-green, .color-green-hover:hover {
+  color: #4AA843 !important;
+}
+.color-emerald, .color-emerald-hover:hover {
+  color: #39B663 !important;
+}
+.color-jade, .color-jade-hover:hover {
+  color: #00A86C !important;
+}
+.color-ocean-green, .color-ocean-green-hover:hover {
+  color: #04A882 !important;
+}
+.color-teal, .color-teal-hover:hover {
+  color: #149F90 !important;
+}
+.color-cyan, .color-cyan-hover:hover {
+  color: #12A4B0 !important;
+}
+.color-ocean-blue, .color-ocean-blue-hover:hover {
+  color: #008EBC !important;
+}
+.color-crystal-blue, .color-crystal-blue-hover:hover {
+  color: #3F96E0 !important;
+}
+.color-brown, .color-brown-hover:hover {
+  color: #926155 !important;
+}
+.color-blue-gray, .color-blue-gray-hover:hover {
+  color: #858D9F !important;
+}
+.color-cool-gray, .color-cool-gray-hover:hover {
+  color: #848E96 !important;
+}
+.color-normal-gray, .color-normal-gray-hover:hover {
+  color: #8E8E8E !important;
+}
+.color-warm-gray, .color-warm-gray-hover:hover {
+  color: #958E88 !important;
+}
+
+/* Color Palettes */
+.color-sky-blue-50, .color-sky-blue-50-hover:hover {
+  color: #F0FAFF !important;
+}
+.color-sky-blue-100, .color-sky-blue-100-hover:hover {
+  color: #E1F4FF !important;
+}
+.color-sky-blue-150, .color-sky-blue-150-hover:hover {
+  color: #CBEBFE !important;
+}
+.color-sky-blue-200, .color-sky-blue-200-hover:hover {
+  color: #B5E2FD !important;
+}
+.color-sky-blue-250, .color-sky-blue-250-hover:hover {
+  color: #9FD8FC !important;
+}
+.color-sky-blue-300, .color-sky-blue-300-hover:hover {
+  color: #89CFFB !important;
+}
+.color-sky-blue-350, .color-sky-blue-350-hover:hover {
+  color: #73C6F9 !important;
+}
+.color-sky-blue-400, .color-sky-blue-400-hover:hover {
+  color: #5DBDF8 !important;
+}
+.color-sky-blue-450, .color-sky-blue-450-hover:hover {
+  color: #47B3F7 !important;
+}
+.color-sky-blue-500, .color-sky-blue-500-hover:hover {
+  color: #31AAF6 !important;
+}
+.color-sky-blue-550, .color-sky-blue-550-hover:hover {
+  color: #2CA0EB !important;
+}
+.color-sky-blue-600, .color-sky-blue-600-hover:hover {
+  color: #2795E1 !important;
+}
+.color-sky-blue-650, .color-sky-blue-650-hover:hover {
+  color: #228BD6 !important;
+}
+.color-sky-blue-700, .color-sky-blue-700-hover:hover {
+  color: #1D80CB !important;
+}
+.color-sky-blue-750, .color-sky-blue-750-hover:hover {
+  color: #1776C0 !important;
+}
+.color-sky-blue-800, .color-sky-blue-800-hover:hover {
+  color: #126BB6 !important;
+}
+.color-sky-blue-850, .color-sky-blue-850-hover:hover {
+  color: #0D61AB !important;
+}
+.color-sky-blue-900, .color-sky-blue-900-hover:hover {
+  color: #0856A0 !important;
+}
+.color-sky-blue-950, .color-sky-blue-950-hover:hover {
+  color: #042B50 !important;
+}
+.color-blue-50, .color-blue-50-hover:hover {
+  color: #F1F6FE !important;
+}
+.color-blue-100, .color-blue-100-hover:hover {
+  color: #E3EDFC !important;
+}
+.color-blue-150, .color-blue-150-hover:hover {
+  color: #CFE0FB !important;
+}
+.color-blue-200, .color-blue-200-hover:hover {
+  color: #BBD3FA !important;
+}
+.color-blue-250, .color-blue-250-hover:hover {
+  color: #A7C5F8 !important;
+}
+.color-blue-300, .color-blue-300-hover:hover {
+  color: #93B8F7 !important;
+}
+.color-blue-350, .color-blue-350-hover:hover {
+  color: #7EABF6 !important;
+}
+.color-blue-400, .color-blue-400-hover:hover {
+  color: #6A9EF5 !important;
+}
+.color-blue-450, .color-blue-450-hover:hover {
+  color: #5690F3 !important;
+}
+.color-blue-500, .color-blue-500-hover:hover {
+  color: #4283F2 !important;
+}
+.color-blue-550, .color-blue-550-hover:hover {
+  color: #3B79E6 !important;
+}
+.color-blue-600, .color-blue-600-hover:hover {
+  color: #346FD9 !important;
+}
+.color-blue-650, .color-blue-650-hover:hover {
+  color: #2D65CD !important;
+}
+.color-blue-700, .color-blue-700-hover:hover {
+  color: #265BC1 !important;
+}
+.color-blue-750, .color-blue-750-hover:hover {
+  color: #1F50B4 !important;
+}
+.color-blue-800, .color-blue-800-hover:hover {
+  color: #1846A8 !important;
+}
+.color-blue-850, .color-blue-850-hover:hover {
+  color: #113C9B !important;
+}
+.color-blue-900, .color-blue-900-hover:hover {
+  color: #0A328F !important;
+}
+.color-blue-950, .color-blue-950-hover:hover {
+  color: #051948 !important;
+}
+.color-indigo-50, .color-indigo-50-hover:hover {
+  color: #F2F5FD !important;
+}
+.color-indigo-100, .color-indigo-100-hover:hover {
+  color: #E4EAFA !important;
+}
+.color-indigo-150, .color-indigo-150-hover:hover {
+  color: #D2DBF7 !important;
+}
+.color-indigo-200, .color-indigo-200-hover:hover {
+  color: #BFCDF4 !important;
+}
+.color-indigo-250, .color-indigo-250-hover:hover {
+  color: #ADBEF0 !important;
+}
+.color-indigo-300, .color-indigo-300-hover:hover {
+  color: #9BAFED !important;
+}
+.color-indigo-350, .color-indigo-350-hover:hover {
+  color: #88A0EA !important;
+}
+.color-indigo-400, .color-indigo-400-hover:hover {
+  color: #7692E7 !important;
+}
+.color-indigo-450, .color-indigo-450-hover:hover {
+  color: #6383E3 !important;
+}
+.color-indigo-500, .color-indigo-500-hover:hover {
+  color: #5174E0 !important;
+}
+.color-indigo-550, .color-indigo-550-hover:hover {
+  color: #4A6BD5 !important;
+}
+.color-indigo-600, .color-indigo-600-hover:hover {
+  color: #4362C9 !important;
+}
+.color-indigo-650, .color-indigo-650-hover:hover {
+  color: #3B58BE !important;
+}
+.color-indigo-700, .color-indigo-700-hover:hover {
+  color: #344FB2 !important;
+}
+.color-indigo-750, .color-indigo-750-hover:hover {
+  color: #2D46A7 !important;
+}
+.color-indigo-800, .color-indigo-800-hover:hover {
+  color: #263D9B !important;
+}
+.color-indigo-850, .color-indigo-850-hover:hover {
+  color: #1E3390 !important;
+}
+.color-indigo-900, .color-indigo-900-hover:hover {
+  color: #172A84 !important;
+}
+.color-indigo-950, .color-indigo-950-hover:hover {
+  color: #0C1542 !important;
+}
+.color-purple-50, .color-purple-50-hover:hover {
+  color: #FBF2FD !important;
+}
+.color-purple-100, .color-purple-100-hover:hover {
+  color: #F7E4FB !important;
+}
+.color-purple-150, .color-purple-150-hover:hover {
+  color: #F1CFF8 !important;
+}
+.color-purple-200, .color-purple-200-hover:hover {
+  color: #EABAF5 !important;
+}
+.color-purple-250, .color-purple-250-hover:hover {
+  color: #E4A5F2 !important;
+}
+.color-purple-300, .color-purple-300-hover:hover {
+  color: #DE90F0 !important;
+}
+.color-purple-350, .color-purple-350-hover:hover {
+  color: #D77AED !important;
+}
+.color-purple-400, .color-purple-400-hover:hover {
+  color: #D165EA !important;
+}
+.color-purple-450, .color-purple-450-hover:hover {
+  color: #CA50E7 !important;
+}
+.color-purple-500, .color-purple-500-hover:hover {
+  color: #C43BE4 !important;
+}
+.color-purple-550, .color-purple-550-hover:hover {
+  color: #B636D7 !important;
+}
+.color-purple-600, .color-purple-600-hover:hover {
+  color: #A930CA !important;
+}
+.color-purple-650, .color-purple-650-hover:hover {
+  color: #9B2BBC !important;
+}
+.color-purple-700, .color-purple-700-hover:hover {
+  color: #8D26AF !important;
+}
+.color-purple-750, .color-purple-750-hover:hover {
+  color: #7F20A2 !important;
+}
+.color-purple-800, .color-purple-800-hover:hover {
+  color: #721B95 !important;
+}
+.color-purple-850, .color-purple-850-hover:hover {
+  color: #641587 !important;
+}
+.color-purple-900, .color-purple-900-hover:hover {
+  color: #56107A !important;
+}
+.color-purple-950, .color-purple-950-hover:hover {
+  color: #2B083D !important;
+}
+.color-pink-50, .color-pink-50-hover:hover {
+  color: #FFF1F8 !important;
+}
+.color-pink-100, .color-pink-100-hover:hover {
+  color: #FFE2F0 !important;
+}
+.color-pink-150, .color-pink-150-hover:hover {
+  color: #FFCBE5 !important;
+}
+.color-pink-200, .color-pink-200-hover:hover {
+  color: #FFB4D9 !important;
+}
+.color-pink-250, .color-pink-250-hover:hover {
+  color: #FF9CCE !important;
+}
+.color-pink-300, .color-pink-300-hover:hover {
+  color: #FF85C2 !important;
+}
+.color-pink-350, .color-pink-350-hover:hover {
+  color: #FF6EB7 !important;
+}
+.color-pink-400, .color-pink-400-hover:hover {
+  color: #FF57AB !important;
+}
+.color-pink-450, .color-pink-450-hover:hover {
+  color: #FF3FA0 !important;
+}
+.color-pink-500, .color-pink-500-hover:hover {
+  color: #FF2894 !important;
+}
+.color-pink-550, .color-pink-550-hover:hover {
+  color: #EF238B !important;
+}
+.color-pink-600, .color-pink-600-hover:hover {
+  color: #DF1E82 !important;
+}
+.color-pink-650, .color-pink-650-hover:hover {
+  color: #CF1978 !important;
+}
+.color-pink-700, .color-pink-700-hover:hover {
+  color: #C0146F !important;
+}
+.color-pink-750, .color-pink-750-hover:hover {
+  color: #B00F66 !important;
+}
+.color-pink-800, .color-pink-800-hover:hover {
+  color: #A00A5D !important;
+}
+.color-pink-850, .color-pink-850-hover:hover {
+  color: #900553 !important;
+}
+.color-pink-900, .color-pink-900-hover:hover {
+  color: #80004A !important;
+}
+.color-pink-950, .color-pink-950-hover:hover {
+  color: #400025 !important;
+}
+.color-rose-50, .color-rose-50-hover:hover {
+  color: #FFF1F5 !important;
+}
+.color-rose-100, .color-rose-100-hover:hover {
+  color: #FFE3EB !important;
+}
+.color-rose-150, .color-rose-150-hover:hover {
+  color: #FFCDDC !important;
+}
+.color-rose-200, .color-rose-200-hover:hover {
+  color: #FFB7CE !important;
+}
+.color-rose-250, .color-rose-250-hover:hover {
+  color: #FFA0BF !important;
+}
+.color-rose-300, .color-rose-300-hover:hover {
+  color: #FF8AB0 !important;
+}
+.color-rose-350, .color-rose-350-hover:hover {
+  color: #FF74A1 !important;
+}
+.color-rose-400, .color-rose-400-hover:hover {
+  color: #FF5E93 !important;
+}
+.color-rose-450, .color-rose-450-hover:hover {
+  color: #FF4784 !important;
+}
+.color-rose-500, .color-rose-500-hover:hover {
+  color: #FF3175 !important;
+}
+.color-rose-550, .color-rose-550-hover:hover {
+  color: #F02B6D !important;
+}
+.color-rose-600, .color-rose-600-hover:hover {
+  color: #E12566 !important;
+}
+.color-rose-650, .color-rose-650-hover:hover {
+  color: #D11F5E !important;
+}
+.color-rose-700, .color-rose-700-hover:hover {
+  color: #C21956 !important;
+}
+.color-rose-750, .color-rose-750-hover:hover {
+  color: #B3124E !important;
+}
+.color-rose-800, .color-rose-800-hover:hover {
+  color: #A40C47 !important;
+}
+.color-rose-850, .color-rose-850-hover:hover {
+  color: #94063F !important;
+}
+.color-rose-900, .color-rose-900-hover:hover {
+  color: #850037 !important;
+}
+.color-rose-950, .color-rose-950-hover:hover {
+  color: #43001C !important;
+}
+.color-red-50, .color-red-50-hover:hover {
+  color: #FFF0F0 !important;
+}
+.color-red-100, .color-red-100-hover:hover {
+  color: #FEE1E0 !important;
+}
+.color-red-150, .color-red-150-hover:hover {
+  color: #FDCCCB !important;
+}
+.color-red-200, .color-red-200-hover:hover {
+  color: #FBB7B6 !important;
+}
+.color-red-250, .color-red-250-hover:hover {
+  color: #FAA2A1 !important;
+}
+.color-red-300, .color-red-300-hover:hover {
+  color: #F88D8C !important;
+}
+.color-red-350, .color-red-350-hover:hover {
+  color: #F77777 !important;
+}
+.color-red-400, .color-red-400-hover:hover {
+  color: #F56262 !important;
+}
+.color-red-450, .color-red-450-hover:hover {
+  color: #F44D4D !important;
+}
+.color-red-500, .color-red-500-hover:hover {
+  color: #F23838 !important;
+}
+.color-red-550, .color-red-550-hover:hover {
+  color: #E43232 !important;
+}
+.color-red-600, .color-red-600-hover:hover {
+  color: #D62B2C !important;
+}
+.color-red-650, .color-red-650-hover:hover {
+  color: #C82526 !important;
+}
+.color-red-700, .color-red-700-hover:hover {
+  color: #BA1E21 !important;
+}
+.color-red-750, .color-red-750-hover:hover {
+  color: #AB181B !important;
+}
+.color-red-800, .color-red-800-hover:hover {
+  color: #9D1115 !important;
+}
+.color-red-850, .color-red-850-hover:hover {
+  color: #8F0B0F !important;
+}
+.color-red-900, .color-red-900-hover:hover {
+  color: #810409 !important;
+}
+.color-red-950, .color-red-950-hover:hover {
+  color: #410205 !important;
+}
+.color-sunset-50, .color-sunset-50-hover:hover {
+  color: #FFF4F3 !important;
+}
+.color-sunset-100, .color-sunset-100-hover:hover {
+  color: #FFE8E7 !important;
+}
+.color-sunset-150, .color-sunset-150-hover:hover {
+  color: #FED5D2 !important;
+}
+.color-sunset-200, .color-sunset-200-hover:hover {
+  color: #FEC2BE !important;
+}
+.color-sunset-250, .color-sunset-250-hover:hover {
+  color: #FDAFA9 !important;
+}
+.color-sunset-300, .color-sunset-300-hover:hover {
+  color: #FC9D94 !important;
+}
+.color-sunset-350, .color-sunset-350-hover:hover {
+  color: #FB8A7F !important;
+}
+.color-sunset-400, .color-sunset-400-hover:hover {
+  color: #FB776B !important;
+}
+.color-sunset-450, .color-sunset-450-hover:hover {
+  color: #FA6456 !important;
+}
+.color-sunset-500, .color-sunset-500-hover:hover {
+  color: #F95141 !important;
+}
+.color-sunset-550, .color-sunset-550-hover:hover {
+  color: #EF483A !important;
+}
+.color-sunset-600, .color-sunset-600-hover:hover {
+  color: #E53F32 !important;
+}
+.color-sunset-650, .color-sunset-650-hover:hover {
+  color: #DA352B !important;
+}
+.color-sunset-700, .color-sunset-700-hover:hover {
+  color: #D02C23 !important;
+}
+.color-sunset-750, .color-sunset-750-hover:hover {
+  color: #C6231C !important;
+}
+.color-sunset-800, .color-sunset-800-hover:hover {
+  color: #BC1A14 !important;
+}
+.color-sunset-850, .color-sunset-850-hover:hover {
+  color: #B1100D !important;
+}
+.color-sunset-900, .color-sunset-900-hover:hover {
+  color: #A70705 !important;
+}
+.color-sunset-950, .color-sunset-950-hover:hover {
+  color: #540403 !important;
+}
+.color-orange-50, .color-orange-50-hover:hover {
+  color: #FDF9F3 !important;
+}
+.color-orange-100, .color-orange-100-hover:hover {
+  color: #FAF2E7 !important;
+}
+.color-orange-150, .color-orange-150-hover:hover {
+  color: #F6E6D1 !important;
+}
+.color-orange-200, .color-orange-200-hover:hover {
+  color: #F2DABB !important;
+}
+.color-orange-250, .color-orange-250-hover:hover {
+  color: #EECEA4 !important;
+}
+.color-orange-300, .color-orange-300-hover:hover {
+  color: #EAC28E !important;
+}
+.color-orange-350, .color-orange-350-hover:hover {
+  color: #E5B578 !important;
+}
+.color-orange-400, .color-orange-400-hover:hover {
+  color: #E1A962 !important;
+}
+.color-orange-450, .color-orange-450-hover:hover {
+  color: #DD9D4B !important;
+}
+.color-orange-500, .color-orange-500-hover:hover {
+  color: #D99135 !important;
+}
+.color-orange-550, .color-orange-550-hover:hover {
+  color: #CC8831 !important;
+}
+.color-orange-600, .color-orange-600-hover:hover {
+  color: #C07E2D !important;
+}
+.color-orange-650, .color-orange-650-hover:hover {
+  color: #B37529 !important;
+}
+.color-orange-700, .color-orange-700-hover:hover {
+  color: #A76B26 !important;
+}
+.color-orange-750, .color-orange-750-hover:hover {
+  color: #9A6222 !important;
+}
+.color-orange-800, .color-orange-800-hover:hover {
+  color: #8D581E !important;
+}
+.color-orange-850, .color-orange-850-hover:hover {
+  color: #814F1A !important;
+}
+.color-orange-900, .color-orange-900-hover:hover {
+  color: #744516 !important;
+}
+.color-orange-950, .color-orange-950-hover:hover {
+  color: #3A230B !important;
+}
+.color-amber-50, .color-amber-50-hover:hover {
+  color: #FFFCF1 !important;
+}
+.color-amber-100, .color-amber-100-hover:hover {
+  color: #FFF9E2 !important;
+}
+.color-amber-150, .color-amber-150-hover:hover {
+  color: #FFF2C6 !important;
+}
+.color-amber-200, .color-amber-200-hover:hover {
+  color: #FFEBAA !important;
+}
+.color-amber-250, .color-amber-250-hover:hover {
+  color: #FFE48E !important;
+}
+.color-amber-300, .color-amber-300-hover:hover {
+  color: #FFDD72 !important;
+}
+.color-amber-350, .color-amber-350-hover:hover {
+  color: #FFD556 !important;
+}
+.color-amber-400, .color-amber-400-hover:hover {
+  color: #FFCE3A !important;
+}
+.color-amber-450, .color-amber-450-hover:hover {
+  color: #FFC71E !important;
+}
+.color-amber-500, .color-amber-500-hover:hover {
+  color: #FFC002 !important;
+}
+.color-amber-550, .color-amber-550-hover:hover {
+  color: #F1B402 !important;
+}
+.color-amber-600, .color-amber-600-hover:hover {
+  color: #E3A802 !important;
+}
+.color-amber-650, .color-amber-650-hover:hover {
+  color: #D59C01 !important;
+}
+.color-amber-700, .color-amber-700-hover:hover {
+  color: #C79001 !important;
+}
+.color-amber-750, .color-amber-750-hover:hover {
+  color: #B88301 !important;
+}
+.color-amber-800, .color-amber-800-hover:hover {
+  color: #AA7701 !important;
+}
+.color-amber-850, .color-amber-850-hover:hover {
+  color: #9C6B00 !important;
+}
+.color-amber-900, .color-amber-900-hover:hover {
+  color: #8E5F00 !important;
+}
+.color-amber-950, .color-amber-950-hover:hover {
+  color: #473000 !important;
+}
+.color-yellow-50, .color-yellow-50-hover:hover {
+  color: #FFFEEC !important;
+}
+.color-yellow-100, .color-yellow-100-hover:hover {
+  color: #FFFCD9 !important;
+}
+.color-yellow-150, .color-yellow-150-hover:hover {
+  color: #FFF9C1 !important;
+}
+.color-yellow-200, .color-yellow-200-hover:hover {
+  color: #FEF5A8 !important;
+}
+.color-yellow-250, .color-yellow-250-hover:hover {
+  color: #FEF290 !important;
+}
+.color-yellow-300, .color-yellow-300-hover:hover {
+  color: #FEEF78 !important;
+}
+.color-yellow-350, .color-yellow-350-hover:hover {
+  color: #FDEB5F !important;
+}
+.color-yellow-400, .color-yellow-400-hover:hover {
+  color: #FDE847 !important;
+}
+.color-yellow-450, .color-yellow-450-hover:hover {
+  color: #FCE42E !important;
+}
+.color-yellow-500, .color-yellow-500-hover:hover {
+  color: #FCE116 !important;
+}
+.color-yellow-550, .color-yellow-550-hover:hover {
+  color: #EFD414 !important;
+}
+.color-yellow-600, .color-yellow-600-hover:hover {
+  color: #E2C611 !important;
+}
+.color-yellow-650, .color-yellow-650-hover:hover {
+  color: #D5B90F !important;
+}
+.color-yellow-700, .color-yellow-700-hover:hover {
+  color: #C9AB0D !important;
+}
+.color-yellow-750, .color-yellow-750-hover:hover {
+  color: #BC9E0A !important;
+}
+.color-yellow-800, .color-yellow-800-hover:hover {
+  color: #AF9008 !important;
+}
+.color-yellow-850, .color-yellow-850-hover:hover {
+  color: #A28305 !important;
+}
+.color-yellow-900, .color-yellow-900-hover:hover {
+  color: #957503 !important;
+}
+.color-yellow-950, .color-yellow-950-hover:hover {
+  color: #4B3B02 !important;
+}
+.color-lime-green-50, .color-lime-green-50-hover:hover {
+  color: #F6FDEF !important;
+}
+.color-lime-green-100, .color-lime-green-100-hover:hover {
+  color: #ECFBDF !important;
+}
+.color-lime-green-150, .color-lime-green-150-hover:hover {
+  color: #DBF6C6 !important;
+}
+.color-lime-green-200, .color-lime-green-200-hover:hover {
+  color: #CBF2AC !important;
+}
+.color-lime-green-250, .color-lime-green-250-hover:hover {
+  color: #BAED93 !important;
+}
+.color-lime-green-300, .color-lime-green-300-hover:hover {
+  color: #A9E87A !important;
+}
+.color-lime-green-350, .color-lime-green-350-hover:hover {
+  color: #98E360 !important;
+}
+.color-lime-green-400, .color-lime-green-400-hover:hover {
+  color: #88DF47 !important;
+}
+.color-lime-green-450, .color-lime-green-450-hover:hover {
+  color: #77DA2D !important;
+}
+.color-lime-green-500, .color-lime-green-500-hover:hover {
+  color: #66D514 !important;
+}
+.color-lime-green-550, .color-lime-green-550-hover:hover {
+  color: #5FC813 !important;
+}
+.color-lime-green-600, .color-lime-green-600-hover:hover {
+  color: #58BC12 !important;
+}
+.color-lime-green-650, .color-lime-green-650-hover:hover {
+  color: #50AF11 !important;
+}
+.color-lime-green-700, .color-lime-green-700-hover:hover {
+  color: #49A210 !important;
+}
+.color-lime-green-750, .color-lime-green-750-hover:hover {
+  color: #42950E !important;
+}
+.color-lime-green-800, .color-lime-green-800-hover:hover {
+  color: #3B890D !important;
+}
+.color-lime-green-850, .color-lime-green-850-hover:hover {
+  color: #337C0C !important;
+}
+.color-lime-green-900, .color-lime-green-900-hover:hover {
+  color: #2C6F0B !important;
+}
+.color-lime-green-950, .color-lime-green-950-hover:hover {
+  color: #163806 !important;
+}
+.color-spring-green-50, .color-spring-green-50-hover:hover {
+  color: #F2FCEF !important;
+}
+.color-spring-green-100, .color-spring-green-100-hover:hover {
+  color: #E4F8DF !important;
+}
+.color-spring-green-150, .color-spring-green-150-hover:hover {
+  color: #CFF0C8 !important;
+}
+.color-spring-green-200, .color-spring-green-200-hover:hover {
+  color: #BAE8B1 !important;
+}
+.color-spring-green-250, .color-spring-green-250-hover:hover {
+  color: #A5E09A !important;
+}
+.color-spring-green-300, .color-spring-green-300-hover:hover {
+  color: #91D883 !important;
+}
+.color-spring-green-350, .color-spring-green-350-hover:hover {
+  color: #7CCF6C !important;
+}
+.color-spring-green-400, .color-spring-green-400-hover:hover {
+  color: #67C755 !important;
+}
+.color-spring-green-450, .color-spring-green-450-hover:hover {
+  color: #52BF3E !important;
+}
+.color-spring-green-500, .color-spring-green-500-hover:hover {
+  color: #3DB727 !important;
+}
+.color-spring-green-550, .color-spring-green-550-hover:hover {
+  color: #39AD25 !important;
+}
+.color-spring-green-600, .color-spring-green-600-hover:hover {
+  color: #34A223 !important;
+}
+.color-spring-green-650, .color-spring-green-650-hover:hover {
+  color: #309820 !important;
+}
+.color-spring-green-700, .color-spring-green-700-hover:hover {
+  color: #2C8D1E !important;
+}
+.color-spring-green-750, .color-spring-green-750-hover:hover {
+  color: #27831C !important;
+}
+.color-spring-green-800, .color-spring-green-800-hover:hover {
+  color: #23781A !important;
+}
+.color-spring-green-850, .color-spring-green-850-hover:hover {
+  color: #1E6E17 !important;
+}
+.color-spring-green-900, .color-spring-green-900-hover:hover {
+  color: #1A6315 !important;
+}
+.color-spring-green-950, .color-spring-green-950-hover:hover {
+  color: #0D320B !important;
+}
+.color-green-50, .color-green-50-hover:hover {
+  color: #F3FAF3 !important;
+}
+.color-green-100, .color-green-100-hover:hover {
+  color: #E7F5E6 !important;
+}
+.color-green-150, .color-green-150-hover:hover {
+  color: #D3EBD2 !important;
+}
+.color-green-200, .color-green-200-hover:hover {
+  color: #C0E2BD !important;
+}
+.color-green-250, .color-green-250-hover:hover {
+  color: #ACD8A9 !important;
+}
+.color-green-300, .color-green-300-hover:hover {
+  color: #99CF95 !important;
+}
+.color-green-350, .color-green-350-hover:hover {
+  color: #85C580 !important;
+}
+.color-green-400, .color-green-400-hover:hover {
+  color: #71BB6C !important;
+}
+.color-green-450, .color-green-450-hover:hover {
+  color: #5EB257 !important;
+}
+.color-green-500, .color-green-500-hover:hover {
+  color: #4AA843 !important;
+}
+.color-green-550, .color-green-550-hover:hover {
+  color: #459D3F !important;
+}
+.color-green-600, .color-green-600-hover:hover {
+  color: #40933B !important;
+}
+.color-green-650, .color-green-650-hover:hover {
+  color: #3B8837 !important;
+}
+.color-green-700, .color-green-700-hover:hover {
+  color: #367E33 !important;
+}
+.color-green-750, .color-green-750-hover:hover {
+  color: #31732E !important;
+}
+.color-green-800, .color-green-800-hover:hover {
+  color: #2C682A !important;
+}
+.color-green-850, .color-green-850-hover:hover {
+  color: #275E26 !important;
+}
+.color-green-900, .color-green-900-hover:hover {
+  color: #225322 !important;
+}
+.color-green-950, .color-green-950-hover:hover {
+  color: #112A11 !important;
+}
+.color-emerald-50, .color-emerald-50-hover:hover {
+  color: #F3FCF6 !important;
+}
+.color-emerald-100, .color-emerald-100-hover:hover {
+  color: #E7F8EC !important;
+}
+.color-emerald-150, .color-emerald-150-hover:hover {
+  color: #D1F0DB !important;
+}
+.color-emerald-200, .color-emerald-200-hover:hover {
+  color: #BCE8CA !important;
+}
+.color-emerald-250, .color-emerald-250-hover:hover {
+  color: #A6DFB9 !important;
+}
+.color-emerald-300, .color-emerald-300-hover:hover {
+  color: #90D7A8 !important;
+}
+.color-emerald-350, .color-emerald-350-hover:hover {
+  color: #7ACF96 !important;
+}
+.color-emerald-400, .color-emerald-400-hover:hover {
+  color: #65C785 !important;
+}
+.color-emerald-450, .color-emerald-450-hover:hover {
+  color: #4FBE74 !important;
+}
+.color-emerald-500, .color-emerald-500-hover:hover {
+  color: #39B663 !important;
+}
+.color-emerald-550, .color-emerald-550-hover:hover {
+  color: #36AB5E !important;
+}
+.color-emerald-600, .color-emerald-600-hover:hover {
+  color: #33A159 !important;
+}
+.color-emerald-650, .color-emerald-650-hover:hover {
+  color: #2F9654 !important;
+}
+.color-emerald-700, .color-emerald-700-hover:hover {
+  color: #2C8B4F !important;
+}
+.color-emerald-750, .color-emerald-750-hover:hover {
+  color: #29804A !important;
+}
+.color-emerald-800, .color-emerald-800-hover:hover {
+  color: #267645 !important;
+}
+.color-emerald-850, .color-emerald-850-hover:hover {
+  color: #226B40 !important;
+}
+.color-emerald-900, .color-emerald-900-hover:hover {
+  color: #1F603B !important;
+}
+.color-emerald-950, .color-emerald-950-hover:hover {
+  color: #10301E !important;
+}
+.color-jade-50, .color-jade-50-hover:hover {
+  color: #D4FEF1 !important;
+}
+.color-jade-100, .color-jade-100-hover:hover {
+  color: #A9FCE3 !important;
+}
+.color-jade-150, .color-jade-150-hover:hover {
+  color: #94F2D4 !important;
+}
+.color-jade-200, .color-jade-200-hover:hover {
+  color: #7FE7C5 !important;
+}
+.color-jade-250, .color-jade-250-hover:hover {
+  color: #6ADDB6 !important;
+}
+.color-jade-300, .color-jade-300-hover:hover {
+  color: #55D2A8 !important;
+}
+.color-jade-350, .color-jade-350-hover:hover {
+  color: #3FC899 !important;
+}
+.color-jade-400, .color-jade-400-hover:hover {
+  color: #2ABD8A !important;
+}
+.color-jade-450, .color-jade-450-hover:hover {
+  color: #15B37B !important;
+}
+.color-jade-500, .color-jade-500-hover:hover {
+  color: #00A86C !important;
+}
+.color-jade-550, .color-jade-550-hover:hover {
+  color: #009D65 !important;
+}
+.color-jade-600, .color-jade-600-hover:hover {
+  color: #00935D !important;
+}
+.color-jade-650, .color-jade-650-hover:hover {
+  color: #008856 !important;
+}
+.color-jade-700, .color-jade-700-hover:hover {
+  color: #007D4E !important;
+}
+.color-jade-750, .color-jade-750-hover:hover {
+  color: #007247 !important;
+}
+.color-jade-800, .color-jade-800-hover:hover {
+  color: #00683F !important;
+}
+.color-jade-850, .color-jade-850-hover:hover {
+  color: #005D38 !important;
+}
+.color-jade-900, .color-jade-900-hover:hover {
+  color: #005230 !important;
+}
+.color-jade-950, .color-jade-950-hover:hover {
+  color: #002918 !important;
+}
+.color-ocean-green-50, .color-ocean-green-50-hover:hover {
+  color: #CBFEF4 !important;
+}
+.color-ocean-green-100, .color-ocean-green-100-hover:hover {
+  color: #97FDE8 !important;
+}
+.color-ocean-green-150, .color-ocean-green-150-hover:hover {
+  color: #85F2DB !important;
+}
+.color-ocean-green-200, .color-ocean-green-200-hover:hover {
+  color: #72E8CF !important;
+}
+.color-ocean-green-250, .color-ocean-green-250-hover:hover {
+  color: #60DDC2 !important;
+}
+.color-ocean-green-300, .color-ocean-green-300-hover:hover {
+  color: #4ED3B5 !important;
+}
+.color-ocean-green-350, .color-ocean-green-350-hover:hover {
+  color: #3BC8A8 !important;
+}
+.color-ocean-green-400, .color-ocean-green-400-hover:hover {
+  color: #29BD9C !important;
+}
+.color-ocean-green-450, .color-ocean-green-450-hover:hover {
+  color: #16B38F !important;
+}
+.color-ocean-green-500, .color-ocean-green-500-hover:hover {
+  color: #04A882 !important;
+}
+.color-ocean-green-550, .color-ocean-green-550-hover:hover {
+  color: #049D79 !important;
+}
+.color-ocean-green-600, .color-ocean-green-600-hover:hover {
+  color: #049370 !important;
+}
+.color-ocean-green-650, .color-ocean-green-650-hover:hover {
+  color: #038867 !important;
+}
+.color-ocean-green-700, .color-ocean-green-700-hover:hover {
+  color: #037D5E !important;
+}
+.color-ocean-green-750, .color-ocean-green-750-hover:hover {
+  color: #037255 !important;
+}
+.color-ocean-green-800, .color-ocean-green-800-hover:hover {
+  color: #03684C !important;
+}
+.color-ocean-green-850, .color-ocean-green-850-hover:hover {
+  color: #025D43 !important;
+}
+.color-ocean-green-900, .color-ocean-green-900-hover:hover {
+  color: #02523A !important;
+}
+.color-ocean-green-950, .color-ocean-green-950-hover:hover {
+  color: #01291D !important;
+}
+.color-teal-50, .color-teal-50-hover:hover {
+  color: #D7FBF6 !important;
+}
+.color-teal-100, .color-teal-100-hover:hover {
+  color: #AEF6ED !important;
+}
+.color-teal-150, .color-teal-150-hover:hover {
+  color: #9BEBE1 !important;
+}
+.color-teal-200, .color-teal-200-hover:hover {
+  color: #88E0D6 !important;
+}
+.color-teal-250, .color-teal-250-hover:hover {
+  color: #74D5CA !important;
+}
+.color-teal-300, .color-teal-300-hover:hover {
+  color: #61CBBF !important;
+}
+.color-teal-350, .color-teal-350-hover:hover {
+  color: #4EC0B3 !important;
+}
+.color-teal-400, .color-teal-400-hover:hover {
+  color: #3BB5A7 !important;
+}
+.color-teal-450, .color-teal-450-hover:hover {
+  color: #27AA9C !important;
+}
+.color-teal-500, .color-teal-500-hover:hover {
+  color: #149F90 !important;
+}
+.color-teal-550, .color-teal-550-hover:hover {
+  color: #139487 !important;
+}
+.color-teal-600, .color-teal-600-hover:hover {
+  color: #11897D !important;
+}
+.color-teal-650, .color-teal-650-hover:hover {
+  color: #107E74 !important;
+}
+.color-teal-700, .color-teal-700-hover:hover {
+  color: #0E746B !important;
+}
+.color-teal-750, .color-teal-750-hover:hover {
+  color: #0D6961 !important;
+}
+.color-teal-800, .color-teal-800-hover:hover {
+  color: #0B5E58 !important;
+}
+.color-teal-850, .color-teal-850-hover:hover {
+  color: #0A534E !important;
+}
+.color-teal-900, .color-teal-900-hover:hover {
+  color: #084845 !important;
+}
+.color-teal-950, .color-teal-950-hover:hover {
+  color: #042423 !important;
+}
+.color-cyan-50, .color-cyan-50-hover:hover {
+  color: #DEFCFD !important;
+}
+.color-cyan-100, .color-cyan-100-hover:hover {
+  color: #BCF9FA !important;
+}
+.color-cyan-150, .color-cyan-150-hover:hover {
+  color: #A7EEF1 !important;
+}
+.color-cyan-200, .color-cyan-200-hover:hover {
+  color: #92E4E8 !important;
+}
+.color-cyan-250, .color-cyan-250-hover:hover {
+  color: #7CD9DE !important;
+}
+.color-cyan-300, .color-cyan-300-hover:hover {
+  color: #67CFD5 !important;
+}
+.color-cyan-350, .color-cyan-350-hover:hover {
+  color: #52C4CC !important;
+}
+.color-cyan-400, .color-cyan-400-hover:hover {
+  color: #3DB9C3 !important;
+}
+.color-cyan-450, .color-cyan-450-hover:hover {
+  color: #27AFB9 !important;
+}
+.color-cyan-500, .color-cyan-500-hover:hover {
+  color: #12A4B0 !important;
+}
+.color-cyan-550, .color-cyan-550-hover:hover {
+  color: #119AA6 !important;
+}
+.color-cyan-600, .color-cyan-600-hover:hover {
+  color: #108F9B !important;
+}
+.color-cyan-650, .color-cyan-650-hover:hover {
+  color: #0F8591 !important;
+}
+.color-cyan-700, .color-cyan-700-hover:hover {
+  color: #0E7A87 !important;
+}
+.color-cyan-750, .color-cyan-750-hover:hover {
+  color: #0D707C !important;
+}
+.color-cyan-800, .color-cyan-800-hover:hover {
+  color: #0C6572 !important;
+}
+.color-cyan-850, .color-cyan-850-hover:hover {
+  color: #0B5B67 !important;
+}
+.color-cyan-900, .color-cyan-900-hover:hover {
+  color: #0A505D !important;
+}
+.color-cyan-950, .color-cyan-950-hover:hover {
+  color: #05282F !important;
+}
+.color-ocean-blue-50, .color-ocean-blue-50-hover:hover {
+  color: #E4F8FD !important;
+}
+.color-ocean-blue-100, .color-ocean-blue-100-hover:hover {
+  color: #C9F0FB !important;
+}
+.color-ocean-blue-150, .color-ocean-blue-150-hover:hover {
+  color: #B0E4F3 !important;
+}
+.color-ocean-blue-200, .color-ocean-blue-200-hover:hover {
+  color: #97D8EB !important;
+}
+.color-ocean-blue-250, .color-ocean-blue-250-hover:hover {
+  color: #7ECBE3 !important;
+}
+.color-ocean-blue-300, .color-ocean-blue-300-hover:hover {
+  color: #65BFDC !important;
+}
+.color-ocean-blue-350, .color-ocean-blue-350-hover:hover {
+  color: #4BB3D4 !important;
+}
+.color-ocean-blue-400, .color-ocean-blue-400-hover:hover {
+  color: #32A7CC !important;
+}
+.color-ocean-blue-450, .color-ocean-blue-450-hover:hover {
+  color: #199AC4 !important;
+}
+.color-ocean-blue-500, .color-ocean-blue-500-hover:hover {
+  color: #008EBC !important;
+}
+.color-ocean-blue-550, .color-ocean-blue-550-hover:hover {
+  color: #0083AF !important;
+}
+.color-ocean-blue-600, .color-ocean-blue-600-hover:hover {
+  color: #0079A2 !important;
+}
+.color-ocean-blue-650, .color-ocean-blue-650-hover:hover {
+  color: #006E95 !important;
+}
+.color-ocean-blue-700, .color-ocean-blue-700-hover:hover {
+  color: #006488 !important;
+}
+.color-ocean-blue-750, .color-ocean-blue-750-hover:hover {
+  color: #00597B !important;
+}
+.color-ocean-blue-800, .color-ocean-blue-800-hover:hover {
+  color: #004E6E !important;
+}
+.color-ocean-blue-850, .color-ocean-blue-850-hover:hover {
+  color: #004461 !important;
+}
+.color-ocean-blue-900, .color-ocean-blue-900-hover:hover {
+  color: #003954 !important;
+}
+.color-ocean-blue-950, .color-ocean-blue-950-hover:hover {
+  color: #001D2A !important;
+}
+.color-crystal-blue-50, .color-crystal-blue-50-hover:hover {
+  color: #EFF7FD !important;
+}
+.color-crystal-blue-100, .color-crystal-blue-100-hover:hover {
+  color: #DFEFFB !important;
+}
+.color-crystal-blue-150, .color-crystal-blue-150-hover:hover {
+  color: #CBE4F8 !important;
+}
+.color-crystal-blue-200, .color-crystal-blue-200-hover:hover {
+  color: #B7D9F4 !important;
+}
+.color-crystal-blue-250, .color-crystal-blue-250-hover:hover {
+  color: #A3CEF1 !important;
+}
+.color-crystal-blue-300, .color-crystal-blue-300-hover:hover {
+  color: #8FC3EE !important;
+}
+.color-crystal-blue-350, .color-crystal-blue-350-hover:hover {
+  color: #7BB7EA !important;
+}
+.color-crystal-blue-400, .color-crystal-blue-400-hover:hover {
+  color: #67ACE7 !important;
+}
+.color-crystal-blue-450, .color-crystal-blue-450-hover:hover {
+  color: #53A1E3 !important;
+}
+.color-crystal-blue-500, .color-crystal-blue-500-hover:hover {
+  color: #3F96E0 !important;
+}
+.color-crystal-blue-550, .color-crystal-blue-550-hover:hover {
+  color: #3A8CD3 !important;
+}
+.color-crystal-blue-600, .color-crystal-blue-600-hover:hover {
+  color: #3481C7 !important;
+}
+.color-crystal-blue-650, .color-crystal-blue-650-hover:hover {
+  color: #2F77BA !important;
+}
+.color-crystal-blue-700, .color-crystal-blue-700-hover:hover {
+  color: #296DAD !important;
+}
+.color-crystal-blue-750, .color-crystal-blue-750-hover:hover {
+  color: #2462A0 !important;
+}
+.color-crystal-blue-800, .color-crystal-blue-800-hover:hover {
+  color: #1E5894 !important;
+}
+.color-crystal-blue-850, .color-crystal-blue-850-hover:hover {
+  color: #194D87 !important;
+}
+.color-crystal-blue-900, .color-crystal-blue-900-hover:hover {
+  color: #13437A !important;
+}
+.color-crystal-blue-950, .color-crystal-blue-950-hover:hover {
+  color: #0A223D !important;
+}
+.color-brown-50, .color-brown-50-hover:hover {
+  color: #F7F2F1 !important;
+}
+.color-brown-100, .color-brown-100-hover:hover {
+  color: #EEE4E2 !important;
+}
+.color-brown-150, .color-brown-150-hover:hover {
+  color: #E3D4D0 !important;
+}
+.color-brown-200, .color-brown-200-hover:hover {
+  color: #D7C3BF !important;
+}
+.color-brown-250, .color-brown-250-hover:hover {
+  color: #CCB3AD !important;
+}
+.color-brown-300, .color-brown-300-hover:hover {
+  color: #C0A39C !important;
+}
+.color-brown-350, .color-brown-350-hover:hover {
+  color: #B5928A !important;
+}
+.color-brown-400, .color-brown-400-hover:hover {
+  color: #A98278 !important;
+}
+.color-brown-450, .color-brown-450-hover:hover {
+  color: #9E7167 !important;
+}
+.color-brown-500, .color-brown-500-hover:hover {
+  color: #926155 !important;
+}
+.color-brown-550, .color-brown-550-hover:hover {
+  color: #895B50 !important;
+}
+.color-brown-600, .color-brown-600-hover:hover {
+  color: #80544A !important;
+}
+.color-brown-650, .color-brown-650-hover:hover {
+  color: #774E45 !important;
+}
+.color-brown-700, .color-brown-700-hover:hover {
+  color: #6E4840 !important;
+}
+.color-brown-750, .color-brown-750-hover:hover {
+  color: #64413A !important;
+}
+.color-brown-800, .color-brown-800-hover:hover {
+  color: #5B3B35 !important;
+}
+.color-brown-850, .color-brown-850-hover:hover {
+  color: #52342F !important;
+}
+.color-brown-900, .color-brown-900-hover:hover {
+  color: #492E2A !important;
+}
+.color-brown-950, .color-brown-950-hover:hover {
+  color: #251715 !important;
+}
+.color-blue-gray-50, .color-blue-gray-50-hover:hover {
+  color: #F9FAFB !important;
+}
+.color-blue-gray-100, .color-blue-gray-100-hover:hover {
+  color: #F3F4F6 !important;
+}
+.color-blue-gray-150, .color-blue-gray-150-hover:hover {
+  color: #E5E7EB !important;
+}
+.color-blue-gray-200, .color-blue-gray-200-hover:hover {
+  color: #D8DAE0 !important;
+}
+.color-blue-gray-250, .color-blue-gray-250-hover:hover {
+  color: #CACDD5 !important;
+}
+.color-blue-gray-300, .color-blue-gray-300-hover:hover {
+  color: #BCC1CB !important;
+}
+.color-blue-gray-350, .color-blue-gray-350-hover:hover {
+  color: #AEB4C0 !important;
+}
+.color-blue-gray-400, .color-blue-gray-400-hover:hover {
+  color: #A1A7B5 !important;
+}
+.color-blue-gray-450, .color-blue-gray-450-hover:hover {
+  color: #939AAA !important;
+}
+.color-blue-gray-500, .color-blue-gray-500-hover:hover {
+  color: #858D9F !important;
+}
+.color-blue-gray-550, .color-blue-gray-550-hover:hover {
+  color: #798091 !important;
+}
+.color-blue-gray-600, .color-blue-gray-600-hover:hover {
+  color: #6C7382 !important;
+}
+.color-blue-gray-650, .color-blue-gray-650-hover:hover {
+  color: #606574 !important;
+}
+.color-blue-gray-700, .color-blue-gray-700-hover:hover {
+  color: #535865 !important;
+}
+.color-blue-gray-750, .color-blue-gray-750-hover:hover {
+  color: #474B57 !important;
+}
+.color-blue-gray-800, .color-blue-gray-800-hover:hover {
+  color: #3A3E48 !important;
+}
+.color-blue-gray-850, .color-blue-gray-850-hover:hover {
+  color: #2E303A !important;
+}
+.color-blue-gray-900, .color-blue-gray-900-hover:hover {
+  color: #21232B !important;
+}
+.color-blue-gray-950, .color-blue-gray-950-hover:hover {
+  color: #111216 !important;
+}
+.color-cool-gray-50, .color-cool-gray-50-hover:hover {
+  color: #F8FAFB !important;
+}
+.color-cool-gray-100, .color-cool-gray-100-hover:hover {
+  color: #F1F4F6 !important;
+}
+.color-cool-gray-150, .color-cool-gray-150-hover:hover {
+  color: #E3E7EA !important;
+}
+.color-cool-gray-200, .color-cool-gray-200-hover:hover {
+  color: #D6DBDE !important;
+}
+.color-cool-gray-250, .color-cool-gray-250-hover:hover {
+  color: #C8CED2 !important;
+}
+.color-cool-gray-300, .color-cool-gray-300-hover:hover {
+  color: #BBC1C6 !important;
+}
+.color-cool-gray-350, .color-cool-gray-350-hover:hover {
+  color: #ADB4BA !important;
+}
+.color-cool-gray-400, .color-cool-gray-400-hover:hover {
+  color: #9FA8AE !important;
+}
+.color-cool-gray-450, .color-cool-gray-450-hover:hover {
+  color: #929BA2 !important;
+}
+.color-cool-gray-500, .color-cool-gray-500-hover:hover {
+  color: #848E96 !important;
+}
+.color-cool-gray-550, .color-cool-gray-550-hover:hover {
+  color: #788188 !important;
+}
+.color-cool-gray-600, .color-cool-gray-600-hover:hover {
+  color: #6B747B !important;
+}
+.color-cool-gray-650, .color-cool-gray-650-hover:hover {
+  color: #5F666D !important;
+}
+.color-cool-gray-700, .color-cool-gray-700-hover:hover {
+  color: #52595F !important;
+}
+.color-cool-gray-750, .color-cool-gray-750-hover:hover {
+  color: #464C51 !important;
+}
+.color-cool-gray-800, .color-cool-gray-800-hover:hover {
+  color: #393F44 !important;
+}
+.color-cool-gray-850, .color-cool-gray-850-hover:hover {
+  color: #2D3136 !important;
+}
+.color-cool-gray-900, .color-cool-gray-900-hover:hover {
+  color: #202428 !important;
+}
+.color-cool-gray-950, .color-cool-gray-950-hover:hover {
+  color: #101214 !important;
+}
+.color-normal-gray-50, .color-normal-gray-50-hover:hover {
+  color: #FAFAFA !important;
+}
+.color-normal-gray-100, .color-normal-gray-100-hover:hover {
+  color: #F4F4F4 !important;
+}
+.color-normal-gray-150, .color-normal-gray-150-hover:hover {
+  color: #E7E7E7 !important;
+}
+.color-normal-gray-200, .color-normal-gray-200-hover:hover {
+  color: #DBDBDB !important;
+}
+.color-normal-gray-250, .color-normal-gray-250-hover:hover {
+  color: #CECECE !important;
+}
+.color-normal-gray-300, .color-normal-gray-300-hover:hover {
+  color: #C1C1C1 !important;
+}
+.color-normal-gray-350, .color-normal-gray-350-hover:hover {
+  color: #B4B4B4 !important;
+}
+.color-normal-gray-400, .color-normal-gray-400-hover:hover {
+  color: #A8A8A8 !important;
+}
+.color-normal-gray-450, .color-normal-gray-450-hover:hover {
+  color: #9B9B9B !important;
+}
+.color-normal-gray-500, .color-normal-gray-500-hover:hover {
+  color: #8E8E8E !important;
+}
+.color-normal-gray-550, .color-normal-gray-550-hover:hover {
+  color: #818181 !important;
+}
+.color-normal-gray-600, .color-normal-gray-600-hover:hover {
+  color: #747474 !important;
+}
+.color-normal-gray-650, .color-normal-gray-650-hover:hover {
+  color: #666666 !important;
+}
+.color-normal-gray-700, .color-normal-gray-700-hover:hover {
+  color: #595959 !important;
+}
+.color-normal-gray-750, .color-normal-gray-750-hover:hover {
+  color: #4C4C4C !important;
+}
+.color-normal-gray-800, .color-normal-gray-800-hover:hover {
+  color: #3F3F3F !important;
+}
+.color-normal-gray-850, .color-normal-gray-850-hover:hover {
+  color: #313131 !important;
+}
+.color-normal-gray-900, .color-normal-gray-900-hover:hover {
+  color: #242424 !important;
+}
+.color-normal-gray-950, .color-normal-gray-950-hover:hover {
+  color: #121212 !important;
+}
+.color-warm-gray-50, .color-warm-gray-50-hover:hover {
+  color: #FBFAF9 !important;
+}
+.color-warm-gray-100, .color-warm-gray-100-hover:hover {
+  color: #F6F4F2 !important;
+}
+.color-warm-gray-150, .color-warm-gray-150-hover:hover {
+  color: #EAE7E5 !important;
+}
+.color-warm-gray-200, .color-warm-gray-200-hover:hover {
+  color: #DEDBD8 !important;
+}
+.color-warm-gray-250, .color-warm-gray-250-hover:hover {
+  color: #D2CECA !important;
+}
+.color-warm-gray-300, .color-warm-gray-300-hover:hover {
+  color: #C6C1BD !important;
+}
+.color-warm-gray-350, .color-warm-gray-350-hover:hover {
+  color: #B9B4B0 !important;
+}
+.color-warm-gray-400, .color-warm-gray-400-hover:hover {
+  color: #ADA8A3 !important;
+}
+.color-warm-gray-450, .color-warm-gray-450-hover:hover {
+  color: #A19B95 !important;
+}
+.color-warm-gray-500, .color-warm-gray-500-hover:hover {
+  color: #958E88 !important;
+}
+.color-warm-gray-550, .color-warm-gray-550-hover:hover {
+  color: #88817B !important;
+}
+.color-warm-gray-600, .color-warm-gray-600-hover:hover {
+  color: #7A746E !important;
+}
+.color-warm-gray-650, .color-warm-gray-650-hover:hover {
+  color: #6D6661 !important;
+}
+.color-warm-gray-700, .color-warm-gray-700-hover:hover {
+  color: #5F5955 !important;
+}
+.color-warm-gray-750, .color-warm-gray-750-hover:hover {
+  color: #524C48 !important;
+}
+.color-warm-gray-800, .color-warm-gray-800-hover:hover {
+  color: #443F3B !important;
+}
+.color-warm-gray-850, .color-warm-gray-850-hover:hover {
+  color: #37312E !important;
+}
+.color-warm-gray-900, .color-warm-gray-900-hover:hover {
+  color: #292421 !important;
+}
+.color-warm-gray-950, .color-warm-gray-950-hover:hover {
+  color: #151211 !important;
+}
+
+/* Color Alphas */
+.color-sky-blue-a100, .color-sky-blue-a100-hover:hover {
+  color: rgba(49, 170, 246, 0.1) !important;
+}
+.color-sky-blue-a200, .color-sky-blue-a200-hover:hover {
+  color: rgba(49, 170, 246, 0.2) !important;
+}
+.color-sky-blue-a300, .color-sky-blue-a300-hover:hover {
+  color: rgba(49, 170, 246, 0.3) !important;
+}
+.color-sky-blue-a400, .color-sky-blue-a400-hover:hover {
+  color: rgba(49, 170, 246, 0.4) !important;
+}
+.color-sky-blue-a500, .color-sky-blue-a500-hover:hover {
+  color: rgba(49, 170, 246, 0.5) !important;
+}
+.color-sky-blue-a600, .color-sky-blue-a600-hover:hover {
+  color: rgba(49, 170, 246, 0.6) !important;
+}
+.color-sky-blue-a700, .color-sky-blue-a700-hover:hover {
+  color: rgba(49, 170, 246, 0.7) !important;
+}
+.color-sky-blue-a800, .color-sky-blue-a800-hover:hover {
+  color: rgba(49, 170, 246, 0.8) !important;
+}
+.color-sky-blue-a900, .color-sky-blue-a900-hover:hover {
+  color: rgba(49, 170, 246, 0.9) !important;
+}
+.color-blue-a100, .color-blue-a100-hover:hover {
+  color: rgba(66, 131, 242, 0.1) !important;
+}
+.color-blue-a200, .color-blue-a200-hover:hover {
+  color: rgba(66, 131, 242, 0.2) !important;
+}
+.color-blue-a300, .color-blue-a300-hover:hover {
+  color: rgba(66, 131, 242, 0.3) !important;
+}
+.color-blue-a400, .color-blue-a400-hover:hover {
+  color: rgba(66, 131, 242, 0.4) !important;
+}
+.color-blue-a500, .color-blue-a500-hover:hover {
+  color: rgba(66, 131, 242, 0.5) !important;
+}
+.color-blue-a600, .color-blue-a600-hover:hover {
+  color: rgba(66, 131, 242, 0.6) !important;
+}
+.color-blue-a700, .color-blue-a700-hover:hover {
+  color: rgba(66, 131, 242, 0.7) !important;
+}
+.color-blue-a800, .color-blue-a800-hover:hover {
+  color: rgba(66, 131, 242, 0.8) !important;
+}
+.color-blue-a900, .color-blue-a900-hover:hover {
+  color: rgba(66, 131, 242, 0.9) !important;
+}
+.color-indigo-a100, .color-indigo-a100-hover:hover {
+  color: rgba(81, 116, 224, 0.1) !important;
+}
+.color-indigo-a200, .color-indigo-a200-hover:hover {
+  color: rgba(81, 116, 224, 0.2) !important;
+}
+.color-indigo-a300, .color-indigo-a300-hover:hover {
+  color: rgba(81, 116, 224, 0.3) !important;
+}
+.color-indigo-a400, .color-indigo-a400-hover:hover {
+  color: rgba(81, 116, 224, 0.4) !important;
+}
+.color-indigo-a500, .color-indigo-a500-hover:hover {
+  color: rgba(81, 116, 224, 0.5) !important;
+}
+.color-indigo-a600, .color-indigo-a600-hover:hover {
+  color: rgba(81, 116, 224, 0.6) !important;
+}
+.color-indigo-a700, .color-indigo-a700-hover:hover {
+  color: rgba(81, 116, 224, 0.7) !important;
+}
+.color-indigo-a800, .color-indigo-a800-hover:hover {
+  color: rgba(81, 116, 224, 0.8) !important;
+}
+.color-indigo-a900, .color-indigo-a900-hover:hover {
+  color: rgba(81, 116, 224, 0.9) !important;
+}
+.color-purple-a100, .color-purple-a100-hover:hover {
+  color: rgba(196, 59, 228, 0.1) !important;
+}
+.color-purple-a200, .color-purple-a200-hover:hover {
+  color: rgba(196, 59, 228, 0.2) !important;
+}
+.color-purple-a300, .color-purple-a300-hover:hover {
+  color: rgba(196, 59, 228, 0.3) !important;
+}
+.color-purple-a400, .color-purple-a400-hover:hover {
+  color: rgba(196, 59, 228, 0.4) !important;
+}
+.color-purple-a500, .color-purple-a500-hover:hover {
+  color: rgba(196, 59, 228, 0.5) !important;
+}
+.color-purple-a600, .color-purple-a600-hover:hover {
+  color: rgba(196, 59, 228, 0.6) !important;
+}
+.color-purple-a700, .color-purple-a700-hover:hover {
+  color: rgba(196, 59, 228, 0.7) !important;
+}
+.color-purple-a800, .color-purple-a800-hover:hover {
+  color: rgba(196, 59, 228, 0.8) !important;
+}
+.color-purple-a900, .color-purple-a900-hover:hover {
+  color: rgba(196, 59, 228, 0.9) !important;
+}
+.color-pink-a100, .color-pink-a100-hover:hover {
+  color: rgba(255, 40, 148, 0.1) !important;
+}
+.color-pink-a200, .color-pink-a200-hover:hover {
+  color: rgba(255, 40, 148, 0.2) !important;
+}
+.color-pink-a300, .color-pink-a300-hover:hover {
+  color: rgba(255, 40, 148, 0.3) !important;
+}
+.color-pink-a400, .color-pink-a400-hover:hover {
+  color: rgba(255, 40, 148, 0.4) !important;
+}
+.color-pink-a500, .color-pink-a500-hover:hover {
+  color: rgba(255, 40, 148, 0.5) !important;
+}
+.color-pink-a600, .color-pink-a600-hover:hover {
+  color: rgba(255, 40, 148, 0.6) !important;
+}
+.color-pink-a700, .color-pink-a700-hover:hover {
+  color: rgba(255, 40, 148, 0.7) !important;
+}
+.color-pink-a800, .color-pink-a800-hover:hover {
+  color: rgba(255, 40, 148, 0.8) !important;
+}
+.color-pink-a900, .color-pink-a900-hover:hover {
+  color: rgba(255, 40, 148, 0.9) !important;
+}
+.color-rose-a100, .color-rose-a100-hover:hover {
+  color: rgba(255, 49, 117, 0.1) !important;
+}
+.color-rose-a200, .color-rose-a200-hover:hover {
+  color: rgba(255, 49, 117, 0.2) !important;
+}
+.color-rose-a300, .color-rose-a300-hover:hover {
+  color: rgba(255, 49, 117, 0.3) !important;
+}
+.color-rose-a400, .color-rose-a400-hover:hover {
+  color: rgba(255, 49, 117, 0.4) !important;
+}
+.color-rose-a500, .color-rose-a500-hover:hover {
+  color: rgba(255, 49, 117, 0.5) !important;
+}
+.color-rose-a600, .color-rose-a600-hover:hover {
+  color: rgba(255, 49, 117, 0.6) !important;
+}
+.color-rose-a700, .color-rose-a700-hover:hover {
+  color: rgba(255, 49, 117, 0.7) !important;
+}
+.color-rose-a800, .color-rose-a800-hover:hover {
+  color: rgba(255, 49, 117, 0.8) !important;
+}
+.color-rose-a900, .color-rose-a900-hover:hover {
+  color: rgba(255, 49, 117, 0.9) !important;
+}
+.color-red-a100, .color-red-a100-hover:hover {
+  color: rgba(242, 56, 56, 0.1) !important;
+}
+.color-red-a200, .color-red-a200-hover:hover {
+  color: rgba(242, 56, 56, 0.2) !important;
+}
+.color-red-a300, .color-red-a300-hover:hover {
+  color: rgba(242, 56, 56, 0.3) !important;
+}
+.color-red-a400, .color-red-a400-hover:hover {
+  color: rgba(242, 56, 56, 0.4) !important;
+}
+.color-red-a500, .color-red-a500-hover:hover {
+  color: rgba(242, 56, 56, 0.5) !important;
+}
+.color-red-a600, .color-red-a600-hover:hover {
+  color: rgba(242, 56, 56, 0.6) !important;
+}
+.color-red-a700, .color-red-a700-hover:hover {
+  color: rgba(242, 56, 56, 0.7) !important;
+}
+.color-red-a800, .color-red-a800-hover:hover {
+  color: rgba(242, 56, 56, 0.8) !important;
+}
+.color-red-a900, .color-red-a900-hover:hover {
+  color: rgba(242, 56, 56, 0.9) !important;
+}
+.color-sunset-a100, .color-sunset-a100-hover:hover {
+  color: rgba(249, 81, 65, 0.1) !important;
+}
+.color-sunset-a200, .color-sunset-a200-hover:hover {
+  color: rgba(249, 81, 65, 0.2) !important;
+}
+.color-sunset-a300, .color-sunset-a300-hover:hover {
+  color: rgba(249, 81, 65, 0.3) !important;
+}
+.color-sunset-a400, .color-sunset-a400-hover:hover {
+  color: rgba(249, 81, 65, 0.4) !important;
+}
+.color-sunset-a500, .color-sunset-a500-hover:hover {
+  color: rgba(249, 81, 65, 0.5) !important;
+}
+.color-sunset-a600, .color-sunset-a600-hover:hover {
+  color: rgba(249, 81, 65, 0.6) !important;
+}
+.color-sunset-a700, .color-sunset-a700-hover:hover {
+  color: rgba(249, 81, 65, 0.7) !important;
+}
+.color-sunset-a800, .color-sunset-a800-hover:hover {
+  color: rgba(249, 81, 65, 0.8) !important;
+}
+.color-sunset-a900, .color-sunset-a900-hover:hover {
+  color: rgba(249, 81, 65, 0.9) !important;
+}
+.color-orange-a100, .color-orange-a100-hover:hover {
+  color: rgba(217, 145, 53, 0.1) !important;
+}
+.color-orange-a200, .color-orange-a200-hover:hover {
+  color: rgba(217, 145, 53, 0.2) !important;
+}
+.color-orange-a300, .color-orange-a300-hover:hover {
+  color: rgba(217, 145, 53, 0.3) !important;
+}
+.color-orange-a400, .color-orange-a400-hover:hover {
+  color: rgba(217, 145, 53, 0.4) !important;
+}
+.color-orange-a500, .color-orange-a500-hover:hover {
+  color: rgba(217, 145, 53, 0.5) !important;
+}
+.color-orange-a600, .color-orange-a600-hover:hover {
+  color: rgba(217, 145, 53, 0.6) !important;
+}
+.color-orange-a700, .color-orange-a700-hover:hover {
+  color: rgba(217, 145, 53, 0.7) !important;
+}
+.color-orange-a800, .color-orange-a800-hover:hover {
+  color: rgba(217, 145, 53, 0.8) !important;
+}
+.color-orange-a900, .color-orange-a900-hover:hover {
+  color: rgba(217, 145, 53, 0.9) !important;
+}
+.color-amber-a100, .color-amber-a100-hover:hover {
+  color: rgba(255, 192, 2, 0.1) !important;
+}
+.color-amber-a200, .color-amber-a200-hover:hover {
+  color: rgba(255, 192, 2, 0.2) !important;
+}
+.color-amber-a300, .color-amber-a300-hover:hover {
+  color: rgba(255, 192, 2, 0.3) !important;
+}
+.color-amber-a400, .color-amber-a400-hover:hover {
+  color: rgba(255, 192, 2, 0.4) !important;
+}
+.color-amber-a500, .color-amber-a500-hover:hover {
+  color: rgba(255, 192, 2, 0.5) !important;
+}
+.color-amber-a600, .color-amber-a600-hover:hover {
+  color: rgba(255, 192, 2, 0.6) !important;
+}
+.color-amber-a700, .color-amber-a700-hover:hover {
+  color: rgba(255, 192, 2, 0.7) !important;
+}
+.color-amber-a800, .color-amber-a800-hover:hover {
+  color: rgba(255, 192, 2, 0.8) !important;
+}
+.color-amber-a900, .color-amber-a900-hover:hover {
+  color: rgba(255, 192, 2, 0.9) !important;
+}
+.color-yellow-a100, .color-yellow-a100-hover:hover {
+  color: rgba(252, 225, 22, 0.1) !important;
+}
+.color-yellow-a200, .color-yellow-a200-hover:hover {
+  color: rgba(252, 225, 22, 0.2) !important;
+}
+.color-yellow-a300, .color-yellow-a300-hover:hover {
+  color: rgba(252, 225, 22, 0.3) !important;
+}
+.color-yellow-a400, .color-yellow-a400-hover:hover {
+  color: rgba(252, 225, 22, 0.4) !important;
+}
+.color-yellow-a500, .color-yellow-a500-hover:hover {
+  color: rgba(252, 225, 22, 0.5) !important;
+}
+.color-yellow-a600, .color-yellow-a600-hover:hover {
+  color: rgba(252, 225, 22, 0.6) !important;
+}
+.color-yellow-a700, .color-yellow-a700-hover:hover {
+  color: rgba(252, 225, 22, 0.7) !important;
+}
+.color-yellow-a800, .color-yellow-a800-hover:hover {
+  color: rgba(252, 225, 22, 0.8) !important;
+}
+.color-yellow-a900, .color-yellow-a900-hover:hover {
+  color: rgba(252, 225, 22, 0.9) !important;
+}
+.color-lime-green-a100, .color-lime-green-a100-hover:hover {
+  color: rgba(102, 213, 20, 0.1) !important;
+}
+.color-lime-green-a200, .color-lime-green-a200-hover:hover {
+  color: rgba(102, 213, 20, 0.2) !important;
+}
+.color-lime-green-a300, .color-lime-green-a300-hover:hover {
+  color: rgba(102, 213, 20, 0.3) !important;
+}
+.color-lime-green-a400, .color-lime-green-a400-hover:hover {
+  color: rgba(102, 213, 20, 0.4) !important;
+}
+.color-lime-green-a500, .color-lime-green-a500-hover:hover {
+  color: rgba(102, 213, 20, 0.5) !important;
+}
+.color-lime-green-a600, .color-lime-green-a600-hover:hover {
+  color: rgba(102, 213, 20, 0.6) !important;
+}
+.color-lime-green-a700, .color-lime-green-a700-hover:hover {
+  color: rgba(102, 213, 20, 0.7) !important;
+}
+.color-lime-green-a800, .color-lime-green-a800-hover:hover {
+  color: rgba(102, 213, 20, 0.8) !important;
+}
+.color-lime-green-a900, .color-lime-green-a900-hover:hover {
+  color: rgba(102, 213, 20, 0.9) !important;
+}
+.color-spring-green-a100, .color-spring-green-a100-hover:hover {
+  color: rgba(61, 183, 39, 0.1) !important;
+}
+.color-spring-green-a200, .color-spring-green-a200-hover:hover {
+  color: rgba(61, 183, 39, 0.2) !important;
+}
+.color-spring-green-a300, .color-spring-green-a300-hover:hover {
+  color: rgba(61, 183, 39, 0.3) !important;
+}
+.color-spring-green-a400, .color-spring-green-a400-hover:hover {
+  color: rgba(61, 183, 39, 0.4) !important;
+}
+.color-spring-green-a500, .color-spring-green-a500-hover:hover {
+  color: rgba(61, 183, 39, 0.5) !important;
+}
+.color-spring-green-a600, .color-spring-green-a600-hover:hover {
+  color: rgba(61, 183, 39, 0.6) !important;
+}
+.color-spring-green-a700, .color-spring-green-a700-hover:hover {
+  color: rgba(61, 183, 39, 0.7) !important;
+}
+.color-spring-green-a800, .color-spring-green-a800-hover:hover {
+  color: rgba(61, 183, 39, 0.8) !important;
+}
+.color-spring-green-a900, .color-spring-green-a900-hover:hover {
+  color: rgba(61, 183, 39, 0.9) !important;
+}
+.color-green-a100, .color-green-a100-hover:hover {
+  color: rgba(74, 168, 67, 0.1) !important;
+}
+.color-green-a200, .color-green-a200-hover:hover {
+  color: rgba(74, 168, 67, 0.2) !important;
+}
+.color-green-a300, .color-green-a300-hover:hover {
+  color: rgba(74, 168, 67, 0.3) !important;
+}
+.color-green-a400, .color-green-a400-hover:hover {
+  color: rgba(74, 168, 67, 0.4) !important;
+}
+.color-green-a500, .color-green-a500-hover:hover {
+  color: rgba(74, 168, 67, 0.5) !important;
+}
+.color-green-a600, .color-green-a600-hover:hover {
+  color: rgba(74, 168, 67, 0.6) !important;
+}
+.color-green-a700, .color-green-a700-hover:hover {
+  color: rgba(74, 168, 67, 0.7) !important;
+}
+.color-green-a800, .color-green-a800-hover:hover {
+  color: rgba(74, 168, 67, 0.8) !important;
+}
+.color-green-a900, .color-green-a900-hover:hover {
+  color: rgba(74, 168, 67, 0.9) !important;
+}
+.color-emerald-a100, .color-emerald-a100-hover:hover {
+  color: rgba(57, 182, 99, 0.1) !important;
+}
+.color-emerald-a200, .color-emerald-a200-hover:hover {
+  color: rgba(57, 182, 99, 0.2) !important;
+}
+.color-emerald-a300, .color-emerald-a300-hover:hover {
+  color: rgba(57, 182, 99, 0.3) !important;
+}
+.color-emerald-a400, .color-emerald-a400-hover:hover {
+  color: rgba(57, 182, 99, 0.4) !important;
+}
+.color-emerald-a500, .color-emerald-a500-hover:hover {
+  color: rgba(57, 182, 99, 0.5) !important;
+}
+.color-emerald-a600, .color-emerald-a600-hover:hover {
+  color: rgba(57, 182, 99, 0.6) !important;
+}
+.color-emerald-a700, .color-emerald-a700-hover:hover {
+  color: rgba(57, 182, 99, 0.7) !important;
+}
+.color-emerald-a800, .color-emerald-a800-hover:hover {
+  color: rgba(57, 182, 99, 0.8) !important;
+}
+.color-emerald-a900, .color-emerald-a900-hover:hover {
+  color: rgba(57, 182, 99, 0.9) !important;
+}
+.color-jade-a100, .color-jade-a100-hover:hover {
+  color: rgba(0, 168, 108, 0.1) !important;
+}
+.color-jade-a200, .color-jade-a200-hover:hover {
+  color: rgba(0, 168, 108, 0.2) !important;
+}
+.color-jade-a300, .color-jade-a300-hover:hover {
+  color: rgba(0, 168, 108, 0.3) !important;
+}
+.color-jade-a400, .color-jade-a400-hover:hover {
+  color: rgba(0, 168, 108, 0.4) !important;
+}
+.color-jade-a500, .color-jade-a500-hover:hover {
+  color: rgba(0, 168, 108, 0.5) !important;
+}
+.color-jade-a600, .color-jade-a600-hover:hover {
+  color: rgba(0, 168, 108, 0.6) !important;
+}
+.color-jade-a700, .color-jade-a700-hover:hover {
+  color: rgba(0, 168, 108, 0.7) !important;
+}
+.color-jade-a800, .color-jade-a800-hover:hover {
+  color: rgba(0, 168, 108, 0.8) !important;
+}
+.color-jade-a900, .color-jade-a900-hover:hover {
+  color: rgba(0, 168, 108, 0.9) !important;
+}
+.color-ocean-green-a100, .color-ocean-green-a100-hover:hover {
+  color: rgba(4, 168, 130, 0.1) !important;
+}
+.color-ocean-green-a200, .color-ocean-green-a200-hover:hover {
+  color: rgba(4, 168, 130, 0.2) !important;
+}
+.color-ocean-green-a300, .color-ocean-green-a300-hover:hover {
+  color: rgba(4, 168, 130, 0.3) !important;
+}
+.color-ocean-green-a400, .color-ocean-green-a400-hover:hover {
+  color: rgba(4, 168, 130, 0.4) !important;
+}
+.color-ocean-green-a500, .color-ocean-green-a500-hover:hover {
+  color: rgba(4, 168, 130, 0.5) !important;
+}
+.color-ocean-green-a600, .color-ocean-green-a600-hover:hover {
+  color: rgba(4, 168, 130, 0.6) !important;
+}
+.color-ocean-green-a700, .color-ocean-green-a700-hover:hover {
+  color: rgba(4, 168, 130, 0.7) !important;
+}
+.color-ocean-green-a800, .color-ocean-green-a800-hover:hover {
+  color: rgba(4, 168, 130, 0.8) !important;
+}
+.color-ocean-green-a900, .color-ocean-green-a900-hover:hover {
+  color: rgba(4, 168, 130, 0.9) !important;
+}
+.color-teal-a100, .color-teal-a100-hover:hover {
+  color: rgba(20, 159, 144, 0.1) !important;
+}
+.color-teal-a200, .color-teal-a200-hover:hover {
+  color: rgba(20, 159, 144, 0.2) !important;
+}
+.color-teal-a300, .color-teal-a300-hover:hover {
+  color: rgba(20, 159, 144, 0.3) !important;
+}
+.color-teal-a400, .color-teal-a400-hover:hover {
+  color: rgba(20, 159, 144, 0.4) !important;
+}
+.color-teal-a500, .color-teal-a500-hover:hover {
+  color: rgba(20, 159, 144, 0.5) !important;
+}
+.color-teal-a600, .color-teal-a600-hover:hover {
+  color: rgba(20, 159, 144, 0.6) !important;
+}
+.color-teal-a700, .color-teal-a700-hover:hover {
+  color: rgba(20, 159, 144, 0.7) !important;
+}
+.color-teal-a800, .color-teal-a800-hover:hover {
+  color: rgba(20, 159, 144, 0.8) !important;
+}
+.color-teal-a900, .color-teal-a900-hover:hover {
+  color: rgba(20, 159, 144, 0.9) !important;
+}
+.color-cyan-a100, .color-cyan-a100-hover:hover {
+  color: rgba(18, 164, 176, 0.1) !important;
+}
+.color-cyan-a200, .color-cyan-a200-hover:hover {
+  color: rgba(18, 164, 176, 0.2) !important;
+}
+.color-cyan-a300, .color-cyan-a300-hover:hover {
+  color: rgba(18, 164, 176, 0.3) !important;
+}
+.color-cyan-a400, .color-cyan-a400-hover:hover {
+  color: rgba(18, 164, 176, 0.4) !important;
+}
+.color-cyan-a500, .color-cyan-a500-hover:hover {
+  color: rgba(18, 164, 176, 0.5) !important;
+}
+.color-cyan-a600, .color-cyan-a600-hover:hover {
+  color: rgba(18, 164, 176, 0.6) !important;
+}
+.color-cyan-a700, .color-cyan-a700-hover:hover {
+  color: rgba(18, 164, 176, 0.7) !important;
+}
+.color-cyan-a800, .color-cyan-a800-hover:hover {
+  color: rgba(18, 164, 176, 0.8) !important;
+}
+.color-cyan-a900, .color-cyan-a900-hover:hover {
+  color: rgba(18, 164, 176, 0.9) !important;
+}
+.color-ocean-blue-a100, .color-ocean-blue-a100-hover:hover {
+  color: rgba(0, 142, 188, 0.1) !important;
+}
+.color-ocean-blue-a200, .color-ocean-blue-a200-hover:hover {
+  color: rgba(0, 142, 188, 0.2) !important;
+}
+.color-ocean-blue-a300, .color-ocean-blue-a300-hover:hover {
+  color: rgba(0, 142, 188, 0.3) !important;
+}
+.color-ocean-blue-a400, .color-ocean-blue-a400-hover:hover {
+  color: rgba(0, 142, 188, 0.4) !important;
+}
+.color-ocean-blue-a500, .color-ocean-blue-a500-hover:hover {
+  color: rgba(0, 142, 188, 0.5) !important;
+}
+.color-ocean-blue-a600, .color-ocean-blue-a600-hover:hover {
+  color: rgba(0, 142, 188, 0.6) !important;
+}
+.color-ocean-blue-a700, .color-ocean-blue-a700-hover:hover {
+  color: rgba(0, 142, 188, 0.7) !important;
+}
+.color-ocean-blue-a800, .color-ocean-blue-a800-hover:hover {
+  color: rgba(0, 142, 188, 0.8) !important;
+}
+.color-ocean-blue-a900, .color-ocean-blue-a900-hover:hover {
+  color: rgba(0, 142, 188, 0.9) !important;
+}
+.color-crystal-blue-a100, .color-crystal-blue-a100-hover:hover {
+  color: rgba(63, 150, 224, 0.1) !important;
+}
+.color-crystal-blue-a200, .color-crystal-blue-a200-hover:hover {
+  color: rgba(63, 150, 224, 0.2) !important;
+}
+.color-crystal-blue-a300, .color-crystal-blue-a300-hover:hover {
+  color: rgba(63, 150, 224, 0.3) !important;
+}
+.color-crystal-blue-a400, .color-crystal-blue-a400-hover:hover {
+  color: rgba(63, 150, 224, 0.4) !important;
+}
+.color-crystal-blue-a500, .color-crystal-blue-a500-hover:hover {
+  color: rgba(63, 150, 224, 0.5) !important;
+}
+.color-crystal-blue-a600, .color-crystal-blue-a600-hover:hover {
+  color: rgba(63, 150, 224, 0.6) !important;
+}
+.color-crystal-blue-a700, .color-crystal-blue-a700-hover:hover {
+  color: rgba(63, 150, 224, 0.7) !important;
+}
+.color-crystal-blue-a800, .color-crystal-blue-a800-hover:hover {
+  color: rgba(63, 150, 224, 0.8) !important;
+}
+.color-crystal-blue-a900, .color-crystal-blue-a900-hover:hover {
+  color: rgba(63, 150, 224, 0.9) !important;
+}
+.color-brown-a100, .color-brown-a100-hover:hover {
+  color: rgba(146, 97, 85, 0.1) !important;
+}
+.color-brown-a200, .color-brown-a200-hover:hover {
+  color: rgba(146, 97, 85, 0.2) !important;
+}
+.color-brown-a300, .color-brown-a300-hover:hover {
+  color: rgba(146, 97, 85, 0.3) !important;
+}
+.color-brown-a400, .color-brown-a400-hover:hover {
+  color: rgba(146, 97, 85, 0.4) !important;
+}
+.color-brown-a500, .color-brown-a500-hover:hover {
+  color: rgba(146, 97, 85, 0.5) !important;
+}
+.color-brown-a600, .color-brown-a600-hover:hover {
+  color: rgba(146, 97, 85, 0.6) !important;
+}
+.color-brown-a700, .color-brown-a700-hover:hover {
+  color: rgba(146, 97, 85, 0.7) !important;
+}
+.color-brown-a800, .color-brown-a800-hover:hover {
+  color: rgba(146, 97, 85, 0.8) !important;
+}
+.color-brown-a900, .color-brown-a900-hover:hover {
+  color: rgba(146, 97, 85, 0.9) !important;
+}
+.color-blue-gray-a100, .color-blue-gray-a100-hover:hover {
+  color: rgba(133, 141, 159, 0.1) !important;
+}
+.color-blue-gray-a200, .color-blue-gray-a200-hover:hover {
+  color: rgba(133, 141, 159, 0.2) !important;
+}
+.color-blue-gray-a300, .color-blue-gray-a300-hover:hover {
+  color: rgba(133, 141, 159, 0.3) !important;
+}
+.color-blue-gray-a400, .color-blue-gray-a400-hover:hover {
+  color: rgba(133, 141, 159, 0.4) !important;
+}
+.color-blue-gray-a500, .color-blue-gray-a500-hover:hover {
+  color: rgba(133, 141, 159, 0.5) !important;
+}
+.color-blue-gray-a600, .color-blue-gray-a600-hover:hover {
+  color: rgba(133, 141, 159, 0.6) !important;
+}
+.color-blue-gray-a700, .color-blue-gray-a700-hover:hover {
+  color: rgba(133, 141, 159, 0.7) !important;
+}
+.color-blue-gray-a800, .color-blue-gray-a800-hover:hover {
+  color: rgba(133, 141, 159, 0.8) !important;
+}
+.color-blue-gray-a900, .color-blue-gray-a900-hover:hover {
+  color: rgba(133, 141, 159, 0.9) !important;
+}
+
+/*
+* background-color
+*/
+/* Plugin Colors */
+.bg-sky-blue, .bg-sky-blue-hover:hover {
+  background-color: #31AAF6 !important;
+}
+.bg-blue, .bg-blue-hover:hover {
+  background-color: #4283F2 !important;
+}
+.bg-indigo, .bg-indigo-hover:hover {
+  background-color: #5174E0 !important;
+}
+.bg-purple, .bg-purple-hover:hover {
+  background-color: #C43BE4 !important;
+}
+.bg-pink, .bg-pink-hover:hover {
+  background-color: #FF2894 !important;
+}
+.bg-rose, .bg-rose-hover:hover {
+  background-color: #FF3175 !important;
+}
+.bg-red, .bg-red-hover:hover {
+  background-color: #F23838 !important;
+}
+.bg-sunset, .bg-sunset-hover:hover {
+  background-color: #F95141 !important;
+}
+.bg-orange, .bg-orange-hover:hover {
+  background-color: #D99135 !important;
+}
+.bg-amber, .bg-amber-hover:hover {
+  background-color: #FFC002 !important;
+}
+.bg-yellow, .bg-yellow-hover:hover {
+  background-color: #FCE116 !important;
+}
+.bg-lime-green, .bg-lime-green-hover:hover {
+  background-color: #66D514 !important;
+}
+.bg-spring-green, .bg-spring-green-hover:hover {
+  background-color: #3DB727 !important;
+}
+.bg-green, .bg-green-hover:hover {
+  background-color: #4AA843 !important;
+}
+.bg-emerald, .bg-emerald-hover:hover {
+  background-color: #39B663 !important;
+}
+.bg-jade, .bg-jade-hover:hover {
+  background-color: #00A86C !important;
+}
+.bg-ocean-green, .bg-ocean-green-hover:hover {
+  background-color: #04A882 !important;
+}
+.bg-teal, .bg-teal-hover:hover {
+  background-color: #149F90 !important;
+}
+.bg-cyan, .bg-cyan-hover:hover {
+  background-color: #12A4B0 !important;
+}
+.bg-ocean-blue, .bg-ocean-blue-hover:hover {
+  background-color: #008EBC !important;
+}
+.bg-crystal-blue, .bg-crystal-blue-hover:hover {
+  background-color: #3F96E0 !important;
+}
+.bg-brown, .bg-brown-hover:hover {
+  background-color: #926155 !important;
+}
+.bg-blue-gray, .bg-blue-gray-hover:hover {
+  background-color: #858D9F !important;
+}
+.bg-cool-gray, .bg-cool-gray-hover:hover {
+  background-color: #848E96 !important;
+}
+.bg-normal-gray, .bg-normal-gray-hover:hover {
+  background-color: #8E8E8E !important;
+}
+.bg-warm-gray, .bg-warm-gray-hover:hover {
+  background-color: #958E88 !important;
+}
+
+/* Color Palettes */
+.bg-sky-blue-50, .bg-sky-blue-50-hover:hover {
+  background-color: #F0FAFF !important;
+}
+.bg-sky-blue-100, .bg-sky-blue-100-hover:hover {
+  background-color: #E1F4FF !important;
+}
+.bg-sky-blue-150, .bg-sky-blue-150-hover:hover {
+  background-color: #CBEBFE !important;
+}
+.bg-sky-blue-200, .bg-sky-blue-200-hover:hover {
+  background-color: #B5E2FD !important;
+}
+.bg-sky-blue-250, .bg-sky-blue-250-hover:hover {
+  background-color: #9FD8FC !important;
+}
+.bg-sky-blue-300, .bg-sky-blue-300-hover:hover {
+  background-color: #89CFFB !important;
+}
+.bg-sky-blue-350, .bg-sky-blue-350-hover:hover {
+  background-color: #73C6F9 !important;
+}
+.bg-sky-blue-400, .bg-sky-blue-400-hover:hover {
+  background-color: #5DBDF8 !important;
+}
+.bg-sky-blue-450, .bg-sky-blue-450-hover:hover {
+  background-color: #47B3F7 !important;
+}
+.bg-sky-blue-500, .bg-sky-blue-500-hover:hover {
+  background-color: #31AAF6 !important;
+}
+.bg-sky-blue-550, .bg-sky-blue-550-hover:hover {
+  background-color: #2CA0EB !important;
+}
+.bg-sky-blue-600, .bg-sky-blue-600-hover:hover {
+  background-color: #2795E1 !important;
+}
+.bg-sky-blue-650, .bg-sky-blue-650-hover:hover {
+  background-color: #228BD6 !important;
+}
+.bg-sky-blue-700, .bg-sky-blue-700-hover:hover {
+  background-color: #1D80CB !important;
+}
+.bg-sky-blue-750, .bg-sky-blue-750-hover:hover {
+  background-color: #1776C0 !important;
+}
+.bg-sky-blue-800, .bg-sky-blue-800-hover:hover {
+  background-color: #126BB6 !important;
+}
+.bg-sky-blue-850, .bg-sky-blue-850-hover:hover {
+  background-color: #0D61AB !important;
+}
+.bg-sky-blue-900, .bg-sky-blue-900-hover:hover {
+  background-color: #0856A0 !important;
+}
+.bg-sky-blue-950, .bg-sky-blue-950-hover:hover {
+  background-color: #042B50 !important;
+}
+.bg-blue-50, .bg-blue-50-hover:hover {
+  background-color: #F1F6FE !important;
+}
+.bg-blue-100, .bg-blue-100-hover:hover {
+  background-color: #E3EDFC !important;
+}
+.bg-blue-150, .bg-blue-150-hover:hover {
+  background-color: #CFE0FB !important;
+}
+.bg-blue-200, .bg-blue-200-hover:hover {
+  background-color: #BBD3FA !important;
+}
+.bg-blue-250, .bg-blue-250-hover:hover {
+  background-color: #A7C5F8 !important;
+}
+.bg-blue-300, .bg-blue-300-hover:hover {
+  background-color: #93B8F7 !important;
+}
+.bg-blue-350, .bg-blue-350-hover:hover {
+  background-color: #7EABF6 !important;
+}
+.bg-blue-400, .bg-blue-400-hover:hover {
+  background-color: #6A9EF5 !important;
+}
+.bg-blue-450, .bg-blue-450-hover:hover {
+  background-color: #5690F3 !important;
+}
+.bg-blue-500, .bg-blue-500-hover:hover {
+  background-color: #4283F2 !important;
+}
+.bg-blue-550, .bg-blue-550-hover:hover {
+  background-color: #3B79E6 !important;
+}
+.bg-blue-600, .bg-blue-600-hover:hover {
+  background-color: #346FD9 !important;
+}
+.bg-blue-650, .bg-blue-650-hover:hover {
+  background-color: #2D65CD !important;
+}
+.bg-blue-700, .bg-blue-700-hover:hover {
+  background-color: #265BC1 !important;
+}
+.bg-blue-750, .bg-blue-750-hover:hover {
+  background-color: #1F50B4 !important;
+}
+.bg-blue-800, .bg-blue-800-hover:hover {
+  background-color: #1846A8 !important;
+}
+.bg-blue-850, .bg-blue-850-hover:hover {
+  background-color: #113C9B !important;
+}
+.bg-blue-900, .bg-blue-900-hover:hover {
+  background-color: #0A328F !important;
+}
+.bg-blue-950, .bg-blue-950-hover:hover {
+  background-color: #051948 !important;
+}
+.bg-indigo-50, .bg-indigo-50-hover:hover {
+  background-color: #F2F5FD !important;
+}
+.bg-indigo-100, .bg-indigo-100-hover:hover {
+  background-color: #E4EAFA !important;
+}
+.bg-indigo-150, .bg-indigo-150-hover:hover {
+  background-color: #D2DBF7 !important;
+}
+.bg-indigo-200, .bg-indigo-200-hover:hover {
+  background-color: #BFCDF4 !important;
+}
+.bg-indigo-250, .bg-indigo-250-hover:hover {
+  background-color: #ADBEF0 !important;
+}
+.bg-indigo-300, .bg-indigo-300-hover:hover {
+  background-color: #9BAFED !important;
+}
+.bg-indigo-350, .bg-indigo-350-hover:hover {
+  background-color: #88A0EA !important;
+}
+.bg-indigo-400, .bg-indigo-400-hover:hover {
+  background-color: #7692E7 !important;
+}
+.bg-indigo-450, .bg-indigo-450-hover:hover {
+  background-color: #6383E3 !important;
+}
+.bg-indigo-500, .bg-indigo-500-hover:hover {
+  background-color: #5174E0 !important;
+}
+.bg-indigo-550, .bg-indigo-550-hover:hover {
+  background-color: #4A6BD5 !important;
+}
+.bg-indigo-600, .bg-indigo-600-hover:hover {
+  background-color: #4362C9 !important;
+}
+.bg-indigo-650, .bg-indigo-650-hover:hover {
+  background-color: #3B58BE !important;
+}
+.bg-indigo-700, .bg-indigo-700-hover:hover {
+  background-color: #344FB2 !important;
+}
+.bg-indigo-750, .bg-indigo-750-hover:hover {
+  background-color: #2D46A7 !important;
+}
+.bg-indigo-800, .bg-indigo-800-hover:hover {
+  background-color: #263D9B !important;
+}
+.bg-indigo-850, .bg-indigo-850-hover:hover {
+  background-color: #1E3390 !important;
+}
+.bg-indigo-900, .bg-indigo-900-hover:hover {
+  background-color: #172A84 !important;
+}
+.bg-indigo-950, .bg-indigo-950-hover:hover {
+  background-color: #0C1542 !important;
+}
+.bg-purple-50, .bg-purple-50-hover:hover {
+  background-color: #FBF2FD !important;
+}
+.bg-purple-100, .bg-purple-100-hover:hover {
+  background-color: #F7E4FB !important;
+}
+.bg-purple-150, .bg-purple-150-hover:hover {
+  background-color: #F1CFF8 !important;
+}
+.bg-purple-200, .bg-purple-200-hover:hover {
+  background-color: #EABAF5 !important;
+}
+.bg-purple-250, .bg-purple-250-hover:hover {
+  background-color: #E4A5F2 !important;
+}
+.bg-purple-300, .bg-purple-300-hover:hover {
+  background-color: #DE90F0 !important;
+}
+.bg-purple-350, .bg-purple-350-hover:hover {
+  background-color: #D77AED !important;
+}
+.bg-purple-400, .bg-purple-400-hover:hover {
+  background-color: #D165EA !important;
+}
+.bg-purple-450, .bg-purple-450-hover:hover {
+  background-color: #CA50E7 !important;
+}
+.bg-purple-500, .bg-purple-500-hover:hover {
+  background-color: #C43BE4 !important;
+}
+.bg-purple-550, .bg-purple-550-hover:hover {
+  background-color: #B636D7 !important;
+}
+.bg-purple-600, .bg-purple-600-hover:hover {
+  background-color: #A930CA !important;
+}
+.bg-purple-650, .bg-purple-650-hover:hover {
+  background-color: #9B2BBC !important;
+}
+.bg-purple-700, .bg-purple-700-hover:hover {
+  background-color: #8D26AF !important;
+}
+.bg-purple-750, .bg-purple-750-hover:hover {
+  background-color: #7F20A2 !important;
+}
+.bg-purple-800, .bg-purple-800-hover:hover {
+  background-color: #721B95 !important;
+}
+.bg-purple-850, .bg-purple-850-hover:hover {
+  background-color: #641587 !important;
+}
+.bg-purple-900, .bg-purple-900-hover:hover {
+  background-color: #56107A !important;
+}
+.bg-purple-950, .bg-purple-950-hover:hover {
+  background-color: #2B083D !important;
+}
+.bg-pink-50, .bg-pink-50-hover:hover {
+  background-color: #FFF1F8 !important;
+}
+.bg-pink-100, .bg-pink-100-hover:hover {
+  background-color: #FFE2F0 !important;
+}
+.bg-pink-150, .bg-pink-150-hover:hover {
+  background-color: #FFCBE5 !important;
+}
+.bg-pink-200, .bg-pink-200-hover:hover {
+  background-color: #FFB4D9 !important;
+}
+.bg-pink-250, .bg-pink-250-hover:hover {
+  background-color: #FF9CCE !important;
+}
+.bg-pink-300, .bg-pink-300-hover:hover {
+  background-color: #FF85C2 !important;
+}
+.bg-pink-350, .bg-pink-350-hover:hover {
+  background-color: #FF6EB7 !important;
+}
+.bg-pink-400, .bg-pink-400-hover:hover {
+  background-color: #FF57AB !important;
+}
+.bg-pink-450, .bg-pink-450-hover:hover {
+  background-color: #FF3FA0 !important;
+}
+.bg-pink-500, .bg-pink-500-hover:hover {
+  background-color: #FF2894 !important;
+}
+.bg-pink-550, .bg-pink-550-hover:hover {
+  background-color: #EF238B !important;
+}
+.bg-pink-600, .bg-pink-600-hover:hover {
+  background-color: #DF1E82 !important;
+}
+.bg-pink-650, .bg-pink-650-hover:hover {
+  background-color: #CF1978 !important;
+}
+.bg-pink-700, .bg-pink-700-hover:hover {
+  background-color: #C0146F !important;
+}
+.bg-pink-750, .bg-pink-750-hover:hover {
+  background-color: #B00F66 !important;
+}
+.bg-pink-800, .bg-pink-800-hover:hover {
+  background-color: #A00A5D !important;
+}
+.bg-pink-850, .bg-pink-850-hover:hover {
+  background-color: #900553 !important;
+}
+.bg-pink-900, .bg-pink-900-hover:hover {
+  background-color: #80004A !important;
+}
+.bg-pink-950, .bg-pink-950-hover:hover {
+  background-color: #400025 !important;
+}
+.bg-rose-50, .bg-rose-50-hover:hover {
+  background-color: #FFF1F5 !important;
+}
+.bg-rose-100, .bg-rose-100-hover:hover {
+  background-color: #FFE3EB !important;
+}
+.bg-rose-150, .bg-rose-150-hover:hover {
+  background-color: #FFCDDC !important;
+}
+.bg-rose-200, .bg-rose-200-hover:hover {
+  background-color: #FFB7CE !important;
+}
+.bg-rose-250, .bg-rose-250-hover:hover {
+  background-color: #FFA0BF !important;
+}
+.bg-rose-300, .bg-rose-300-hover:hover {
+  background-color: #FF8AB0 !important;
+}
+.bg-rose-350, .bg-rose-350-hover:hover {
+  background-color: #FF74A1 !important;
+}
+.bg-rose-400, .bg-rose-400-hover:hover {
+  background-color: #FF5E93 !important;
+}
+.bg-rose-450, .bg-rose-450-hover:hover {
+  background-color: #FF4784 !important;
+}
+.bg-rose-500, .bg-rose-500-hover:hover {
+  background-color: #FF3175 !important;
+}
+.bg-rose-550, .bg-rose-550-hover:hover {
+  background-color: #F02B6D !important;
+}
+.bg-rose-600, .bg-rose-600-hover:hover {
+  background-color: #E12566 !important;
+}
+.bg-rose-650, .bg-rose-650-hover:hover {
+  background-color: #D11F5E !important;
+}
+.bg-rose-700, .bg-rose-700-hover:hover {
+  background-color: #C21956 !important;
+}
+.bg-rose-750, .bg-rose-750-hover:hover {
+  background-color: #B3124E !important;
+}
+.bg-rose-800, .bg-rose-800-hover:hover {
+  background-color: #A40C47 !important;
+}
+.bg-rose-850, .bg-rose-850-hover:hover {
+  background-color: #94063F !important;
+}
+.bg-rose-900, .bg-rose-900-hover:hover {
+  background-color: #850037 !important;
+}
+.bg-rose-950, .bg-rose-950-hover:hover {
+  background-color: #43001C !important;
+}
+.bg-red-50, .bg-red-50-hover:hover {
+  background-color: #FFF0F0 !important;
+}
+.bg-red-100, .bg-red-100-hover:hover {
+  background-color: #FEE1E0 !important;
+}
+.bg-red-150, .bg-red-150-hover:hover {
+  background-color: #FDCCCB !important;
+}
+.bg-red-200, .bg-red-200-hover:hover {
+  background-color: #FBB7B6 !important;
+}
+.bg-red-250, .bg-red-250-hover:hover {
+  background-color: #FAA2A1 !important;
+}
+.bg-red-300, .bg-red-300-hover:hover {
+  background-color: #F88D8C !important;
+}
+.bg-red-350, .bg-red-350-hover:hover {
+  background-color: #F77777 !important;
+}
+.bg-red-400, .bg-red-400-hover:hover {
+  background-color: #F56262 !important;
+}
+.bg-red-450, .bg-red-450-hover:hover {
+  background-color: #F44D4D !important;
+}
+.bg-red-500, .bg-red-500-hover:hover {
+  background-color: #F23838 !important;
+}
+.bg-red-550, .bg-red-550-hover:hover {
+  background-color: #E43232 !important;
+}
+.bg-red-600, .bg-red-600-hover:hover {
+  background-color: #D62B2C !important;
+}
+.bg-red-650, .bg-red-650-hover:hover {
+  background-color: #C82526 !important;
+}
+.bg-red-700, .bg-red-700-hover:hover {
+  background-color: #BA1E21 !important;
+}
+.bg-red-750, .bg-red-750-hover:hover {
+  background-color: #AB181B !important;
+}
+.bg-red-800, .bg-red-800-hover:hover {
+  background-color: #9D1115 !important;
+}
+.bg-red-850, .bg-red-850-hover:hover {
+  background-color: #8F0B0F !important;
+}
+.bg-red-900, .bg-red-900-hover:hover {
+  background-color: #810409 !important;
+}
+.bg-red-950, .bg-red-950-hover:hover {
+  background-color: #410205 !important;
+}
+.bg-sunset-50, .bg-sunset-50-hover:hover {
+  background-color: #FFF4F3 !important;
+}
+.bg-sunset-100, .bg-sunset-100-hover:hover {
+  background-color: #FFE8E7 !important;
+}
+.bg-sunset-150, .bg-sunset-150-hover:hover {
+  background-color: #FED5D2 !important;
+}
+.bg-sunset-200, .bg-sunset-200-hover:hover {
+  background-color: #FEC2BE !important;
+}
+.bg-sunset-250, .bg-sunset-250-hover:hover {
+  background-color: #FDAFA9 !important;
+}
+.bg-sunset-300, .bg-sunset-300-hover:hover {
+  background-color: #FC9D94 !important;
+}
+.bg-sunset-350, .bg-sunset-350-hover:hover {
+  background-color: #FB8A7F !important;
+}
+.bg-sunset-400, .bg-sunset-400-hover:hover {
+  background-color: #FB776B !important;
+}
+.bg-sunset-450, .bg-sunset-450-hover:hover {
+  background-color: #FA6456 !important;
+}
+.bg-sunset-500, .bg-sunset-500-hover:hover {
+  background-color: #F95141 !important;
+}
+.bg-sunset-550, .bg-sunset-550-hover:hover {
+  background-color: #EF483A !important;
+}
+.bg-sunset-600, .bg-sunset-600-hover:hover {
+  background-color: #E53F32 !important;
+}
+.bg-sunset-650, .bg-sunset-650-hover:hover {
+  background-color: #DA352B !important;
+}
+.bg-sunset-700, .bg-sunset-700-hover:hover {
+  background-color: #D02C23 !important;
+}
+.bg-sunset-750, .bg-sunset-750-hover:hover {
+  background-color: #C6231C !important;
+}
+.bg-sunset-800, .bg-sunset-800-hover:hover {
+  background-color: #BC1A14 !important;
+}
+.bg-sunset-850, .bg-sunset-850-hover:hover {
+  background-color: #B1100D !important;
+}
+.bg-sunset-900, .bg-sunset-900-hover:hover {
+  background-color: #A70705 !important;
+}
+.bg-sunset-950, .bg-sunset-950-hover:hover {
+  background-color: #540403 !important;
+}
+.bg-orange-50, .bg-orange-50-hover:hover {
+  background-color: #FDF9F3 !important;
+}
+.bg-orange-100, .bg-orange-100-hover:hover {
+  background-color: #FAF2E7 !important;
+}
+.bg-orange-150, .bg-orange-150-hover:hover {
+  background-color: #F6E6D1 !important;
+}
+.bg-orange-200, .bg-orange-200-hover:hover {
+  background-color: #F2DABB !important;
+}
+.bg-orange-250, .bg-orange-250-hover:hover {
+  background-color: #EECEA4 !important;
+}
+.bg-orange-300, .bg-orange-300-hover:hover {
+  background-color: #EAC28E !important;
+}
+.bg-orange-350, .bg-orange-350-hover:hover {
+  background-color: #E5B578 !important;
+}
+.bg-orange-400, .bg-orange-400-hover:hover {
+  background-color: #E1A962 !important;
+}
+.bg-orange-450, .bg-orange-450-hover:hover {
+  background-color: #DD9D4B !important;
+}
+.bg-orange-500, .bg-orange-500-hover:hover {
+  background-color: #D99135 !important;
+}
+.bg-orange-550, .bg-orange-550-hover:hover {
+  background-color: #CC8831 !important;
+}
+.bg-orange-600, .bg-orange-600-hover:hover {
+  background-color: #C07E2D !important;
+}
+.bg-orange-650, .bg-orange-650-hover:hover {
+  background-color: #B37529 !important;
+}
+.bg-orange-700, .bg-orange-700-hover:hover {
+  background-color: #A76B26 !important;
+}
+.bg-orange-750, .bg-orange-750-hover:hover {
+  background-color: #9A6222 !important;
+}
+.bg-orange-800, .bg-orange-800-hover:hover {
+  background-color: #8D581E !important;
+}
+.bg-orange-850, .bg-orange-850-hover:hover {
+  background-color: #814F1A !important;
+}
+.bg-orange-900, .bg-orange-900-hover:hover {
+  background-color: #744516 !important;
+}
+.bg-orange-950, .bg-orange-950-hover:hover {
+  background-color: #3A230B !important;
+}
+.bg-amber-50, .bg-amber-50-hover:hover {
+  background-color: #FFFCF1 !important;
+}
+.bg-amber-100, .bg-amber-100-hover:hover {
+  background-color: #FFF9E2 !important;
+}
+.bg-amber-150, .bg-amber-150-hover:hover {
+  background-color: #FFF2C6 !important;
+}
+.bg-amber-200, .bg-amber-200-hover:hover {
+  background-color: #FFEBAA !important;
+}
+.bg-amber-250, .bg-amber-250-hover:hover {
+  background-color: #FFE48E !important;
+}
+.bg-amber-300, .bg-amber-300-hover:hover {
+  background-color: #FFDD72 !important;
+}
+.bg-amber-350, .bg-amber-350-hover:hover {
+  background-color: #FFD556 !important;
+}
+.bg-amber-400, .bg-amber-400-hover:hover {
+  background-color: #FFCE3A !important;
+}
+.bg-amber-450, .bg-amber-450-hover:hover {
+  background-color: #FFC71E !important;
+}
+.bg-amber-500, .bg-amber-500-hover:hover {
+  background-color: #FFC002 !important;
+}
+.bg-amber-550, .bg-amber-550-hover:hover {
+  background-color: #F1B402 !important;
+}
+.bg-amber-600, .bg-amber-600-hover:hover {
+  background-color: #E3A802 !important;
+}
+.bg-amber-650, .bg-amber-650-hover:hover {
+  background-color: #D59C01 !important;
+}
+.bg-amber-700, .bg-amber-700-hover:hover {
+  background-color: #C79001 !important;
+}
+.bg-amber-750, .bg-amber-750-hover:hover {
+  background-color: #B88301 !important;
+}
+.bg-amber-800, .bg-amber-800-hover:hover {
+  background-color: #AA7701 !important;
+}
+.bg-amber-850, .bg-amber-850-hover:hover {
+  background-color: #9C6B00 !important;
+}
+.bg-amber-900, .bg-amber-900-hover:hover {
+  background-color: #8E5F00 !important;
+}
+.bg-amber-950, .bg-amber-950-hover:hover {
+  background-color: #473000 !important;
+}
+.bg-yellow-50, .bg-yellow-50-hover:hover {
+  background-color: #FFFEEC !important;
+}
+.bg-yellow-100, .bg-yellow-100-hover:hover {
+  background-color: #FFFCD9 !important;
+}
+.bg-yellow-150, .bg-yellow-150-hover:hover {
+  background-color: #FFF9C1 !important;
+}
+.bg-yellow-200, .bg-yellow-200-hover:hover {
+  background-color: #FEF5A8 !important;
+}
+.bg-yellow-250, .bg-yellow-250-hover:hover {
+  background-color: #FEF290 !important;
+}
+.bg-yellow-300, .bg-yellow-300-hover:hover {
+  background-color: #FEEF78 !important;
+}
+.bg-yellow-350, .bg-yellow-350-hover:hover {
+  background-color: #FDEB5F !important;
+}
+.bg-yellow-400, .bg-yellow-400-hover:hover {
+  background-color: #FDE847 !important;
+}
+.bg-yellow-450, .bg-yellow-450-hover:hover {
+  background-color: #FCE42E !important;
+}
+.bg-yellow-500, .bg-yellow-500-hover:hover {
+  background-color: #FCE116 !important;
+}
+.bg-yellow-550, .bg-yellow-550-hover:hover {
+  background-color: #EFD414 !important;
+}
+.bg-yellow-600, .bg-yellow-600-hover:hover {
+  background-color: #E2C611 !important;
+}
+.bg-yellow-650, .bg-yellow-650-hover:hover {
+  background-color: #D5B90F !important;
+}
+.bg-yellow-700, .bg-yellow-700-hover:hover {
+  background-color: #C9AB0D !important;
+}
+.bg-yellow-750, .bg-yellow-750-hover:hover {
+  background-color: #BC9E0A !important;
+}
+.bg-yellow-800, .bg-yellow-800-hover:hover {
+  background-color: #AF9008 !important;
+}
+.bg-yellow-850, .bg-yellow-850-hover:hover {
+  background-color: #A28305 !important;
+}
+.bg-yellow-900, .bg-yellow-900-hover:hover {
+  background-color: #957503 !important;
+}
+.bg-yellow-950, .bg-yellow-950-hover:hover {
+  background-color: #4B3B02 !important;
+}
+.bg-lime-green-50, .bg-lime-green-50-hover:hover {
+  background-color: #F6FDEF !important;
+}
+.bg-lime-green-100, .bg-lime-green-100-hover:hover {
+  background-color: #ECFBDF !important;
+}
+.bg-lime-green-150, .bg-lime-green-150-hover:hover {
+  background-color: #DBF6C6 !important;
+}
+.bg-lime-green-200, .bg-lime-green-200-hover:hover {
+  background-color: #CBF2AC !important;
+}
+.bg-lime-green-250, .bg-lime-green-250-hover:hover {
+  background-color: #BAED93 !important;
+}
+.bg-lime-green-300, .bg-lime-green-300-hover:hover {
+  background-color: #A9E87A !important;
+}
+.bg-lime-green-350, .bg-lime-green-350-hover:hover {
+  background-color: #98E360 !important;
+}
+.bg-lime-green-400, .bg-lime-green-400-hover:hover {
+  background-color: #88DF47 !important;
+}
+.bg-lime-green-450, .bg-lime-green-450-hover:hover {
+  background-color: #77DA2D !important;
+}
+.bg-lime-green-500, .bg-lime-green-500-hover:hover {
+  background-color: #66D514 !important;
+}
+.bg-lime-green-550, .bg-lime-green-550-hover:hover {
+  background-color: #5FC813 !important;
+}
+.bg-lime-green-600, .bg-lime-green-600-hover:hover {
+  background-color: #58BC12 !important;
+}
+.bg-lime-green-650, .bg-lime-green-650-hover:hover {
+  background-color: #50AF11 !important;
+}
+.bg-lime-green-700, .bg-lime-green-700-hover:hover {
+  background-color: #49A210 !important;
+}
+.bg-lime-green-750, .bg-lime-green-750-hover:hover {
+  background-color: #42950E !important;
+}
+.bg-lime-green-800, .bg-lime-green-800-hover:hover {
+  background-color: #3B890D !important;
+}
+.bg-lime-green-850, .bg-lime-green-850-hover:hover {
+  background-color: #337C0C !important;
+}
+.bg-lime-green-900, .bg-lime-green-900-hover:hover {
+  background-color: #2C6F0B !important;
+}
+.bg-lime-green-950, .bg-lime-green-950-hover:hover {
+  background-color: #163806 !important;
+}
+.bg-spring-green-50, .bg-spring-green-50-hover:hover {
+  background-color: #F2FCEF !important;
+}
+.bg-spring-green-100, .bg-spring-green-100-hover:hover {
+  background-color: #E4F8DF !important;
+}
+.bg-spring-green-150, .bg-spring-green-150-hover:hover {
+  background-color: #CFF0C8 !important;
+}
+.bg-spring-green-200, .bg-spring-green-200-hover:hover {
+  background-color: #BAE8B1 !important;
+}
+.bg-spring-green-250, .bg-spring-green-250-hover:hover {
+  background-color: #A5E09A !important;
+}
+.bg-spring-green-300, .bg-spring-green-300-hover:hover {
+  background-color: #91D883 !important;
+}
+.bg-spring-green-350, .bg-spring-green-350-hover:hover {
+  background-color: #7CCF6C !important;
+}
+.bg-spring-green-400, .bg-spring-green-400-hover:hover {
+  background-color: #67C755 !important;
+}
+.bg-spring-green-450, .bg-spring-green-450-hover:hover {
+  background-color: #52BF3E !important;
+}
+.bg-spring-green-500, .bg-spring-green-500-hover:hover {
+  background-color: #3DB727 !important;
+}
+.bg-spring-green-550, .bg-spring-green-550-hover:hover {
+  background-color: #39AD25 !important;
+}
+.bg-spring-green-600, .bg-spring-green-600-hover:hover {
+  background-color: #34A223 !important;
+}
+.bg-spring-green-650, .bg-spring-green-650-hover:hover {
+  background-color: #309820 !important;
+}
+.bg-spring-green-700, .bg-spring-green-700-hover:hover {
+  background-color: #2C8D1E !important;
+}
+.bg-spring-green-750, .bg-spring-green-750-hover:hover {
+  background-color: #27831C !important;
+}
+.bg-spring-green-800, .bg-spring-green-800-hover:hover {
+  background-color: #23781A !important;
+}
+.bg-spring-green-850, .bg-spring-green-850-hover:hover {
+  background-color: #1E6E17 !important;
+}
+.bg-spring-green-900, .bg-spring-green-900-hover:hover {
+  background-color: #1A6315 !important;
+}
+.bg-spring-green-950, .bg-spring-green-950-hover:hover {
+  background-color: #0D320B !important;
+}
+.bg-green-50, .bg-green-50-hover:hover {
+  background-color: #F3FAF3 !important;
+}
+.bg-green-100, .bg-green-100-hover:hover {
+  background-color: #E7F5E6 !important;
+}
+.bg-green-150, .bg-green-150-hover:hover {
+  background-color: #D3EBD2 !important;
+}
+.bg-green-200, .bg-green-200-hover:hover {
+  background-color: #C0E2BD !important;
+}
+.bg-green-250, .bg-green-250-hover:hover {
+  background-color: #ACD8A9 !important;
+}
+.bg-green-300, .bg-green-300-hover:hover {
+  background-color: #99CF95 !important;
+}
+.bg-green-350, .bg-green-350-hover:hover {
+  background-color: #85C580 !important;
+}
+.bg-green-400, .bg-green-400-hover:hover {
+  background-color: #71BB6C !important;
+}
+.bg-green-450, .bg-green-450-hover:hover {
+  background-color: #5EB257 !important;
+}
+.bg-green-500, .bg-green-500-hover:hover {
+  background-color: #4AA843 !important;
+}
+.bg-green-550, .bg-green-550-hover:hover {
+  background-color: #459D3F !important;
+}
+.bg-green-600, .bg-green-600-hover:hover {
+  background-color: #40933B !important;
+}
+.bg-green-650, .bg-green-650-hover:hover {
+  background-color: #3B8837 !important;
+}
+.bg-green-700, .bg-green-700-hover:hover {
+  background-color: #367E33 !important;
+}
+.bg-green-750, .bg-green-750-hover:hover {
+  background-color: #31732E !important;
+}
+.bg-green-800, .bg-green-800-hover:hover {
+  background-color: #2C682A !important;
+}
+.bg-green-850, .bg-green-850-hover:hover {
+  background-color: #275E26 !important;
+}
+.bg-green-900, .bg-green-900-hover:hover {
+  background-color: #225322 !important;
+}
+.bg-green-950, .bg-green-950-hover:hover {
+  background-color: #112A11 !important;
+}
+.bg-emerald-50, .bg-emerald-50-hover:hover {
+  background-color: #F3FCF6 !important;
+}
+.bg-emerald-100, .bg-emerald-100-hover:hover {
+  background-color: #E7F8EC !important;
+}
+.bg-emerald-150, .bg-emerald-150-hover:hover {
+  background-color: #D1F0DB !important;
+}
+.bg-emerald-200, .bg-emerald-200-hover:hover {
+  background-color: #BCE8CA !important;
+}
+.bg-emerald-250, .bg-emerald-250-hover:hover {
+  background-color: #A6DFB9 !important;
+}
+.bg-emerald-300, .bg-emerald-300-hover:hover {
+  background-color: #90D7A8 !important;
+}
+.bg-emerald-350, .bg-emerald-350-hover:hover {
+  background-color: #7ACF96 !important;
+}
+.bg-emerald-400, .bg-emerald-400-hover:hover {
+  background-color: #65C785 !important;
+}
+.bg-emerald-450, .bg-emerald-450-hover:hover {
+  background-color: #4FBE74 !important;
+}
+.bg-emerald-500, .bg-emerald-500-hover:hover {
+  background-color: #39B663 !important;
+}
+.bg-emerald-550, .bg-emerald-550-hover:hover {
+  background-color: #36AB5E !important;
+}
+.bg-emerald-600, .bg-emerald-600-hover:hover {
+  background-color: #33A159 !important;
+}
+.bg-emerald-650, .bg-emerald-650-hover:hover {
+  background-color: #2F9654 !important;
+}
+.bg-emerald-700, .bg-emerald-700-hover:hover {
+  background-color: #2C8B4F !important;
+}
+.bg-emerald-750, .bg-emerald-750-hover:hover {
+  background-color: #29804A !important;
+}
+.bg-emerald-800, .bg-emerald-800-hover:hover {
+  background-color: #267645 !important;
+}
+.bg-emerald-850, .bg-emerald-850-hover:hover {
+  background-color: #226B40 !important;
+}
+.bg-emerald-900, .bg-emerald-900-hover:hover {
+  background-color: #1F603B !important;
+}
+.bg-emerald-950, .bg-emerald-950-hover:hover {
+  background-color: #10301E !important;
+}
+.bg-jade-50, .bg-jade-50-hover:hover {
+  background-color: #D4FEF1 !important;
+}
+.bg-jade-100, .bg-jade-100-hover:hover {
+  background-color: #A9FCE3 !important;
+}
+.bg-jade-150, .bg-jade-150-hover:hover {
+  background-color: #94F2D4 !important;
+}
+.bg-jade-200, .bg-jade-200-hover:hover {
+  background-color: #7FE7C5 !important;
+}
+.bg-jade-250, .bg-jade-250-hover:hover {
+  background-color: #6ADDB6 !important;
+}
+.bg-jade-300, .bg-jade-300-hover:hover {
+  background-color: #55D2A8 !important;
+}
+.bg-jade-350, .bg-jade-350-hover:hover {
+  background-color: #3FC899 !important;
+}
+.bg-jade-400, .bg-jade-400-hover:hover {
+  background-color: #2ABD8A !important;
+}
+.bg-jade-450, .bg-jade-450-hover:hover {
+  background-color: #15B37B !important;
+}
+.bg-jade-500, .bg-jade-500-hover:hover {
+  background-color: #00A86C !important;
+}
+.bg-jade-550, .bg-jade-550-hover:hover {
+  background-color: #009D65 !important;
+}
+.bg-jade-600, .bg-jade-600-hover:hover {
+  background-color: #00935D !important;
+}
+.bg-jade-650, .bg-jade-650-hover:hover {
+  background-color: #008856 !important;
+}
+.bg-jade-700, .bg-jade-700-hover:hover {
+  background-color: #007D4E !important;
+}
+.bg-jade-750, .bg-jade-750-hover:hover {
+  background-color: #007247 !important;
+}
+.bg-jade-800, .bg-jade-800-hover:hover {
+  background-color: #00683F !important;
+}
+.bg-jade-850, .bg-jade-850-hover:hover {
+  background-color: #005D38 !important;
+}
+.bg-jade-900, .bg-jade-900-hover:hover {
+  background-color: #005230 !important;
+}
+.bg-jade-950, .bg-jade-950-hover:hover {
+  background-color: #002918 !important;
+}
+.bg-ocean-green-50, .bg-ocean-green-50-hover:hover {
+  background-color: #CBFEF4 !important;
+}
+.bg-ocean-green-100, .bg-ocean-green-100-hover:hover {
+  background-color: #97FDE8 !important;
+}
+.bg-ocean-green-150, .bg-ocean-green-150-hover:hover {
+  background-color: #85F2DB !important;
+}
+.bg-ocean-green-200, .bg-ocean-green-200-hover:hover {
+  background-color: #72E8CF !important;
+}
+.bg-ocean-green-250, .bg-ocean-green-250-hover:hover {
+  background-color: #60DDC2 !important;
+}
+.bg-ocean-green-300, .bg-ocean-green-300-hover:hover {
+  background-color: #4ED3B5 !important;
+}
+.bg-ocean-green-350, .bg-ocean-green-350-hover:hover {
+  background-color: #3BC8A8 !important;
+}
+.bg-ocean-green-400, .bg-ocean-green-400-hover:hover {
+  background-color: #29BD9C !important;
+}
+.bg-ocean-green-450, .bg-ocean-green-450-hover:hover {
+  background-color: #16B38F !important;
+}
+.bg-ocean-green-500, .bg-ocean-green-500-hover:hover {
+  background-color: #04A882 !important;
+}
+.bg-ocean-green-550, .bg-ocean-green-550-hover:hover {
+  background-color: #049D79 !important;
+}
+.bg-ocean-green-600, .bg-ocean-green-600-hover:hover {
+  background-color: #049370 !important;
+}
+.bg-ocean-green-650, .bg-ocean-green-650-hover:hover {
+  background-color: #038867 !important;
+}
+.bg-ocean-green-700, .bg-ocean-green-700-hover:hover {
+  background-color: #037D5E !important;
+}
+.bg-ocean-green-750, .bg-ocean-green-750-hover:hover {
+  background-color: #037255 !important;
+}
+.bg-ocean-green-800, .bg-ocean-green-800-hover:hover {
+  background-color: #03684C !important;
+}
+.bg-ocean-green-850, .bg-ocean-green-850-hover:hover {
+  background-color: #025D43 !important;
+}
+.bg-ocean-green-900, .bg-ocean-green-900-hover:hover {
+  background-color: #02523A !important;
+}
+.bg-ocean-green-950, .bg-ocean-green-950-hover:hover {
+  background-color: #01291D !important;
+}
+.bg-teal-50, .bg-teal-50-hover:hover {
+  background-color: #D7FBF6 !important;
+}
+.bg-teal-100, .bg-teal-100-hover:hover {
+  background-color: #AEF6ED !important;
+}
+.bg-teal-150, .bg-teal-150-hover:hover {
+  background-color: #9BEBE1 !important;
+}
+.bg-teal-200, .bg-teal-200-hover:hover {
+  background-color: #88E0D6 !important;
+}
+.bg-teal-250, .bg-teal-250-hover:hover {
+  background-color: #74D5CA !important;
+}
+.bg-teal-300, .bg-teal-300-hover:hover {
+  background-color: #61CBBF !important;
+}
+.bg-teal-350, .bg-teal-350-hover:hover {
+  background-color: #4EC0B3 !important;
+}
+.bg-teal-400, .bg-teal-400-hover:hover {
+  background-color: #3BB5A7 !important;
+}
+.bg-teal-450, .bg-teal-450-hover:hover {
+  background-color: #27AA9C !important;
+}
+.bg-teal-500, .bg-teal-500-hover:hover {
+  background-color: #149F90 !important;
+}
+.bg-teal-550, .bg-teal-550-hover:hover {
+  background-color: #139487 !important;
+}
+.bg-teal-600, .bg-teal-600-hover:hover {
+  background-color: #11897D !important;
+}
+.bg-teal-650, .bg-teal-650-hover:hover {
+  background-color: #107E74 !important;
+}
+.bg-teal-700, .bg-teal-700-hover:hover {
+  background-color: #0E746B !important;
+}
+.bg-teal-750, .bg-teal-750-hover:hover {
+  background-color: #0D6961 !important;
+}
+.bg-teal-800, .bg-teal-800-hover:hover {
+  background-color: #0B5E58 !important;
+}
+.bg-teal-850, .bg-teal-850-hover:hover {
+  background-color: #0A534E !important;
+}
+.bg-teal-900, .bg-teal-900-hover:hover {
+  background-color: #084845 !important;
+}
+.bg-teal-950, .bg-teal-950-hover:hover {
+  background-color: #042423 !important;
+}
+.bg-cyan-50, .bg-cyan-50-hover:hover {
+  background-color: #DEFCFD !important;
+}
+.bg-cyan-100, .bg-cyan-100-hover:hover {
+  background-color: #BCF9FA !important;
+}
+.bg-cyan-150, .bg-cyan-150-hover:hover {
+  background-color: #A7EEF1 !important;
+}
+.bg-cyan-200, .bg-cyan-200-hover:hover {
+  background-color: #92E4E8 !important;
+}
+.bg-cyan-250, .bg-cyan-250-hover:hover {
+  background-color: #7CD9DE !important;
+}
+.bg-cyan-300, .bg-cyan-300-hover:hover {
+  background-color: #67CFD5 !important;
+}
+.bg-cyan-350, .bg-cyan-350-hover:hover {
+  background-color: #52C4CC !important;
+}
+.bg-cyan-400, .bg-cyan-400-hover:hover {
+  background-color: #3DB9C3 !important;
+}
+.bg-cyan-450, .bg-cyan-450-hover:hover {
+  background-color: #27AFB9 !important;
+}
+.bg-cyan-500, .bg-cyan-500-hover:hover {
+  background-color: #12A4B0 !important;
+}
+.bg-cyan-550, .bg-cyan-550-hover:hover {
+  background-color: #119AA6 !important;
+}
+.bg-cyan-600, .bg-cyan-600-hover:hover {
+  background-color: #108F9B !important;
+}
+.bg-cyan-650, .bg-cyan-650-hover:hover {
+  background-color: #0F8591 !important;
+}
+.bg-cyan-700, .bg-cyan-700-hover:hover {
+  background-color: #0E7A87 !important;
+}
+.bg-cyan-750, .bg-cyan-750-hover:hover {
+  background-color: #0D707C !important;
+}
+.bg-cyan-800, .bg-cyan-800-hover:hover {
+  background-color: #0C6572 !important;
+}
+.bg-cyan-850, .bg-cyan-850-hover:hover {
+  background-color: #0B5B67 !important;
+}
+.bg-cyan-900, .bg-cyan-900-hover:hover {
+  background-color: #0A505D !important;
+}
+.bg-cyan-950, .bg-cyan-950-hover:hover {
+  background-color: #05282F !important;
+}
+.bg-ocean-blue-50, .bg-ocean-blue-50-hover:hover {
+  background-color: #E4F8FD !important;
+}
+.bg-ocean-blue-100, .bg-ocean-blue-100-hover:hover {
+  background-color: #C9F0FB !important;
+}
+.bg-ocean-blue-150, .bg-ocean-blue-150-hover:hover {
+  background-color: #B0E4F3 !important;
+}
+.bg-ocean-blue-200, .bg-ocean-blue-200-hover:hover {
+  background-color: #97D8EB !important;
+}
+.bg-ocean-blue-250, .bg-ocean-blue-250-hover:hover {
+  background-color: #7ECBE3 !important;
+}
+.bg-ocean-blue-300, .bg-ocean-blue-300-hover:hover {
+  background-color: #65BFDC !important;
+}
+.bg-ocean-blue-350, .bg-ocean-blue-350-hover:hover {
+  background-color: #4BB3D4 !important;
+}
+.bg-ocean-blue-400, .bg-ocean-blue-400-hover:hover {
+  background-color: #32A7CC !important;
+}
+.bg-ocean-blue-450, .bg-ocean-blue-450-hover:hover {
+  background-color: #199AC4 !important;
+}
+.bg-ocean-blue-500, .bg-ocean-blue-500-hover:hover {
+  background-color: #008EBC !important;
+}
+.bg-ocean-blue-550, .bg-ocean-blue-550-hover:hover {
+  background-color: #0083AF !important;
+}
+.bg-ocean-blue-600, .bg-ocean-blue-600-hover:hover {
+  background-color: #0079A2 !important;
+}
+.bg-ocean-blue-650, .bg-ocean-blue-650-hover:hover {
+  background-color: #006E95 !important;
+}
+.bg-ocean-blue-700, .bg-ocean-blue-700-hover:hover {
+  background-color: #006488 !important;
+}
+.bg-ocean-blue-750, .bg-ocean-blue-750-hover:hover {
+  background-color: #00597B !important;
+}
+.bg-ocean-blue-800, .bg-ocean-blue-800-hover:hover {
+  background-color: #004E6E !important;
+}
+.bg-ocean-blue-850, .bg-ocean-blue-850-hover:hover {
+  background-color: #004461 !important;
+}
+.bg-ocean-blue-900, .bg-ocean-blue-900-hover:hover {
+  background-color: #003954 !important;
+}
+.bg-ocean-blue-950, .bg-ocean-blue-950-hover:hover {
+  background-color: #001D2A !important;
+}
+.bg-crystal-blue-50, .bg-crystal-blue-50-hover:hover {
+  background-color: #EFF7FD !important;
+}
+.bg-crystal-blue-100, .bg-crystal-blue-100-hover:hover {
+  background-color: #DFEFFB !important;
+}
+.bg-crystal-blue-150, .bg-crystal-blue-150-hover:hover {
+  background-color: #CBE4F8 !important;
+}
+.bg-crystal-blue-200, .bg-crystal-blue-200-hover:hover {
+  background-color: #B7D9F4 !important;
+}
+.bg-crystal-blue-250, .bg-crystal-blue-250-hover:hover {
+  background-color: #A3CEF1 !important;
+}
+.bg-crystal-blue-300, .bg-crystal-blue-300-hover:hover {
+  background-color: #8FC3EE !important;
+}
+.bg-crystal-blue-350, .bg-crystal-blue-350-hover:hover {
+  background-color: #7BB7EA !important;
+}
+.bg-crystal-blue-400, .bg-crystal-blue-400-hover:hover {
+  background-color: #67ACE7 !important;
+}
+.bg-crystal-blue-450, .bg-crystal-blue-450-hover:hover {
+  background-color: #53A1E3 !important;
+}
+.bg-crystal-blue-500, .bg-crystal-blue-500-hover:hover {
+  background-color: #3F96E0 !important;
+}
+.bg-crystal-blue-550, .bg-crystal-blue-550-hover:hover {
+  background-color: #3A8CD3 !important;
+}
+.bg-crystal-blue-600, .bg-crystal-blue-600-hover:hover {
+  background-color: #3481C7 !important;
+}
+.bg-crystal-blue-650, .bg-crystal-blue-650-hover:hover {
+  background-color: #2F77BA !important;
+}
+.bg-crystal-blue-700, .bg-crystal-blue-700-hover:hover {
+  background-color: #296DAD !important;
+}
+.bg-crystal-blue-750, .bg-crystal-blue-750-hover:hover {
+  background-color: #2462A0 !important;
+}
+.bg-crystal-blue-800, .bg-crystal-blue-800-hover:hover {
+  background-color: #1E5894 !important;
+}
+.bg-crystal-blue-850, .bg-crystal-blue-850-hover:hover {
+  background-color: #194D87 !important;
+}
+.bg-crystal-blue-900, .bg-crystal-blue-900-hover:hover {
+  background-color: #13437A !important;
+}
+.bg-crystal-blue-950, .bg-crystal-blue-950-hover:hover {
+  background-color: #0A223D !important;
+}
+.bg-brown-50, .bg-brown-50-hover:hover {
+  background-color: #F7F2F1 !important;
+}
+.bg-brown-100, .bg-brown-100-hover:hover {
+  background-color: #EEE4E2 !important;
+}
+.bg-brown-150, .bg-brown-150-hover:hover {
+  background-color: #E3D4D0 !important;
+}
+.bg-brown-200, .bg-brown-200-hover:hover {
+  background-color: #D7C3BF !important;
+}
+.bg-brown-250, .bg-brown-250-hover:hover {
+  background-color: #CCB3AD !important;
+}
+.bg-brown-300, .bg-brown-300-hover:hover {
+  background-color: #C0A39C !important;
+}
+.bg-brown-350, .bg-brown-350-hover:hover {
+  background-color: #B5928A !important;
+}
+.bg-brown-400, .bg-brown-400-hover:hover {
+  background-color: #A98278 !important;
+}
+.bg-brown-450, .bg-brown-450-hover:hover {
+  background-color: #9E7167 !important;
+}
+.bg-brown-500, .bg-brown-500-hover:hover {
+  background-color: #926155 !important;
+}
+.bg-brown-550, .bg-brown-550-hover:hover {
+  background-color: #895B50 !important;
+}
+.bg-brown-600, .bg-brown-600-hover:hover {
+  background-color: #80544A !important;
+}
+.bg-brown-650, .bg-brown-650-hover:hover {
+  background-color: #774E45 !important;
+}
+.bg-brown-700, .bg-brown-700-hover:hover {
+  background-color: #6E4840 !important;
+}
+.bg-brown-750, .bg-brown-750-hover:hover {
+  background-color: #64413A !important;
+}
+.bg-brown-800, .bg-brown-800-hover:hover {
+  background-color: #5B3B35 !important;
+}
+.bg-brown-850, .bg-brown-850-hover:hover {
+  background-color: #52342F !important;
+}
+.bg-brown-900, .bg-brown-900-hover:hover {
+  background-color: #492E2A !important;
+}
+.bg-brown-950, .bg-brown-950-hover:hover {
+  background-color: #251715 !important;
+}
+.bg-blue-gray-50, .bg-blue-gray-50-hover:hover {
+  background-color: #F9FAFB !important;
+}
+.bg-blue-gray-100, .bg-blue-gray-100-hover:hover {
+  background-color: #F3F4F6 !important;
+}
+.bg-blue-gray-150, .bg-blue-gray-150-hover:hover {
+  background-color: #E5E7EB !important;
+}
+.bg-blue-gray-200, .bg-blue-gray-200-hover:hover {
+  background-color: #D8DAE0 !important;
+}
+.bg-blue-gray-250, .bg-blue-gray-250-hover:hover {
+  background-color: #CACDD5 !important;
+}
+.bg-blue-gray-300, .bg-blue-gray-300-hover:hover {
+  background-color: #BCC1CB !important;
+}
+.bg-blue-gray-350, .bg-blue-gray-350-hover:hover {
+  background-color: #AEB4C0 !important;
+}
+.bg-blue-gray-400, .bg-blue-gray-400-hover:hover {
+  background-color: #A1A7B5 !important;
+}
+.bg-blue-gray-450, .bg-blue-gray-450-hover:hover {
+  background-color: #939AAA !important;
+}
+.bg-blue-gray-500, .bg-blue-gray-500-hover:hover {
+  background-color: #858D9F !important;
+}
+.bg-blue-gray-550, .bg-blue-gray-550-hover:hover {
+  background-color: #798091 !important;
+}
+.bg-blue-gray-600, .bg-blue-gray-600-hover:hover {
+  background-color: #6C7382 !important;
+}
+.bg-blue-gray-650, .bg-blue-gray-650-hover:hover {
+  background-color: #606574 !important;
+}
+.bg-blue-gray-700, .bg-blue-gray-700-hover:hover {
+  background-color: #535865 !important;
+}
+.bg-blue-gray-750, .bg-blue-gray-750-hover:hover {
+  background-color: #474B57 !important;
+}
+.bg-blue-gray-800, .bg-blue-gray-800-hover:hover {
+  background-color: #3A3E48 !important;
+}
+.bg-blue-gray-850, .bg-blue-gray-850-hover:hover {
+  background-color: #2E303A !important;
+}
+.bg-blue-gray-900, .bg-blue-gray-900-hover:hover {
+  background-color: #21232B !important;
+}
+.bg-blue-gray-950, .bg-blue-gray-950-hover:hover {
+  background-color: #111216 !important;
+}
+.bg-cool-gray-50, .bg-cool-gray-50-hover:hover {
+  background-color: #F8FAFB !important;
+}
+.bg-cool-gray-100, .bg-cool-gray-100-hover:hover {
+  background-color: #F1F4F6 !important;
+}
+.bg-cool-gray-150, .bg-cool-gray-150-hover:hover {
+  background-color: #E3E7EA !important;
+}
+.bg-cool-gray-200, .bg-cool-gray-200-hover:hover {
+  background-color: #D6DBDE !important;
+}
+.bg-cool-gray-250, .bg-cool-gray-250-hover:hover {
+  background-color: #C8CED2 !important;
+}
+.bg-cool-gray-300, .bg-cool-gray-300-hover:hover {
+  background-color: #BBC1C6 !important;
+}
+.bg-cool-gray-350, .bg-cool-gray-350-hover:hover {
+  background-color: #ADB4BA !important;
+}
+.bg-cool-gray-400, .bg-cool-gray-400-hover:hover {
+  background-color: #9FA8AE !important;
+}
+.bg-cool-gray-450, .bg-cool-gray-450-hover:hover {
+  background-color: #929BA2 !important;
+}
+.bg-cool-gray-500, .bg-cool-gray-500-hover:hover {
+  background-color: #848E96 !important;
+}
+.bg-cool-gray-550, .bg-cool-gray-550-hover:hover {
+  background-color: #788188 !important;
+}
+.bg-cool-gray-600, .bg-cool-gray-600-hover:hover {
+  background-color: #6B747B !important;
+}
+.bg-cool-gray-650, .bg-cool-gray-650-hover:hover {
+  background-color: #5F666D !important;
+}
+.bg-cool-gray-700, .bg-cool-gray-700-hover:hover {
+  background-color: #52595F !important;
+}
+.bg-cool-gray-750, .bg-cool-gray-750-hover:hover {
+  background-color: #464C51 !important;
+}
+.bg-cool-gray-800, .bg-cool-gray-800-hover:hover {
+  background-color: #393F44 !important;
+}
+.bg-cool-gray-850, .bg-cool-gray-850-hover:hover {
+  background-color: #2D3136 !important;
+}
+.bg-cool-gray-900, .bg-cool-gray-900-hover:hover {
+  background-color: #202428 !important;
+}
+.bg-cool-gray-950, .bg-cool-gray-950-hover:hover {
+  background-color: #101214 !important;
+}
+.bg-normal-gray-50, .bg-normal-gray-50-hover:hover {
+  background-color: #FAFAFA !important;
+}
+.bg-normal-gray-100, .bg-normal-gray-100-hover:hover {
+  background-color: #F4F4F4 !important;
+}
+.bg-normal-gray-150, .bg-normal-gray-150-hover:hover {
+  background-color: #E7E7E7 !important;
+}
+.bg-normal-gray-200, .bg-normal-gray-200-hover:hover {
+  background-color: #DBDBDB !important;
+}
+.bg-normal-gray-250, .bg-normal-gray-250-hover:hover {
+  background-color: #CECECE !important;
+}
+.bg-normal-gray-300, .bg-normal-gray-300-hover:hover {
+  background-color: #C1C1C1 !important;
+}
+.bg-normal-gray-350, .bg-normal-gray-350-hover:hover {
+  background-color: #B4B4B4 !important;
+}
+.bg-normal-gray-400, .bg-normal-gray-400-hover:hover {
+  background-color: #A8A8A8 !important;
+}
+.bg-normal-gray-450, .bg-normal-gray-450-hover:hover {
+  background-color: #9B9B9B !important;
+}
+.bg-normal-gray-500, .bg-normal-gray-500-hover:hover {
+  background-color: #8E8E8E !important;
+}
+.bg-normal-gray-550, .bg-normal-gray-550-hover:hover {
+  background-color: #818181 !important;
+}
+.bg-normal-gray-600, .bg-normal-gray-600-hover:hover {
+  background-color: #747474 !important;
+}
+.bg-normal-gray-650, .bg-normal-gray-650-hover:hover {
+  background-color: #666666 !important;
+}
+.bg-normal-gray-700, .bg-normal-gray-700-hover:hover {
+  background-color: #595959 !important;
+}
+.bg-normal-gray-750, .bg-normal-gray-750-hover:hover {
+  background-color: #4C4C4C !important;
+}
+.bg-normal-gray-800, .bg-normal-gray-800-hover:hover {
+  background-color: #3F3F3F !important;
+}
+.bg-normal-gray-850, .bg-normal-gray-850-hover:hover {
+  background-color: #313131 !important;
+}
+.bg-normal-gray-900, .bg-normal-gray-900-hover:hover {
+  background-color: #242424 !important;
+}
+.bg-normal-gray-950, .bg-normal-gray-950-hover:hover {
+  background-color: #121212 !important;
+}
+.bg-warm-gray-50, .bg-warm-gray-50-hover:hover {
+  background-color: #FBFAF9 !important;
+}
+.bg-warm-gray-100, .bg-warm-gray-100-hover:hover {
+  background-color: #F6F4F2 !important;
+}
+.bg-warm-gray-150, .bg-warm-gray-150-hover:hover {
+  background-color: #EAE7E5 !important;
+}
+.bg-warm-gray-200, .bg-warm-gray-200-hover:hover {
+  background-color: #DEDBD8 !important;
+}
+.bg-warm-gray-250, .bg-warm-gray-250-hover:hover {
+  background-color: #D2CECA !important;
+}
+.bg-warm-gray-300, .bg-warm-gray-300-hover:hover {
+  background-color: #C6C1BD !important;
+}
+.bg-warm-gray-350, .bg-warm-gray-350-hover:hover {
+  background-color: #B9B4B0 !important;
+}
+.bg-warm-gray-400, .bg-warm-gray-400-hover:hover {
+  background-color: #ADA8A3 !important;
+}
+.bg-warm-gray-450, .bg-warm-gray-450-hover:hover {
+  background-color: #A19B95 !important;
+}
+.bg-warm-gray-500, .bg-warm-gray-500-hover:hover {
+  background-color: #958E88 !important;
+}
+.bg-warm-gray-550, .bg-warm-gray-550-hover:hover {
+  background-color: #88817B !important;
+}
+.bg-warm-gray-600, .bg-warm-gray-600-hover:hover {
+  background-color: #7A746E !important;
+}
+.bg-warm-gray-650, .bg-warm-gray-650-hover:hover {
+  background-color: #6D6661 !important;
+}
+.bg-warm-gray-700, .bg-warm-gray-700-hover:hover {
+  background-color: #5F5955 !important;
+}
+.bg-warm-gray-750, .bg-warm-gray-750-hover:hover {
+  background-color: #524C48 !important;
+}
+.bg-warm-gray-800, .bg-warm-gray-800-hover:hover {
+  background-color: #443F3B !important;
+}
+.bg-warm-gray-850, .bg-warm-gray-850-hover:hover {
+  background-color: #37312E !important;
+}
+.bg-warm-gray-900, .bg-warm-gray-900-hover:hover {
+  background-color: #292421 !important;
+}
+.bg-warm-gray-950, .bg-warm-gray-950-hover:hover {
+  background-color: #151211 !important;
+}
+
+/* Color Alphas */
+.bg-sky-blue-a100, .bg-sky-blue-a100-hover:hover {
+  background-color: rgba(49, 170, 246, 0.1) !important;
+}
+.bg-sky-blue-a200, .bg-sky-blue-a200-hover:hover {
+  background-color: rgba(49, 170, 246, 0.2) !important;
+}
+.bg-sky-blue-a300, .bg-sky-blue-a300-hover:hover {
+  background-color: rgba(49, 170, 246, 0.3) !important;
+}
+.bg-sky-blue-a400, .bg-sky-blue-a400-hover:hover {
+  background-color: rgba(49, 170, 246, 0.4) !important;
+}
+.bg-sky-blue-a500, .bg-sky-blue-a500-hover:hover {
+  background-color: rgba(49, 170, 246, 0.5) !important;
+}
+.bg-sky-blue-a600, .bg-sky-blue-a600-hover:hover {
+  background-color: rgba(49, 170, 246, 0.6) !important;
+}
+.bg-sky-blue-a700, .bg-sky-blue-a700-hover:hover {
+  background-color: rgba(49, 170, 246, 0.7) !important;
+}
+.bg-sky-blue-a800, .bg-sky-blue-a800-hover:hover {
+  background-color: rgba(49, 170, 246, 0.8) !important;
+}
+.bg-sky-blue-a900, .bg-sky-blue-a900-hover:hover {
+  background-color: rgba(49, 170, 246, 0.9) !important;
+}
+.bg-blue-a100, .bg-blue-a100-hover:hover {
+  background-color: rgba(66, 131, 242, 0.1) !important;
+}
+.bg-blue-a200, .bg-blue-a200-hover:hover {
+  background-color: rgba(66, 131, 242, 0.2) !important;
+}
+.bg-blue-a300, .bg-blue-a300-hover:hover {
+  background-color: rgba(66, 131, 242, 0.3) !important;
+}
+.bg-blue-a400, .bg-blue-a400-hover:hover {
+  background-color: rgba(66, 131, 242, 0.4) !important;
+}
+.bg-blue-a500, .bg-blue-a500-hover:hover {
+  background-color: rgba(66, 131, 242, 0.5) !important;
+}
+.bg-blue-a600, .bg-blue-a600-hover:hover {
+  background-color: rgba(66, 131, 242, 0.6) !important;
+}
+.bg-blue-a700, .bg-blue-a700-hover:hover {
+  background-color: rgba(66, 131, 242, 0.7) !important;
+}
+.bg-blue-a800, .bg-blue-a800-hover:hover {
+  background-color: rgba(66, 131, 242, 0.8) !important;
+}
+.bg-blue-a900, .bg-blue-a900-hover:hover {
+  background-color: rgba(66, 131, 242, 0.9) !important;
+}
+.bg-indigo-a100, .bg-indigo-a100-hover:hover {
+  background-color: rgba(81, 116, 224, 0.1) !important;
+}
+.bg-indigo-a200, .bg-indigo-a200-hover:hover {
+  background-color: rgba(81, 116, 224, 0.2) !important;
+}
+.bg-indigo-a300, .bg-indigo-a300-hover:hover {
+  background-color: rgba(81, 116, 224, 0.3) !important;
+}
+.bg-indigo-a400, .bg-indigo-a400-hover:hover {
+  background-color: rgba(81, 116, 224, 0.4) !important;
+}
+.bg-indigo-a500, .bg-indigo-a500-hover:hover {
+  background-color: rgba(81, 116, 224, 0.5) !important;
+}
+.bg-indigo-a600, .bg-indigo-a600-hover:hover {
+  background-color: rgba(81, 116, 224, 0.6) !important;
+}
+.bg-indigo-a700, .bg-indigo-a700-hover:hover {
+  background-color: rgba(81, 116, 224, 0.7) !important;
+}
+.bg-indigo-a800, .bg-indigo-a800-hover:hover {
+  background-color: rgba(81, 116, 224, 0.8) !important;
+}
+.bg-indigo-a900, .bg-indigo-a900-hover:hover {
+  background-color: rgba(81, 116, 224, 0.9) !important;
+}
+.bg-purple-a100, .bg-purple-a100-hover:hover {
+  background-color: rgba(196, 59, 228, 0.1) !important;
+}
+.bg-purple-a200, .bg-purple-a200-hover:hover {
+  background-color: rgba(196, 59, 228, 0.2) !important;
+}
+.bg-purple-a300, .bg-purple-a300-hover:hover {
+  background-color: rgba(196, 59, 228, 0.3) !important;
+}
+.bg-purple-a400, .bg-purple-a400-hover:hover {
+  background-color: rgba(196, 59, 228, 0.4) !important;
+}
+.bg-purple-a500, .bg-purple-a500-hover:hover {
+  background-color: rgba(196, 59, 228, 0.5) !important;
+}
+.bg-purple-a600, .bg-purple-a600-hover:hover {
+  background-color: rgba(196, 59, 228, 0.6) !important;
+}
+.bg-purple-a700, .bg-purple-a700-hover:hover {
+  background-color: rgba(196, 59, 228, 0.7) !important;
+}
+.bg-purple-a800, .bg-purple-a800-hover:hover {
+  background-color: rgba(196, 59, 228, 0.8) !important;
+}
+.bg-purple-a900, .bg-purple-a900-hover:hover {
+  background-color: rgba(196, 59, 228, 0.9) !important;
+}
+.bg-pink-a100, .bg-pink-a100-hover:hover {
+  background-color: rgba(255, 40, 148, 0.1) !important;
+}
+.bg-pink-a200, .bg-pink-a200-hover:hover {
+  background-color: rgba(255, 40, 148, 0.2) !important;
+}
+.bg-pink-a300, .bg-pink-a300-hover:hover {
+  background-color: rgba(255, 40, 148, 0.3) !important;
+}
+.bg-pink-a400, .bg-pink-a400-hover:hover {
+  background-color: rgba(255, 40, 148, 0.4) !important;
+}
+.bg-pink-a500, .bg-pink-a500-hover:hover {
+  background-color: rgba(255, 40, 148, 0.5) !important;
+}
+.bg-pink-a600, .bg-pink-a600-hover:hover {
+  background-color: rgba(255, 40, 148, 0.6) !important;
+}
+.bg-pink-a700, .bg-pink-a700-hover:hover {
+  background-color: rgba(255, 40, 148, 0.7) !important;
+}
+.bg-pink-a800, .bg-pink-a800-hover:hover {
+  background-color: rgba(255, 40, 148, 0.8) !important;
+}
+.bg-pink-a900, .bg-pink-a900-hover:hover {
+  background-color: rgba(255, 40, 148, 0.9) !important;
+}
+.bg-rose-a100, .bg-rose-a100-hover:hover {
+  background-color: rgba(255, 49, 117, 0.1) !important;
+}
+.bg-rose-a200, .bg-rose-a200-hover:hover {
+  background-color: rgba(255, 49, 117, 0.2) !important;
+}
+.bg-rose-a300, .bg-rose-a300-hover:hover {
+  background-color: rgba(255, 49, 117, 0.3) !important;
+}
+.bg-rose-a400, .bg-rose-a400-hover:hover {
+  background-color: rgba(255, 49, 117, 0.4) !important;
+}
+.bg-rose-a500, .bg-rose-a500-hover:hover {
+  background-color: rgba(255, 49, 117, 0.5) !important;
+}
+.bg-rose-a600, .bg-rose-a600-hover:hover {
+  background-color: rgba(255, 49, 117, 0.6) !important;
+}
+.bg-rose-a700, .bg-rose-a700-hover:hover {
+  background-color: rgba(255, 49, 117, 0.7) !important;
+}
+.bg-rose-a800, .bg-rose-a800-hover:hover {
+  background-color: rgba(255, 49, 117, 0.8) !important;
+}
+.bg-rose-a900, .bg-rose-a900-hover:hover {
+  background-color: rgba(255, 49, 117, 0.9) !important;
+}
+.bg-red-a100, .bg-red-a100-hover:hover {
+  background-color: rgba(242, 56, 56, 0.1) !important;
+}
+.bg-red-a200, .bg-red-a200-hover:hover {
+  background-color: rgba(242, 56, 56, 0.2) !important;
+}
+.bg-red-a300, .bg-red-a300-hover:hover {
+  background-color: rgba(242, 56, 56, 0.3) !important;
+}
+.bg-red-a400, .bg-red-a400-hover:hover {
+  background-color: rgba(242, 56, 56, 0.4) !important;
+}
+.bg-red-a500, .bg-red-a500-hover:hover {
+  background-color: rgba(242, 56, 56, 0.5) !important;
+}
+.bg-red-a600, .bg-red-a600-hover:hover {
+  background-color: rgba(242, 56, 56, 0.6) !important;
+}
+.bg-red-a700, .bg-red-a700-hover:hover {
+  background-color: rgba(242, 56, 56, 0.7) !important;
+}
+.bg-red-a800, .bg-red-a800-hover:hover {
+  background-color: rgba(242, 56, 56, 0.8) !important;
+}
+.bg-red-a900, .bg-red-a900-hover:hover {
+  background-color: rgba(242, 56, 56, 0.9) !important;
+}
+.bg-sunset-a100, .bg-sunset-a100-hover:hover {
+  background-color: rgba(249, 81, 65, 0.1) !important;
+}
+.bg-sunset-a200, .bg-sunset-a200-hover:hover {
+  background-color: rgba(249, 81, 65, 0.2) !important;
+}
+.bg-sunset-a300, .bg-sunset-a300-hover:hover {
+  background-color: rgba(249, 81, 65, 0.3) !important;
+}
+.bg-sunset-a400, .bg-sunset-a400-hover:hover {
+  background-color: rgba(249, 81, 65, 0.4) !important;
+}
+.bg-sunset-a500, .bg-sunset-a500-hover:hover {
+  background-color: rgba(249, 81, 65, 0.5) !important;
+}
+.bg-sunset-a600, .bg-sunset-a600-hover:hover {
+  background-color: rgba(249, 81, 65, 0.6) !important;
+}
+.bg-sunset-a700, .bg-sunset-a700-hover:hover {
+  background-color: rgba(249, 81, 65, 0.7) !important;
+}
+.bg-sunset-a800, .bg-sunset-a800-hover:hover {
+  background-color: rgba(249, 81, 65, 0.8) !important;
+}
+.bg-sunset-a900, .bg-sunset-a900-hover:hover {
+  background-color: rgba(249, 81, 65, 0.9) !important;
+}
+.bg-orange-a100, .bg-orange-a100-hover:hover {
+  background-color: rgba(217, 145, 53, 0.1) !important;
+}
+.bg-orange-a200, .bg-orange-a200-hover:hover {
+  background-color: rgba(217, 145, 53, 0.2) !important;
+}
+.bg-orange-a300, .bg-orange-a300-hover:hover {
+  background-color: rgba(217, 145, 53, 0.3) !important;
+}
+.bg-orange-a400, .bg-orange-a400-hover:hover {
+  background-color: rgba(217, 145, 53, 0.4) !important;
+}
+.bg-orange-a500, .bg-orange-a500-hover:hover {
+  background-color: rgba(217, 145, 53, 0.5) !important;
+}
+.bg-orange-a600, .bg-orange-a600-hover:hover {
+  background-color: rgba(217, 145, 53, 0.6) !important;
+}
+.bg-orange-a700, .bg-orange-a700-hover:hover {
+  background-color: rgba(217, 145, 53, 0.7) !important;
+}
+.bg-orange-a800, .bg-orange-a800-hover:hover {
+  background-color: rgba(217, 145, 53, 0.8) !important;
+}
+.bg-orange-a900, .bg-orange-a900-hover:hover {
+  background-color: rgba(217, 145, 53, 0.9) !important;
+}
+.bg-amber-a100, .bg-amber-a100-hover:hover {
+  background-color: rgba(255, 192, 2, 0.1) !important;
+}
+.bg-amber-a200, .bg-amber-a200-hover:hover {
+  background-color: rgba(255, 192, 2, 0.2) !important;
+}
+.bg-amber-a300, .bg-amber-a300-hover:hover {
+  background-color: rgba(255, 192, 2, 0.3) !important;
+}
+.bg-amber-a400, .bg-amber-a400-hover:hover {
+  background-color: rgba(255, 192, 2, 0.4) !important;
+}
+.bg-amber-a500, .bg-amber-a500-hover:hover {
+  background-color: rgba(255, 192, 2, 0.5) !important;
+}
+.bg-amber-a600, .bg-amber-a600-hover:hover {
+  background-color: rgba(255, 192, 2, 0.6) !important;
+}
+.bg-amber-a700, .bg-amber-a700-hover:hover {
+  background-color: rgba(255, 192, 2, 0.7) !important;
+}
+.bg-amber-a800, .bg-amber-a800-hover:hover {
+  background-color: rgba(255, 192, 2, 0.8) !important;
+}
+.bg-amber-a900, .bg-amber-a900-hover:hover {
+  background-color: rgba(255, 192, 2, 0.9) !important;
+}
+.bg-yellow-a100, .bg-yellow-a100-hover:hover {
+  background-color: rgba(252, 225, 22, 0.1) !important;
+}
+.bg-yellow-a200, .bg-yellow-a200-hover:hover {
+  background-color: rgba(252, 225, 22, 0.2) !important;
+}
+.bg-yellow-a300, .bg-yellow-a300-hover:hover {
+  background-color: rgba(252, 225, 22, 0.3) !important;
+}
+.bg-yellow-a400, .bg-yellow-a400-hover:hover {
+  background-color: rgba(252, 225, 22, 0.4) !important;
+}
+.bg-yellow-a500, .bg-yellow-a500-hover:hover {
+  background-color: rgba(252, 225, 22, 0.5) !important;
+}
+.bg-yellow-a600, .bg-yellow-a600-hover:hover {
+  background-color: rgba(252, 225, 22, 0.6) !important;
+}
+.bg-yellow-a700, .bg-yellow-a700-hover:hover {
+  background-color: rgba(252, 225, 22, 0.7) !important;
+}
+.bg-yellow-a800, .bg-yellow-a800-hover:hover {
+  background-color: rgba(252, 225, 22, 0.8) !important;
+}
+.bg-yellow-a900, .bg-yellow-a900-hover:hover {
+  background-color: rgba(252, 225, 22, 0.9) !important;
+}
+.bg-lime-green-a100, .bg-lime-green-a100-hover:hover {
+  background-color: rgba(102, 213, 20, 0.1) !important;
+}
+.bg-lime-green-a200, .bg-lime-green-a200-hover:hover {
+  background-color: rgba(102, 213, 20, 0.2) !important;
+}
+.bg-lime-green-a300, .bg-lime-green-a300-hover:hover {
+  background-color: rgba(102, 213, 20, 0.3) !important;
+}
+.bg-lime-green-a400, .bg-lime-green-a400-hover:hover {
+  background-color: rgba(102, 213, 20, 0.4) !important;
+}
+.bg-lime-green-a500, .bg-lime-green-a500-hover:hover {
+  background-color: rgba(102, 213, 20, 0.5) !important;
+}
+.bg-lime-green-a600, .bg-lime-green-a600-hover:hover {
+  background-color: rgba(102, 213, 20, 0.6) !important;
+}
+.bg-lime-green-a700, .bg-lime-green-a700-hover:hover {
+  background-color: rgba(102, 213, 20, 0.7) !important;
+}
+.bg-lime-green-a800, .bg-lime-green-a800-hover:hover {
+  background-color: rgba(102, 213, 20, 0.8) !important;
+}
+.bg-lime-green-a900, .bg-lime-green-a900-hover:hover {
+  background-color: rgba(102, 213, 20, 0.9) !important;
+}
+.bg-spring-green-a100, .bg-spring-green-a100-hover:hover {
+  background-color: rgba(61, 183, 39, 0.1) !important;
+}
+.bg-spring-green-a200, .bg-spring-green-a200-hover:hover {
+  background-color: rgba(61, 183, 39, 0.2) !important;
+}
+.bg-spring-green-a300, .bg-spring-green-a300-hover:hover {
+  background-color: rgba(61, 183, 39, 0.3) !important;
+}
+.bg-spring-green-a400, .bg-spring-green-a400-hover:hover {
+  background-color: rgba(61, 183, 39, 0.4) !important;
+}
+.bg-spring-green-a500, .bg-spring-green-a500-hover:hover {
+  background-color: rgba(61, 183, 39, 0.5) !important;
+}
+.bg-spring-green-a600, .bg-spring-green-a600-hover:hover {
+  background-color: rgba(61, 183, 39, 0.6) !important;
+}
+.bg-spring-green-a700, .bg-spring-green-a700-hover:hover {
+  background-color: rgba(61, 183, 39, 0.7) !important;
+}
+.bg-spring-green-a800, .bg-spring-green-a800-hover:hover {
+  background-color: rgba(61, 183, 39, 0.8) !important;
+}
+.bg-spring-green-a900, .bg-spring-green-a900-hover:hover {
+  background-color: rgba(61, 183, 39, 0.9) !important;
+}
+.bg-green-a100, .bg-green-a100-hover:hover {
+  background-color: rgba(74, 168, 67, 0.1) !important;
+}
+.bg-green-a200, .bg-green-a200-hover:hover {
+  background-color: rgba(74, 168, 67, 0.2) !important;
+}
+.bg-green-a300, .bg-green-a300-hover:hover {
+  background-color: rgba(74, 168, 67, 0.3) !important;
+}
+.bg-green-a400, .bg-green-a400-hover:hover {
+  background-color: rgba(74, 168, 67, 0.4) !important;
+}
+.bg-green-a500, .bg-green-a500-hover:hover {
+  background-color: rgba(74, 168, 67, 0.5) !important;
+}
+.bg-green-a600, .bg-green-a600-hover:hover {
+  background-color: rgba(74, 168, 67, 0.6) !important;
+}
+.bg-green-a700, .bg-green-a700-hover:hover {
+  background-color: rgba(74, 168, 67, 0.7) !important;
+}
+.bg-green-a800, .bg-green-a800-hover:hover {
+  background-color: rgba(74, 168, 67, 0.8) !important;
+}
+.bg-green-a900, .bg-green-a900-hover:hover {
+  background-color: rgba(74, 168, 67, 0.9) !important;
+}
+.bg-emerald-a100, .bg-emerald-a100-hover:hover {
+  background-color: rgba(57, 182, 99, 0.1) !important;
+}
+.bg-emerald-a200, .bg-emerald-a200-hover:hover {
+  background-color: rgba(57, 182, 99, 0.2) !important;
+}
+.bg-emerald-a300, .bg-emerald-a300-hover:hover {
+  background-color: rgba(57, 182, 99, 0.3) !important;
+}
+.bg-emerald-a400, .bg-emerald-a400-hover:hover {
+  background-color: rgba(57, 182, 99, 0.4) !important;
+}
+.bg-emerald-a500, .bg-emerald-a500-hover:hover {
+  background-color: rgba(57, 182, 99, 0.5) !important;
+}
+.bg-emerald-a600, .bg-emerald-a600-hover:hover {
+  background-color: rgba(57, 182, 99, 0.6) !important;
+}
+.bg-emerald-a700, .bg-emerald-a700-hover:hover {
+  background-color: rgba(57, 182, 99, 0.7) !important;
+}
+.bg-emerald-a800, .bg-emerald-a800-hover:hover {
+  background-color: rgba(57, 182, 99, 0.8) !important;
+}
+.bg-emerald-a900, .bg-emerald-a900-hover:hover {
+  background-color: rgba(57, 182, 99, 0.9) !important;
+}
+.bg-jade-a100, .bg-jade-a100-hover:hover {
+  background-color: rgba(0, 168, 108, 0.1) !important;
+}
+.bg-jade-a200, .bg-jade-a200-hover:hover {
+  background-color: rgba(0, 168, 108, 0.2) !important;
+}
+.bg-jade-a300, .bg-jade-a300-hover:hover {
+  background-color: rgba(0, 168, 108, 0.3) !important;
+}
+.bg-jade-a400, .bg-jade-a400-hover:hover {
+  background-color: rgba(0, 168, 108, 0.4) !important;
+}
+.bg-jade-a500, .bg-jade-a500-hover:hover {
+  background-color: rgba(0, 168, 108, 0.5) !important;
+}
+.bg-jade-a600, .bg-jade-a600-hover:hover {
+  background-color: rgba(0, 168, 108, 0.6) !important;
+}
+.bg-jade-a700, .bg-jade-a700-hover:hover {
+  background-color: rgba(0, 168, 108, 0.7) !important;
+}
+.bg-jade-a800, .bg-jade-a800-hover:hover {
+  background-color: rgba(0, 168, 108, 0.8) !important;
+}
+.bg-jade-a900, .bg-jade-a900-hover:hover {
+  background-color: rgba(0, 168, 108, 0.9) !important;
+}
+.bg-ocean-green-a100, .bg-ocean-green-a100-hover:hover {
+  background-color: rgba(4, 168, 130, 0.1) !important;
+}
+.bg-ocean-green-a200, .bg-ocean-green-a200-hover:hover {
+  background-color: rgba(4, 168, 130, 0.2) !important;
+}
+.bg-ocean-green-a300, .bg-ocean-green-a300-hover:hover {
+  background-color: rgba(4, 168, 130, 0.3) !important;
+}
+.bg-ocean-green-a400, .bg-ocean-green-a400-hover:hover {
+  background-color: rgba(4, 168, 130, 0.4) !important;
+}
+.bg-ocean-green-a500, .bg-ocean-green-a500-hover:hover {
+  background-color: rgba(4, 168, 130, 0.5) !important;
+}
+.bg-ocean-green-a600, .bg-ocean-green-a600-hover:hover {
+  background-color: rgba(4, 168, 130, 0.6) !important;
+}
+.bg-ocean-green-a700, .bg-ocean-green-a700-hover:hover {
+  background-color: rgba(4, 168, 130, 0.7) !important;
+}
+.bg-ocean-green-a800, .bg-ocean-green-a800-hover:hover {
+  background-color: rgba(4, 168, 130, 0.8) !important;
+}
+.bg-ocean-green-a900, .bg-ocean-green-a900-hover:hover {
+  background-color: rgba(4, 168, 130, 0.9) !important;
+}
+.bg-teal-a100, .bg-teal-a100-hover:hover {
+  background-color: rgba(20, 159, 144, 0.1) !important;
+}
+.bg-teal-a200, .bg-teal-a200-hover:hover {
+  background-color: rgba(20, 159, 144, 0.2) !important;
+}
+.bg-teal-a300, .bg-teal-a300-hover:hover {
+  background-color: rgba(20, 159, 144, 0.3) !important;
+}
+.bg-teal-a400, .bg-teal-a400-hover:hover {
+  background-color: rgba(20, 159, 144, 0.4) !important;
+}
+.bg-teal-a500, .bg-teal-a500-hover:hover {
+  background-color: rgba(20, 159, 144, 0.5) !important;
+}
+.bg-teal-a600, .bg-teal-a600-hover:hover {
+  background-color: rgba(20, 159, 144, 0.6) !important;
+}
+.bg-teal-a700, .bg-teal-a700-hover:hover {
+  background-color: rgba(20, 159, 144, 0.7) !important;
+}
+.bg-teal-a800, .bg-teal-a800-hover:hover {
+  background-color: rgba(20, 159, 144, 0.8) !important;
+}
+.bg-teal-a900, .bg-teal-a900-hover:hover {
+  background-color: rgba(20, 159, 144, 0.9) !important;
+}
+.bg-cyan-a100, .bg-cyan-a100-hover:hover {
+  background-color: rgba(18, 164, 176, 0.1) !important;
+}
+.bg-cyan-a200, .bg-cyan-a200-hover:hover {
+  background-color: rgba(18, 164, 176, 0.2) !important;
+}
+.bg-cyan-a300, .bg-cyan-a300-hover:hover {
+  background-color: rgba(18, 164, 176, 0.3) !important;
+}
+.bg-cyan-a400, .bg-cyan-a400-hover:hover {
+  background-color: rgba(18, 164, 176, 0.4) !important;
+}
+.bg-cyan-a500, .bg-cyan-a500-hover:hover {
+  background-color: rgba(18, 164, 176, 0.5) !important;
+}
+.bg-cyan-a600, .bg-cyan-a600-hover:hover {
+  background-color: rgba(18, 164, 176, 0.6) !important;
+}
+.bg-cyan-a700, .bg-cyan-a700-hover:hover {
+  background-color: rgba(18, 164, 176, 0.7) !important;
+}
+.bg-cyan-a800, .bg-cyan-a800-hover:hover {
+  background-color: rgba(18, 164, 176, 0.8) !important;
+}
+.bg-cyan-a900, .bg-cyan-a900-hover:hover {
+  background-color: rgba(18, 164, 176, 0.9) !important;
+}
+.bg-ocean-blue-a100, .bg-ocean-blue-a100-hover:hover {
+  background-color: rgba(0, 142, 188, 0.1) !important;
+}
+.bg-ocean-blue-a200, .bg-ocean-blue-a200-hover:hover {
+  background-color: rgba(0, 142, 188, 0.2) !important;
+}
+.bg-ocean-blue-a300, .bg-ocean-blue-a300-hover:hover {
+  background-color: rgba(0, 142, 188, 0.3) !important;
+}
+.bg-ocean-blue-a400, .bg-ocean-blue-a400-hover:hover {
+  background-color: rgba(0, 142, 188, 0.4) !important;
+}
+.bg-ocean-blue-a500, .bg-ocean-blue-a500-hover:hover {
+  background-color: rgba(0, 142, 188, 0.5) !important;
+}
+.bg-ocean-blue-a600, .bg-ocean-blue-a600-hover:hover {
+  background-color: rgba(0, 142, 188, 0.6) !important;
+}
+.bg-ocean-blue-a700, .bg-ocean-blue-a700-hover:hover {
+  background-color: rgba(0, 142, 188, 0.7) !important;
+}
+.bg-ocean-blue-a800, .bg-ocean-blue-a800-hover:hover {
+  background-color: rgba(0, 142, 188, 0.8) !important;
+}
+.bg-ocean-blue-a900, .bg-ocean-blue-a900-hover:hover {
+  background-color: rgba(0, 142, 188, 0.9) !important;
+}
+.bg-crystal-blue-a100, .bg-crystal-blue-a100-hover:hover {
+  background-color: rgba(63, 150, 224, 0.1) !important;
+}
+.bg-crystal-blue-a200, .bg-crystal-blue-a200-hover:hover {
+  background-color: rgba(63, 150, 224, 0.2) !important;
+}
+.bg-crystal-blue-a300, .bg-crystal-blue-a300-hover:hover {
+  background-color: rgba(63, 150, 224, 0.3) !important;
+}
+.bg-crystal-blue-a400, .bg-crystal-blue-a400-hover:hover {
+  background-color: rgba(63, 150, 224, 0.4) !important;
+}
+.bg-crystal-blue-a500, .bg-crystal-blue-a500-hover:hover {
+  background-color: rgba(63, 150, 224, 0.5) !important;
+}
+.bg-crystal-blue-a600, .bg-crystal-blue-a600-hover:hover {
+  background-color: rgba(63, 150, 224, 0.6) !important;
+}
+.bg-crystal-blue-a700, .bg-crystal-blue-a700-hover:hover {
+  background-color: rgba(63, 150, 224, 0.7) !important;
+}
+.bg-crystal-blue-a800, .bg-crystal-blue-a800-hover:hover {
+  background-color: rgba(63, 150, 224, 0.8) !important;
+}
+.bg-crystal-blue-a900, .bg-crystal-blue-a900-hover:hover {
+  background-color: rgba(63, 150, 224, 0.9) !important;
+}
+.bg-brown-a100, .bg-brown-a100-hover:hover {
+  background-color: rgba(146, 97, 85, 0.1) !important;
+}
+.bg-brown-a200, .bg-brown-a200-hover:hover {
+  background-color: rgba(146, 97, 85, 0.2) !important;
+}
+.bg-brown-a300, .bg-brown-a300-hover:hover {
+  background-color: rgba(146, 97, 85, 0.3) !important;
+}
+.bg-brown-a400, .bg-brown-a400-hover:hover {
+  background-color: rgba(146, 97, 85, 0.4) !important;
+}
+.bg-brown-a500, .bg-brown-a500-hover:hover {
+  background-color: rgba(146, 97, 85, 0.5) !important;
+}
+.bg-brown-a600, .bg-brown-a600-hover:hover {
+  background-color: rgba(146, 97, 85, 0.6) !important;
+}
+.bg-brown-a700, .bg-brown-a700-hover:hover {
+  background-color: rgba(146, 97, 85, 0.7) !important;
+}
+.bg-brown-a800, .bg-brown-a800-hover:hover {
+  background-color: rgba(146, 97, 85, 0.8) !important;
+}
+.bg-brown-a900, .bg-brown-a900-hover:hover {
+  background-color: rgba(146, 97, 85, 0.9) !important;
+}
+.bg-blue-gray-a100, .bg-blue-gray-a100-hover:hover {
+  background-color: rgba(133, 141, 159, 0.1) !important;
+}
+.bg-blue-gray-a200, .bg-blue-gray-a200-hover:hover {
+  background-color: rgba(133, 141, 159, 0.2) !important;
+}
+.bg-blue-gray-a300, .bg-blue-gray-a300-hover:hover {
+  background-color: rgba(133, 141, 159, 0.3) !important;
+}
+.bg-blue-gray-a400, .bg-blue-gray-a400-hover:hover {
+  background-color: rgba(133, 141, 159, 0.4) !important;
+}
+.bg-blue-gray-a500, .bg-blue-gray-a500-hover:hover {
+  background-color: rgba(133, 141, 159, 0.5) !important;
+}
+.bg-blue-gray-a600, .bg-blue-gray-a600-hover:hover {
+  background-color: rgba(133, 141, 159, 0.6) !important;
+}
+.bg-blue-gray-a700, .bg-blue-gray-a700-hover:hover {
+  background-color: rgba(133, 141, 159, 0.7) !important;
+}
+.bg-blue-gray-a800, .bg-blue-gray-a800-hover:hover {
+  background-color: rgba(133, 141, 159, 0.8) !important;
+}
+.bg-blue-gray-a900, .bg-blue-gray-a900-hover:hover {
+  background-color: rgba(133, 141, 159, 0.9) !important;
+}
+
+/*# sourceMappingURL=polaris.css.map */

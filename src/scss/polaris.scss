@@ -1,0 +1,77 @@
+/**
+ * Polaris Colors Plugin v1.0.0
+ * Polaris Color Palettes
+ * MIT License github.com/heminsatya/polaris-polariss | © 2022 polarisui.com
+**/
+// -------------------------------------------------- //
+//                    Constructor                     //
+// -------------------------------------------------- //
+@use 'sass:math';
+@use "sass:map";
+
+$color-system: 'polaris';
+
+@import "./bootstrap";
+
+
+/* -------------------------------------------------- */
+/*                   Color Palettes                   */
+/* -------------------------------------------------- */
+@if $has-color {
+    /*
+    * color
+    */
+    /* Plugin Colors */
+    @include color-class($plugin-vars, $name-color, "color", $strict-colors);
+
+    /* Color Palettes */
+    @include color-palette($plugin-color-palettes, $plugin-palettes, $name-color, "color", $strict-colors, "plugin");
+
+    /* Color Alphas */
+    @include color-alpha($plugin-color-alphas, $plugin-alphas, $name-color, $name-alpha, "color", $strict-colors, "plugin");
+}
+
+
+@if $has-background-color {
+    /*
+    * background-color
+    */
+    /* Plugin Colors */
+    @include color-class($plugin-vars, $name-bg-color, "background-color", $strict-colors);
+
+    /* Color Palettes */
+    @include color-palette($plugin-color-palettes, $plugin-palettes, $name-bg-color, "background-color", $strict-colors, "plugin");
+
+    /* Color Alphas */
+    @include color-alpha($plugin-color-alphas, $plugin-alphas, $name-bg-color, $name-alpha, "background-color", $strict-colors, "plugin");
+}
+
+
+@if $has-border-color {
+    /*
+    * border-color
+    */
+    /* Plugin Colors */
+    @include color-class($plugin-vars, $name-border-color, "border-color", $strict-colors);
+
+    /* Color Palettes */
+    @include color-palette($plugin-color-palettes, $plugin-palettes, $name-border-color, "border-color", $strict-colors, "plugin");
+
+    /* Color Alphas */
+    @include color-alpha($plugin-color-alphas, $plugin-alphas, $name-border-color, $name-alpha, "border-color", $strict-colors, "plugin");
+}
+
+
+@if $has-outline-color {
+    /*
+    * outline-color
+    */
+    /* Plugin Colors */
+    @include color-class($plugin-vars, $name-outline-color, "outline-color", $strict-colors);
+
+    /* Color Palettes */
+    @include color-palette($plugin-color-palettes, $plugin-palettes, $name-outline-color, "outline-color", $strict-colors, "plugin");
+
+    // Color Alphas
+    @include color-alpha($plugin-color-alphas, $plugin-alphas, $name-outline-color, $name-alpha, "outline-color", $strict-colors, "plugin");
+}

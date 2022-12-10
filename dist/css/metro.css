@@ -1,0 +1,138 @@
+@charset "UTF-8";
+/**
+ * Polaris Colors Plugin v1.0.0
+ * Metro Colors
+ * MIT License github.com/heminsatya/polaris-plugins | © 2022 polarisui.com
+**/
+/* -------------------------------------------------- */
+/*                    Color Packs                     */
+/* -------------------------------------------------- */
+/*
+* color
+*/
+.color-lime, .color-lime-hover:hover {
+  color: #a4c400 !important;
+}
+.color-green, .color-green-hover:hover {
+  color: #60a917 !important;
+}
+.color-emerald, .color-emerald-hover:hover {
+  color: #008a00 !important;
+}
+.color-teal, .color-teal-hover:hover {
+  color: #00aba9 !important;
+}
+.color-cyan, .color-cyan-hover:hover {
+  color: #1ba1e2 !important;
+}
+.color-cobalt, .color-cobalt-hover:hover {
+  color: #0050ef !important;
+}
+.color-indigo, .color-indigo-hover:hover {
+  color: #6a00ff !important;
+}
+.color-violet, .color-violet-hover:hover {
+  color: #aa00ff !important;
+}
+.color-pink, .color-pink-hover:hover {
+  color: #f472d0 !important;
+}
+.color-magenta, .color-magenta-hover:hover {
+  color: #d80073 !important;
+}
+.color-crimson, .color-crimson-hover:hover {
+  color: #a20025 !important;
+}
+.color-red, .color-red-hover:hover {
+  color: #e51400 !important;
+}
+.color-orange, .color-orange-hover:hover {
+  color: #fa6800 !important;
+}
+.color-amber, .color-amber-hover:hover {
+  color: #f0a30a !important;
+}
+.color-yellow, .color-yellow-hover:hover {
+  color: #e3c800 !important;
+}
+.color-brown, .color-brown-hover:hover {
+  color: #825a2c !important;
+}
+.color-olive, .color-olive-hover:hover {
+  color: #6d8764 !important;
+}
+.color-steel, .color-steel-hover:hover {
+  color: #647687 !important;
+}
+.color-mauve, .color-mauve-hover:hover {
+  color: #76608a !important;
+}
+.color-sienna, .color-sienna-hover:hover {
+  color: #a0522d !important;
+}
+
+/*
+* background-color
+*/
+.color-lime, .color-lime-hover:hover {
+  background-color: #a4c400 !important;
+}
+.color-green, .color-green-hover:hover {
+  background-color: #60a917 !important;
+}
+.color-emerald, .color-emerald-hover:hover {
+  background-color: #008a00 !important;
+}
+.color-teal, .color-teal-hover:hover {
+  background-color: #00aba9 !important;
+}
+.color-cyan, .color-cyan-hover:hover {
+  background-color: #1ba1e2 !important;
+}
+.color-cobalt, .color-cobalt-hover:hover {
+  background-color: #0050ef !important;
+}
+.color-indigo, .color-indigo-hover:hover {
+  background-color: #6a00ff !important;
+}
+.color-violet, .color-violet-hover:hover {
+  background-color: #aa00ff !important;
+}
+.color-pink, .color-pink-hover:hover {
+  background-color: #f472d0 !important;
+}
+.color-magenta, .color-magenta-hover:hover {
+  background-color: #d80073 !important;
+}
+.color-crimson, .color-crimson-hover:hover {
+  background-color: #a20025 !important;
+}
+.color-red, .color-red-hover:hover {
+  background-color: #e51400 !important;
+}
+.color-orange, .color-orange-hover:hover {
+  background-color: #fa6800 !important;
+}
+.color-amber, .color-amber-hover:hover {
+  background-color: #f0a30a !important;
+}
+.color-yellow, .color-yellow-hover:hover {
+  background-color: #e3c800 !important;
+}
+.color-brown, .color-brown-hover:hover {
+  background-color: #825a2c !important;
+}
+.color-olive, .color-olive-hover:hover {
+  background-color: #6d8764 !important;
+}
+.color-steel, .color-steel-hover:hover {
+  background-color: #647687 !important;
+}
+.color-mauve, .color-mauve-hover:hover {
+  background-color: #76608a !important;
+}
+.color-sienna, .color-sienna-hover:hover {
+  background-color: #a0522d !important;
+}
+
+/*# sourceMappingURL=metro.css.map */

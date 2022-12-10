@@ -1,0 +1,47 @@
+/**
+ * Polaris Colors Plugin v1.0.0
+ * Flat UI Colors
+ * MIT License github.com/heminsatya/polaris-plugins | © 2022 polarisui.com
+**/
+// -------------------------------------------------- //
+//                    Constructor                     //
+// -------------------------------------------------- //
+@use 'sass:math';
+@use "sass:map";
+
+@import "./bootstrap";
+
+
+/* -------------------------------------------------- */
+/*                    Color Packs                     */
+/* -------------------------------------------------- */
+@if $has-color {
+    /*
+    * color
+    */
+    @include color-class($flat-colors, $name-color, "color", $strict-colors);
+}
+
+
+@if $has-background-color {
+    /*
+    * background-color
+    */
+    @include color-class($flat-colors, $name-color, "background-color", $strict-colors);
+}
+
+
+@if $has-border-color {
+    /*
+    * border-color
+    */
+    @include color-class($flat-colors, $name-color, "border-color", $strict-colors);
+}
+
+
+@if $has-outline-color {
+    /*
+    * outline-color
+    */
+    @include color-class($flat-colors, $name-color, "outline-color", $strict-colors);
+}

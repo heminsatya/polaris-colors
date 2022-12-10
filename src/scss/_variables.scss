@@ -1,0 +1,1034 @@
+// ---------- Variables ---------- //
+// -- Generic -- //
+$plugin-vars:           null;
+$plugin-maps:           null;
+$plugin-color-palettes: null;
+$plugin-palettes:       null;
+$plugin-color-alphas:   null;
+$plugin-alphas:         null;
+
+$strict-colors: true !default;
+
+$social-pack:   true !default;      // true | false
+$html-pack:     false !default;     // true | false
+$metro-pack:    false !default;     // true | false
+$flat-pack:     false !default;     // true | false
+
+// -- Polaris Colors -- //
+// Sky Blue
+$polaris-sky-blues: (
+    100: #E1F4FF,
+    500: #31AAF6,
+    900: #0856A0
+) !default;
+
+// Blue
+$polaris-blues: (
+    100: #E3EDFC,
+    500: #4283F2,
+    900: #0A328F
+) !default;
+
+// Indigo
+$polaris-indigos: (
+    100: #E4EAFA,
+    500: #5174E0,
+    900: #172A84
+) !default;
+
+// Purple
+$polaris-purples: (
+    100: #F7E4FB,
+    500: #C43BE4,
+    900: #56107A
+) !default;
+
+// Pink
+$polaris-pinks: (
+    100: #FFE2F0,
+    500: #FF2894,
+    900: #80004A
+) !default;
+
+// Rose
+$polaris-roses: (
+    100: #FFE3EB,
+    500: #FF3175,
+    900: #850037
+) !default;
+
+// Red
+$polaris-reds: (
+    100: #FEE1E0,
+    500: #F23838,
+    900: #810409
+) !default;
+
+// Sunset
+$polaris-sunsets: (
+    100: #FFE8E7,
+    500: #F95141,
+    900: #A70705
+) !default;
+
+// Orange
+$polaris-oranges: (
+    100: #FAF2E7,
+    500: #D99135,
+    900: #744516
+) !default;
+
+// Amber
+$polaris-ambers: (
+    100: #FFF9E2,
+    500: #FFC002,
+    900: #8E5F00
+) !default;
+
+// Yellow
+$polaris-yellows: (
+    100: #FFFCD9,
+    500: #FCE116,
+    900: #957503
+) !default;
+
+// Lime Green
+$polaris-lime-greens: (
+    100: #ECFBDF,
+    500: #66D514,
+    900: #2C6F0B
+) !default;
+
+// Spring Green
+$polaris-spring-greens: (
+    100: #E4F8DF,
+    500: #3DB727,
+    900: #1A6315
+) !default;
+
+// Green
+$polaris-greens: (
+    100: #E7F5E6,
+    500: #4AA843,
+    900: #225322
+) !default;
+
+// Emerald
+$polaris-emeralds: (
+    100: #E7F8EC,
+    500: #39B663,
+    900: #1F603B
+) !default;
+
+// Jade
+$polaris-jades: (
+    100: #A9FCE3,
+    500: #00A86C,
+    900: #005230
+) !default;
+
+// Ocean Green
+$polaris-ocean-greens: (
+    100: #97FDE8,
+    500: #04A882,
+    900: #02523A
+) !default;
+
+// Teal
+$polaris-teals: (
+    100: #AEF6ED,
+    500: #149F90,
+    900: #084845
+) !default;
+
+// Cyan
+$polaris-cyans: (
+    100: #BCF9FA,
+    500: #12A4B0,
+    900: #0A505D
+) !default;
+
+// Ocean Blue
+$polaris-ocean-blues: (
+    100: #C9F0FB,
+    500: #008EBC,
+    900: #003954
+) !default;
+
+// Crystal Blue
+$polaris-crystal-blues: (
+    100: #DFEFFB,
+    500: #3F96E0,
+    900: #13437A
+) !default;
+
+// Brown
+$polaris-browns: (
+    100: #EEE4E2,
+    500: #926155,
+    900: #492E2A
+) !default;
+
+// Blue Gray
+$polaris-blue-grays: (
+    100: #F3F4F6,
+    500: #858D9F,
+    900: #21232B
+) !default;
+
+// Cool Gray
+$polaris-cool-grays: (
+    100: #F1F4F6,
+    500: #848E96,
+    900: #202428
+) !default;
+
+// Normal Gray
+$polaris-normal-grays: (
+    100: #F4F4F4,
+    500: #8E8E8E,
+    900: #242424
+) !default;
+
+// Warm Gray
+$polaris-warm-grays: (
+    100: #F6F4F2,
+    500: #958E88,
+    900: #292421
+) !default;
+
+// Polaris plugin colors
+$polaris-sky-blue:     map-get($polaris-sky-blues, 500);
+$polaris-blue:         map-get($polaris-blues, 500);
+$polaris-indigo:       map-get($polaris-indigos, 500);
+$polaris-purple:       map-get($polaris-purples, 500);
+$polaris-pink:         map-get($polaris-pinks, 500);
+$polaris-rose:         map-get($polaris-roses, 500);
+$polaris-red:          map-get($polaris-reds, 500);
+$polaris-sunset:       map-get($polaris-sunsets, 500);
+$polaris-orange:       map-get($polaris-oranges, 500);
+$polaris-amber:        map-get($polaris-ambers, 500);
+$polaris-yellow:       map-get($polaris-yellows, 500);
+$polaris-lime-green:   map-get($polaris-lime-greens, 500);
+$polaris-spring-green: map-get($polaris-spring-greens, 500);
+$polaris-green:        map-get($polaris-greens, 500);
+$polaris-emerald:      map-get($polaris-emeralds, 500);
+$polaris-jade:         map-get($polaris-jades, 500);
+$polaris-ocean-green:  map-get($polaris-ocean-greens, 500);
+$polaris-teal:         map-get($polaris-teals, 500);
+$polaris-cyan:         map-get($polaris-cyans, 500);
+$polaris-ocean-blue:   map-get($polaris-ocean-blues, 500);
+$polaris-crystal-blue: map-get($polaris-crystal-blues, 500);
+$polaris-brown:        map-get($polaris-browns, 500);
+$polaris-blue-gray:    map-get($polaris-blue-grays, 500);
+$polaris-cool-gray:    map-get($polaris-cool-grays, 500);
+$polaris-normal-gray:  map-get($polaris-normal-grays, 500);
+$polaris-warm-gray:    map-get($polaris-warm-grays, 500);
+
+// Color Palettes
+$polaris-color-palettes: 'sky-blue', 'blue', 'indigo', 'purple', 'pink', 'rose', 'red', 'sunset', 'orange', 'amber', 
+    'yellow', 'lime-green', 'spring-green', 'green', 'emerald', 'jade', 'ocean-green', 'teal', 'cyan',
+    'ocean-blue', 'crystal-blue', 'brown', 'blue-gray', 'cool-gray', 'normal-gray', 'warm-gray' !default;
+$polaris-palettes: 50, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950 !default;
+
+// Colors Alphas
+$polaris-color-alphas: 'sky-blue', 'blue', 'indigo', 'purple', 'pink', 'rose', 'red', 'sunset', 'orange', 'amber', 
+    'yellow', 'lime-green', 'spring-green', 'green', 'emerald', 'jade', 'ocean-green', 'teal', 'cyan',
+    'ocean-blue', 'crystal-blue', 'brown', 'blue-gray' !default;
+$polaris-alphas: 100, 200, 300, 400, 500, 600, 700, 800, 900 !default;
+
+// Polaris plugin colors
+$polaris-colors: (
+    'sky-blue':     $polaris-sky-blue,
+    'blue':         $polaris-blue,
+    'indigo':       $polaris-indigo,
+    'purple':       $polaris-purple,
+    'pink':         $polaris-pink,
+    'rose':         $polaris-rose,
+    'red':          $polaris-red,
+    'sunset':       $polaris-sunset,
+    'orange':       $polaris-orange,
+    'amber':        $polaris-amber,
+    'yellow':       $polaris-yellow,
+    'lime-green':   $polaris-lime-green,
+    'spring-green': $polaris-spring-green,
+    'green':        $polaris-green,
+    'emerald':      $polaris-emerald,
+    'jade':         $polaris-jade,
+    'ocean-green':  $polaris-ocean-green,
+    'teal':         $polaris-teal,
+    'cyan':         $polaris-cyan,
+    'ocean-blue':   $polaris-ocean-blue,
+    'crystal-blue': $polaris-crystal-blue,
+    'brown':        $polaris-brown,
+    'blue-gray':    $polaris-blue-gray,
+    'cool-gray':    $polaris-cool-gray,
+    'normal-gray':  $polaris-normal-gray,
+    'warm-gray':    $polaris-warm-gray,
+) !default;
+
+// Polaris plugin maps
+$polaris-maps: (
+    'sky-blue':     $polaris-sky-blues,
+    'blue':         $polaris-blues,
+    'indigo':       $polaris-indigos,
+    'purple':       $polaris-purples,
+    'pink':         $polaris-pinks,
+    'rose':         $polaris-roses,
+    'red':          $polaris-reds,
+    'sunset':       $polaris-sunsets,
+    'orange':       $polaris-oranges,
+    'amber':        $polaris-ambers,
+    'yellow':       $polaris-yellows,
+    'lime-green':   $polaris-lime-greens,
+    'spring-green': $polaris-spring-greens,
+    'green':        $polaris-greens,
+    'emerald':      $polaris-emeralds,
+    'jade':         $polaris-jades,
+    'ocean-green':  $polaris-ocean-greens,
+    'teal':         $polaris-teals,
+    'cyan':         $polaris-cyans,
+    'ocean-blue':   $polaris-ocean-blues,
+    'crystal-blue': $polaris-crystal-blues,
+    'brown':        $polaris-browns,
+    'blue-gray':    $polaris-blue-grays,
+    'cool-gray':    $polaris-cool-grays,
+    'normal-gray':  $polaris-normal-grays,
+    'warm-gray':    $polaris-warm-grays,
+) !default;
+
+
+// -- Material Colors -- //
+// Light Blue
+$material-light-blues: (
+    100: #E1F5FE,
+    500: #03A9F4,
+    900: #01579B
+) !default;
+
+// Blue
+$material-blues: (
+    100: #E3F2FD,
+    500: #2196F3,
+    900: #0D47A1
+) !default;
+
+// Indigo
+$material-indigos: (
+    100: #E8EAF6,
+    500: #3F51B5,
+    900: #1A237E
+) !default;
+
+// Deep Purple
+$material-deep-purples: (
+    100: #EDE7F6,
+    500: #673AB7,
+    900: #311B92
+) !default;
+
+// Purple
+$material-purples: (
+    100: #F3E5F5,
+    500: #9C27B0,
+    900: #4A148C
+) !default;
+
+// Pink
+$material-pinks: (
+    100: #FCE4EC,
+    500: #E91E63,
+    900: #880E4F
+) !default;
+
+// Red
+$material-reds: (
+    100: #FFEBEE,
+    500: #F44336,
+    900: #B71C1C
+) !default;
+
+// Deep Orange
+$material-deep-oranges: (
+    100: #FBE9E7,
+    500: #FF5722,
+    900: #BF360C
+) !default;
+
+// Orange
+$material-oranges: (
+    100: #FFF3E0,
+    500: #FF9800,
+    900: #E65100
+) !default;
+
+// Amber
+$material-ambers: (
+    100: #FFF8E1,
+    500: #FFC107,
+    900: #FF6F00
+) !default;
+
+// Yellow
+$material-yellows: (
+    100: #FFFDE7,
+    500: #FFEB3B,
+    900: #F57F17
+) !default;
+
+// Lime
+$material-limes: (
+    100: #F9FBE7,
+    500: #CDDC39,
+    900: #827717
+) !default;
+
+// Light Green
+$material-light-greens: (
+    100: #F1F8E9,
+    500: #8BC34A,
+    900: #33691E
+) !default;
+
+// Green
+$material-greens: (
+    100: #E8F5E9,
+    500: #4CAF50,
+    900: #1B5E20
+) !default;
+
+// Teal
+$material-teals: (
+    100: #E0F2F1,
+    500: #009688,
+    900: #004D40
+) !default;
+
+// Cyan
+$material-cyans: (
+    100: #E0F7FA,
+    500: #00BCD4,
+    900: #006064
+) !default;
+
+// Brown
+$material-browns: (
+    100: #EFEBE9,
+    500: #795548,
+    900: #3E2723
+) !default;
+
+// Blue Gray
+$material-blue-grays: (
+    100: #ECEFF1,
+    500: #607D8B,
+    900: #263238
+) !default;
+
+// Gray
+$material-grays: (
+    100: #F5F5F5,
+    500: #9E9E9E,
+    900: #212121
+) !default;
+
+// Material colors
+$material-light-blue:  map-get($material-light-blues, 500);
+$material-blue:        map-get($material-blues, 500);
+$material-indigo:      map-get($material-indigos, 500);
+$material-deep-purple: map-get($material-deep-purples, 500);
+$material-purple:      map-get($material-purples, 500);
+$material-pink:        map-get($material-pinks, 500);
+$material-red:         map-get($material-reds, 500);
+$material-deep-orange: map-get($material-deep-oranges, 500);
+$material-orange:      map-get($material-oranges, 500);
+$material-amber:       map-get($material-ambers, 500);
+$material-yellow:      map-get($material-yellows, 500);
+$material-lime:        map-get($material-limes, 500);
+$material-light-green: map-get($material-light-greens, 500);
+$material-green:       map-get($material-greens, 500);
+$material-teal:        map-get($material-teals, 500);
+$material-cyan:        map-get($material-cyans, 500);
+$material-brown:       map-get($material-browns, 500);
+$material-blue-gray:   map-get($material-blue-grays, 500);
+$material-gray:        map-get($material-grays, 500);
+
+// Color Palettes
+$material-color-palettes: 'light-blue', 'blue', 'indigo', 'purple', 'deep-purple', 'pink', 'red', 'deep-orange', 'orange', 
+                 'amber', 'yellow', 'lime', 'light-green', 'green', 'teal', 'cyan', 'brown', 'blue-gray', 'gray' !default;
+$material-palettes: 50, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950 !default;
+
+// Colors Alphas
+$material-color-alphas: 'light-blue', 'blue', 'indigo', 'purple', 'deep-purple', 'pink', 'red', 'deep-orange', 'orange', 
+               'amber', 'yellow', 'lime', 'light-green', 'green', 'teal', 'cyan', 'brown', 'blue-gray', 'gray' !default;
+$material-alphas: 100, 200, 300, 400, 500, 600, 700, 800, 900 !default;
+
+// Material color variables
+$material-colors: (
+    'light-blue':  $material-light-blue,
+    'blue':        $material-blue,
+    'indigo':      $material-indigo,
+    'purple':      $material-purple,
+    'deep-purple': $material-deep-purple,
+    'pink':        $material-pink,
+    'red':         $material-red,
+    'deep-orange': $material-deep-orange,
+    'orange':      $material-orange,
+    'amber':       $material-amber,
+    'yellow':      $material-yellow,
+    'lime':        $material-lime,
+    'light-green': $material-light-green,
+    'green':       $material-green,
+    'teal':        $material-teal,
+    'cyan':        $material-cyan,
+    'brown':       $material-brown,
+    'blue-gray':   $material-blue-gray,
+    'gray':        $material-gray,
+) !default;
+
+// Material color maps
+$material-maps: (
+    'light-blue':  $material-light-blues,
+    'blue':        $material-blues,
+    'indigo':      $material-indigos,
+    'purple':      $material-purples,
+    'deep-purple': $material-deep-purples,
+    'pink':        $material-pinks,
+    'red':         $material-reds,
+    'deep-orange': $material-deep-oranges,
+    'orange':      $material-oranges,
+    'amber':       $material-ambers,
+    'yellow':      $material-yellows,
+    'lime':        $material-limes,
+    'light-green': $material-light-greens,
+    'green':       $material-greens,
+    'teal':        $material-teals,
+    'cyan':        $material-cyans,
+    'brown':       $material-browns,
+    'blue-gray':   $material-blue-grays,
+    'gray':        $material-grays,
+) !default;
+
+
+// -- Social Colors -- //
+$social-facebook:    #3b5999 !default;
+$social-messenger:   #0084ff !default;
+$social-twitter:     #55acee !default;
+$social-linkedin:    #0077B5 !default;
+$social-skype:       #00AFF0 !default;
+$social-dropbox:     #007ee5 !default;
+$social-wordpress:   #21759b !default;
+$social-vimeo:       #1ab7ea !default;
+$social-slideshare:  #0077B5 !default;
+$social-vk:          #4c75a3 !default;
+$social-tumblr:      #34465d !default;
+$social-yahoo:       #410093 !default;
+$social-gmail:       #dd4b39 !default;
+$social-pinterest:   #bd081c !default;
+$social-youtube:     #cd201f !default;
+$social-stumbleupon: #eb4924 !default;
+$social-reddit:      #ff5700 !default;
+$social-quora:       #b92b27 !default;
+$social-yelp:        #af0606 !default;
+$social-weibo:       #df2029 !default;
+$social-producthunt: #da552f !default;
+$social-hackernews:  #ff6600 !default;
+$social-soundcloud:  #ff3300 !default;
+$social-blogger:     #f57d00 !default;
+$social-whatsapp:    #25D366 !default;
+$social-wechat:      #09b83e !default;
+$social-line:        #00c300 !default;
+$social-medium:      #02b875 !default;
+$social-vine:        #00b489 !default;
+$social-slack:       #3aaf85 !default;
+$social-instagram:   #e4405f !default;
+$social-dribbble:    #ea4c89 !default;
+$social-flickr:      #ff0084 !default;
+$social-foursquare:  #f94877 !default;
+$social-behance:     #131418 !default;
+$social-snapchat:    #FFFC00 !default;
+$social-telegram:    #0088CC !default;
+$social-github:      #2FBB4F !default;
+
+// Social colors variables
+$social-colors: (
+    'facebook':    $social-facebook,
+    'messenger':   $social-messenger,
+    'twitter':     $social-twitter,
+    'linkedin':    $social-linkedin,
+    'skype':       $social-skype,
+    'dropbox':     $social-dropbox,
+    'wordpress':   $social-wordpress,
+    'vimeo':       $social-vimeo,
+    'slideshare':  $social-slideshare,
+    'vk':          $social-vk,
+    'tumblr':      $social-tumblr,
+    'yahoo':       $social-yahoo,
+    'gmail':       $social-gmail,
+    'pinterest':   $social-pinterest,
+    'youtube':     $social-youtube,
+    'stumbleupon': $social-stumbleupon,
+    'reddit':      $social-reddit,
+    'quora':       $social-quora,
+    'yelp':        $social-yelp,
+    'weibo':       $social-weibo,
+    'producthunt': $social-producthunt,
+    'hackernews':  $social-hackernews,
+    'soundcloud':  $social-soundcloud,
+    'blogger':     $social-blogger,
+    'whatsapp':    $social-whatsapp,
+    'wechat':      $social-wechat,
+    'line':        $social-line,
+    'medium':      $social-medium,
+    'vine':        $social-vine,
+    'slack':       $social-slack,
+    'instagram':   $social-instagram,
+    'dribbble':    $social-dribbble,
+    'flickr':      $social-flickr,
+    'foursquare':  $social-foursquare,
+    'behance':     $social-behance,
+    'snapchat':    $social-snapchat,
+    'telegram':    $social-telegram,
+    'github':      $social-github,
+) !default;
+
+
+// -- HTML Colors -- //
+// White Colors
+$html-white:          White;
+$html-azure:          Azure;
+$html-mint-cream:     MintCream;
+$html-ivory:          Ivory;
+$html-honey-dew:      HoneyDew;
+$html-snow:           Snow;
+$html-floral-white:   FloralWhite;
+$html-ghost-white:    GhostWhite;
+$html-alice-blue:     AliceBlue;
+$html-sea-shell:      SeaShell;
+$html-white-smoke:    WhiteSmoke;
+$html-old-lace:       OldLace;
+$html-beige:          Beige;
+$html-lavender-blush: LavenderBlush;
+$html-linen:          Linen;
+$html-antique-white:  AntiqueWhite;
+$html-misty-rose:     MistyRose;
+
+// Gray Colors
+$html-gainsboro:        Gainsboro;
+$html-light-gray:       LightGray;
+$html-silver:           Silver;
+$html-dark-gray:        DarkGray;
+$html-light-slate-gray: LightSlateGray;
+$html-gray:             Gray;
+$html-slate-gray:       SlateGray;
+$html-dim-gray:         DimGray;
+$html-dark-slate-gray:  DarkSlateGray;
+$html-black:            Black;
+
+// Brown Colors
+$html-cornsilk:        Cornsilk;
+$html-blanched-almond: BlanchedAlmond;
+$html-bisque:          Bisque;
+$html-navajo-white:    NavajoWhite;
+$html-wheat:           Wheat;
+$html-burly-wood:      BurlyWood;
+$html-tan:             Tan;
+$html-sandy-brown:     SandyBrown;
+$html-goldenrod:       Goldenrod;
+$html-rosy-brown:      RosyBrown;
+$html-peru:            Peru;
+$html-dark-goldenrod:  DarkGoldenrod;
+$html-chocolate:       Chocolate;
+$html-sienna:          Sienna;
+$html-saddle-brown:    SaddleBrown;
+$html-brown:           Brown;
+$html-maroon:          Maroon;
+
+// Red Colors
+$html-light-salmon: LightSalmon;
+$html-dark-salmon:  DarkSalmon;
+$html-salmon:       Salmon;
+$html-light-coral:  LightCoral;
+$html-indian-red:   IndianRed;
+$html-red:          Red;
+$html-crimson:      Crimson;
+$html-fire-brick:   FireBrick;
+$html-darkRed:      darkred;
+
+// Orange Colors
+$html-orange:      Orange;
+$html-dark-orange: DarkOrange;
+$html-coral:       Coral;
+$html-tomato:      Tomato;
+$html-orange-red:  OrangeRed;
+
+// Yellow Colors
+$html-light-yellow:           LightYellow;
+$html-lemon-chiffon:          LemonChiffon;
+$html-light-goldenrod-yellow: LightGoldenrodYellow;
+$html-yellow:                 Yellow;
+$html-papaya-whip:            PapayaWhip;
+$html-moccasin:               Moccasin;
+$html-pale-goldenrod:         PaleGoldenrod;
+$html-khaki:                  Khaki;
+$html-peach-puff:             PeachPuff;
+$html-gold:                   Gold;
+$html-dark-khaki:             DarkKhaki;
+
+// Green Colors
+$html-green-yellow:        GreenYellow;
+$html-pale-green:          PaleGreen;
+$html-spring-green:        SpringGreen;
+$html-chartreuse:          Chartreuse;
+$html-lime:                Lime;
+$html-lawn-green:          LawnGreen;
+$html-medium-spring-green: MediumSpringGreen;
+$html-light-green:         LightGreen;
+$html-yellow-green:        YellowGreen;
+$html-medium-aquamarine:   MediumAquamarine;
+$html-lime-green:          LimeGreen;
+$html-dark-sea-green:      DarkSeaGreen;
+$html-light-sea-green:     LightSeaGreen;
+$html-medium-sea-green:    MediumSeaGreen;
+$html-olive-drab:          OliveDrab;
+$html-dark-cyan:           DarkCyan;
+$html-sea-green:           SeaGreen;
+$html-forest-green:        ForestGreen;
+$html-olive:               Olive;
+$html-teal:                Teal;
+$html-green:               Green;
+$html-dark-olive-green:    DarkOliveGreen;
+$html-dark-green:          DarkGreen;
+
+// Blue Colors
+$html-light-cyan:       LightCyan;
+$html-aqua:             Aqua;
+$html-cyan:             Cyan;
+$html-aquamarine:       Aquamarine;
+$html-pale-turquoise:   PaleTurquoise;
+$html-powder-blue:      PowderBlue;
+$html-light-blue:       LightBlue;
+$html-turquoise:        Turquoise;
+$html-light-sky-blue:   LightSkyBlue;
+$html-sky-blue:         SkyBlue;
+$html-medium-turquoise: MediumTurquoise;
+$html-light-steel-blue: LightSteelBlue;
+$html-dark-turquoise:   DarkTurquoise;
+$html-deep-sky-blue:    DeepSkyBlue;
+$html-cornflower-blue:  CornflowerBlue;
+$html-cadet-blue:       CadetBlue;
+$html-dodger-blue:      DodgerBlue;
+$html-steel-blue:       SteelBlue;
+$html-royal-blue:       RoyalBlue;
+$html-blue:             Blue;
+$html-medium-blue:      MediumBlue;
+$html-dark-blue:        DarkBlue;
+$html-navy:             Navy;
+$html-midnight-blue:    MidnightBlue;
+
+// Purple Colors
+$html-lavender:          Lavender;
+$html-thistle:           Thistle;
+$html-plum:              Plum;
+$html-violet:            Violet;
+$html-orchid:            Orchid;
+$html-fuchsia:           Fuchsia;
+$html-magenta:           Magenta;
+$html-medium-purple:     MediumPurple;
+$html-medium-slate-blue: MediumSlateBlue;
+$html-medium-orchid:     MediumOrchid;
+$html-slate-blue:        SlateBlue;
+$html-blue-violet:       BlueViolet;
+$html-dark-orchid:       DarkOrchid;
+$html-dark-violet:       DarkViolet;
+$html-rebecca-purple:    RebeccaPurple;
+$html-dark-slate-blue:   DarkSlateBlue;
+$html-dark-magenta:      DarkMagenta;
+$html-purple:            Purple;
+$html-indigo:            Indigo;
+
+// Pink Colors
+$html-pink:              Pink;
+$html-light-pink:        LightPink;
+$html-hot-pink:          HotPink;
+$html-pale-violet-red:   PaleVioletRed;
+$html-deep-pink:         DeepPink;
+$html-medium-violet-red: MediumVioletRed;
+
+
+// HTML colors
+$html-colors: (
+    // White Colors
+    'white':          $html-white,
+    'azure':          $html-azure,
+    'mint-cream':     $html-mint-cream,
+    'ivory':          $html-ivory,
+    'honey-dew':      $html-honey-dew,
+    'snow':           $html-snow,
+    'floral-white':   $html-floral-white,
+    'ghost-white':    $html-ghost-white,
+    'alice-blue':     $html-alice-blue,
+    'sea-shell':      $html-sea-shell,
+    'white-smoke':    $html-white-smoke,
+    'old-lace':       $html-old-lace,
+    'beige':          $html-beige,
+    'lavender-blush': $html-lavender-blush,
+    'linen':          $html-linen,
+    'antique-white':  $html-antique-white,
+    'misty-rose':     $html-misty-rose,
+
+    // Gray Colors
+    'gainsboro':        $html-gainsboro,
+    'light-gray':       $html-light-gray,
+    'silver':           $html-silver,
+    'dark-gray':        $html-dark-gray,
+    'light-slate-gray': $html-light-slate-gray,
+    'gray':             $html-gray,
+    'slate-gray':       $html-slate-gray,
+    'dim-gray':         $html-dim-gray,
+    'dark-slate-gray':  $html-dark-slate-gray,
+    'black':            $html-black,
+
+    // Brown Colors
+    'cornsilk':        $html-cornsilk,
+    'blanched-almond': $html-blanched-almond,
+    'bisque':          $html-bisque,
+    'navajo-white':    $html-navajo-white,
+    'wheat':           $html-wheat,
+    'burly-wood':      $html-burly-wood,
+    'tan':             $html-tan,
+    'sandy-brown':     $html-sandy-brown,
+    'goldenrod':       $html-goldenrod,
+    'rosy-brown':      $html-rosy-brown,
+    'peru':            $html-peru,
+    'dark-goldenrod':  $html-dark-goldenrod,
+    'chocolate':       $html-chocolate,
+    'sienna':          $html-sienna,
+    'saddle-brown':    $html-saddle-brown,
+    'brown':           $html-brown,
+    'maroon':          $html-maroon,
+
+    // Red Colors
+    'light-salmon': $html-light-salmon,
+    'dark-salmon':  $html-dark-salmon,
+    'salmon':       $html-salmon,
+    'light-coral':  $html-light-coral,
+    'indian-red':   $html-indian-red,
+    'red':          $html-red,
+    'crimson':      $html-crimson,
+    'fire-brick':   $html-fire-brick,
+    'darkRed':      $html-darkRed,
+
+    // Orange Colors
+    'orange':      $html-orange,
+    'dark-orange': $html-dark-orange,
+    'coral':       $html-coral,
+    'tomato':      $html-tomato,
+    'orange-red':  $html-orange-red,
+
+    // Yellow Colors
+    'light-yellow':           $html-light-yellow,
+    'lemon-chiffon':          $html-lemon-chiffon,
+    'light-goldenrod-yellow': $html-light-goldenrod-yellow,
+    'yellow':                 $html-yellow,
+    'papaya-whip':            $html-papaya-whip,
+    'moccasin':               $html-moccasin,
+    'pale-goldenrod':         $html-pale-goldenrod,
+    'khaki':                  $html-khaki,
+    'peach-puff':             $html-peach-puff,
+    'gold':                   $html-gold,
+    'dark-khaki':             $html-dark-khaki,
+
+    // Green Colors
+    'green-yellow':        $html-green-yellow,
+    'pale-green':          $html-pale-green,
+    'spring-green':        $html-spring-green,
+    'chartreuse':          $html-chartreuse,
+    'lime':                $html-lime,
+    'lawn-green':          $html-lawn-green,
+    'medium-spring-green': $html-medium-spring-green,
+    'light-green':         $html-light-green,
+    'yellow-green':        $html-yellow-green,
+    'medium-aquamarine':   $html-medium-aquamarine,
+    'lime-green':          $html-lime-green,
+    'dark-sea-green':      $html-dark-sea-green,
+    'light-sea-green':     $html-light-sea-green,
+    'medium-sea-green':    $html-medium-sea-green,
+    'olive-drab':          $html-olive-drab,
+    'dark-cyan':           $html-dark-cyan,
+    'sea-green':           $html-sea-green,
+    'forest-green':        $html-forest-green,
+    'olive':               $html-olive,
+    'teal':                $html-teal,
+    'green':               $html-green,
+    'dark-olive-green':    $html-dark-olive-green,
+    'dark-green':          $html-dark-green,
+
+    // Blue Colors
+    'light-cyan':       $html-light-cyan,
+    'aqua':             $html-aqua,
+    'cyan':             $html-cyan,
+    'aquamarine':       $html-aquamarine,
+    'pale-turquoise':   $html-pale-turquoise,
+    'powder-blue':      $html-powder-blue,
+    'light-blue':       $html-light-blue,
+    'turquoise':        $html-turquoise,
+    'light-sky-blue':   $html-light-sky-blue,
+    'sky-blue':         $html-sky-blue,
+    'medium-turquoise': $html-medium-turquoise,
+    'light-steel-blue': $html-light-steel-blue,
+    'dark-turquoise':   $html-dark-turquoise,
+    'deep-sky-blue':    $html-deep-sky-blue,
+    'cornflower-blue':  $html-cornflower-blue,
+    'cadet-blue':       $html-cadet-blue,
+    'dodger-blue':      $html-dodger-blue,
+    'steel-blue':       $html-steel-blue,
+    'royal-blue':       $html-royal-blue,
+    'blue':             $html-blue,
+    'medium-blue':      $html-medium-blue,
+    'dark-blue':        $html-dark-blue,
+    'navy':             $html-navy,
+    'midnight-blue':    $html-midnight-blue,
+
+    // Purple Colors
+    'lavender':          $html-lavender,
+    'thistle':           $html-thistle,
+    'plum':              $html-plum,
+    'violet':            $html-violet,
+    'orchid':            $html-orchid,
+    'fuchsia':           $html-fuchsia,
+    'magenta':           $html-magenta,
+    'medium-purple':     $html-medium-purple,
+    'medium-slate-blue': $html-medium-slate-blue,
+    'medium-orchid':     $html-medium-orchid,
+    'slate-blue':        $html-slate-blue,
+    'blue-violet':       $html-blue-violet,
+    'dark-orchid':       $html-dark-orchid,
+    'dark-violet':       $html-dark-violet,
+    'rebecca-purple':    $html-rebecca-purple,
+    'dark-slate-blue':   $html-dark-slate-blue,
+    'dark-magenta':      $html-dark-magenta,
+    'purple':            $html-purple,
+    'indigo':            $html-indigo,
+
+    // Pink Colors
+    'pink':              $html-pink,
+    'light-pink':        $html-light-pink,
+    'hot-pink':          $html-hot-pink,
+    'pale-violet-red':   $html-pale-violet-red,
+    'deep-pink':         $html-deep-pink,
+    'medium-violet-red': $html-medium-violet-red,
+) !default;
+
+
+// -- Metro colors -- //
+$metro-lime:    #a4c400 !default;
+$metro-green:   #60a917 !default;
+$metro-emerald: #008a00 !default;
+$metro-teal:    #00aba9 !default;
+$metro-cyan:    #1ba1e2 !default;
+$metro-cobalt:  #0050ef !default;
+$metro-indigo:  #6a00ff !default;
+$metro-violet:  #aa00ff !default;
+$metro-pink:    #f472d0 !default;
+$metro-magenta: #d80073 !default;
+$metro-crimson: #a20025 !default;
+$metro-red:     #e51400 !default;
+$metro-orange:  #fa6800 !default;
+$metro-amber:   #f0a30a !default;
+$metro-yellow:  #e3c800 !default;
+$metro-brown:   #825a2c !default;
+$metro-olive:   #6d8764 !default;
+$metro-steel:   #647687 !default;
+$metro-mauve:   #76608a !default;
+$metro-sienna:  #a0522d !default;
+
+// Metro colors
+$metro-colors: (
+    'lime':    $metro-lime,
+    'green':   $metro-green,
+    'emerald': $metro-emerald,
+    'teal':    $metro-teal,
+    'cyan':    $metro-cyan,
+    'cobalt':  $metro-cobalt,
+    'indigo':  $metro-indigo,
+    'violet':  $metro-violet,
+    'pink':    $metro-pink,
+    'magenta': $metro-magenta,
+    'crimson': $metro-crimson,
+    'red':     $metro-red,
+    'orange':  $metro-orange,
+    'amber':   $metro-amber,
+    'yellow':  $metro-yellow,
+    'brown':   $metro-brown,
+    'olive':   $metro-olive,
+    'steel':   $metro-steel,
+    'mauve':   $metro-mauve,
+    'sienna':  $metro-sienna,
+) !default;
+
+
+// -- Flat Clors -- //
+$flat-turquoise:    #1abc9c !default;
+$flat-emerland:     #2ecc71 !default;
+$flat-peterriver:   #3498db !default;
+$flat-amethyst:     #9b59b6 !default;
+$flat-wetasphalt:   #34495e !default;
+$flat-greensea:     #16a085 !default;
+$flat-nephritis:    #27ae60 !default;
+$flat-belizehole:   #2980b9 !default;
+$flat-wisteria:     #8e44ad !default;
+$flat-midnightblue: #2c3e50 !default;
+$flat-sunflower:    #f1c40f !default;
+$flat-carrot:       #e67e22 !default;
+$flat-alizarin:     #e74c3c !default;
+$flat-clouds:       #ecf0f1 !default;
+$flat-concrete:     #95a5a6 !default;
+$flat-orange:       #f39c12 !default;
+$flat-pumpkin:      #d35400 !default;
+$flat-pomegranate:  #c0392b !default;
+$flat-silver:       #bdc3c7 !default;
+$flat-asbestos:     #7f8c8d !default;
+
+// Flat UI colors
+$flat-colors: (
+    'turquoise':    $flat-turquoise,
+    'emerland':     $flat-emerland,
+    'peterriver':   $flat-peterriver,
+    'amethyst':     $flat-amethyst,
+    'wetasphalt':   $flat-wetasphalt,
+    'greensea':     $flat-greensea,
+    'nephritis':    $flat-nephritis,
+    'belizehole':   $flat-belizehole,
+    'wisteria':     $flat-wisteria,
+    'midnightblue': $flat-midnightblue,
+    'sunflower':    $flat-sunflower,
+    'carrot':       $flat-carrot,
+    'alizarin':     $flat-alizarin,
+    'clouds':       $flat-clouds,
+    'concrete':     $flat-concrete,
+    'orange':       $flat-orange,
+    'pumpkin':      $flat-pumpkin,
+    'pomegranate':  $flat-pomegranate,
+    'silver':       $flat-silver,
+    'asbestos':     $flat-asbestos,
+) !default;
+
+
+// Check color system
+@if to-lower($color-system) == 'polaris' {
+    $plugin-vars:           $polaris-colors;
+    $plugin-maps:           $polaris-maps;
+    $plugin-color-palettes: $polaris-color-palettes;
+    $plugin-palettes:       $polaris-palettes;
+    $plugin-color-alphas:   $polaris-color-alphas;
+    $plugin-alphas:         $polaris-alphas;
+
+} @else if to-lower($color-system) == 'material' {
+    $plugin-vars:           $material-colors;
+    $plugin-maps:           $material-maps;
+    $plugin-color-palettes: $material-color-palettes;
+    $plugin-palettes:       $material-palettes;
+    $plugin-color-alphas:   $material-color-alphas;
+    $plugin-alphas:         $material-alphas;
+}
