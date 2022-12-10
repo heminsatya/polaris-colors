@@ -1,6 +1,6 @@
 # Polaris Colors Plugin (v1.0.0)
 
-In addition to the built-in core colors comes with Polaris framework, you can also use a set of flat and beautiful colors.
+In addition to the built-in core colors comes with [Polaris framework](https://github.com/heminsatya/polaris-core), you can also use a set of flat and beautiful colors.
 
 Polaris Colors Plugin is divided in two categories:
 
