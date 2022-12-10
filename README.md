@@ -40,7 +40,7 @@ npm install polaris-colors
 
 ### Download Polaris Colors
 
-[Download Polaris Colors](https://github.com/heminsatya/polaris-colors/releases/)
+[Download Polaris Colors](https://github.com/heminsatya/polaris-colors/releases)
 
 
 ### Clone Polaris
