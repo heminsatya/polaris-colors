@@ -1,7 +1,7 @@
 {
   "name": "polaris-colors",
   "version": "1.0.0",
-  "description": "Polaris Colors Plugin for Polaris Framework.",
+  "description": "Polaris Colors Plugin for Polaris Framework. A set of beautiful flat colors that you can use in your web apps.",
   "author": "Hemin Satya",
   "license": "MIT",
   "main": "index.js",
