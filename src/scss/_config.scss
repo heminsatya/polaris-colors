@@ -1,4 +1,6 @@
 // ---------- Custom Configuration ---------- //
+$color-system:         "polaris" !default;      // "polaris" | "material"
+
 $has-color:            true !default;           // true | false
 $has-background-color: true !default;           // true | false
 $has-border-color:     false !default;          // true | false

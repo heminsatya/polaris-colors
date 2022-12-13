@@ -1,4 +1,4 @@
-# Polaris Colors Plugin (v1.1.0)
+# Polaris Colors Plugin (v1.2.0)
 
 In addition to the built-in core colors comes with [Polaris framework](https://github.com/heminsatya/polaris-core), you can also use a set of flat and beautiful colors.
 
@@ -72,6 +72,8 @@ Next step after customization is to rebuild the CSS libraries.
 * To rebuild the CSS libraries run:
 
 ```
+npm run main
+npm run main-dev
 npm run polaris
 npm run polaris-dev
 npm run material
@@ -149,4 +151,13 @@ Here you can find a set of famous social network colors:
 ```
 ~polaris-colors/dist/css/social.min.css
 ~polaris-colors/dist/css/social.css
+```
+
+
+## Bundling
+
+For easier bundling, you can also use the "main" style libray:
+```
+~polaris-colors/dist/css/main.min.css
+~polaris-colors/dist/css/main.css
 ```

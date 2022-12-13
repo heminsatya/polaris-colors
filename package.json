@@ -1,6 +1,6 @@
 {
   "name": "polaris-colors",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Polaris Colors Plugin for Polaris Framework. A set of beautiful flat colors that you can use in your web apps.",
   "author": "Hemin Satya",
   "license": "MIT",
@@ -33,6 +33,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "sass src/scss/main.scss dist/css/main.min.css --style compressed",
+    "main-dev": "sass src/scss/main.scss dist/css/main.css --watch",
     "polaris": "sass src/scss/polaris.scss dist/css/polaris.min.css --style compressed",
     "polaris-dev": "sass src/scss/polaris.scss dist/css/polaris.css --watch",
     "material": "sass src/scss/material.scss dist/css/material.min.css --style compressed",
