@@ -1,5 +1,5 @@
 /**
- * Polaris Colors Plugin v1.3.0
+ * Polaris Colors Plugin v1.3.1
  * Social Network Colors
  * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
@@ -15,7 +15,7 @@
 /* -------------------------------------------------- */
 /*                    Color Packs                     */
 /* -------------------------------------------------- */
-@if $has-color {
+@if $has-plugin-color {
     /*
     * color
     */
@@ -23,7 +23,7 @@
 }
 
 
-@if $has-background-color {
+@if $has-plugin-background-color {
     /*
     * background-color
     */
@@ -31,7 +31,7 @@
 }
 
 
-@if $has-border-color {
+@if $has-plugin-border-color {
     /*
     * border-color
     */
@@ -39,7 +39,7 @@
 }
 
 
-@if $has-outline-color {
+@if $has-plugin-outline-color {
     /*
     * outline-color
     */

@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /**
- * Polaris Colors Plugin v1.3.0
+ * Polaris Colors Plugin v1.3.1
  * Material Design Colors
  * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
@@ -1155,518 +1155,1088 @@
 }
 
 /* Color Alphas */
+.color-light-blue-a50, .color-light-blue-a50-hover:hover {
+  color: rgba(3, 169, 244, 0.05) !important;
+}
 .color-light-blue-a100, .color-light-blue-a100-hover:hover {
   color: rgba(3, 169, 244, 0.1) !important;
+}
+.color-light-blue-a150, .color-light-blue-a150-hover:hover {
+  color: rgba(3, 169, 244, 0.15) !important;
 }
 .color-light-blue-a200, .color-light-blue-a200-hover:hover {
   color: rgba(3, 169, 244, 0.2) !important;
 }
+.color-light-blue-a250, .color-light-blue-a250-hover:hover {
+  color: rgba(3, 169, 244, 0.25) !important;
+}
 .color-light-blue-a300, .color-light-blue-a300-hover:hover {
   color: rgba(3, 169, 244, 0.3) !important;
+}
+.color-light-blue-a350, .color-light-blue-a350-hover:hover {
+  color: rgba(3, 169, 244, 0.35) !important;
 }
 .color-light-blue-a400, .color-light-blue-a400-hover:hover {
   color: rgba(3, 169, 244, 0.4) !important;
 }
+.color-light-blue-a450, .color-light-blue-a450-hover:hover {
+  color: rgba(3, 169, 244, 0.45) !important;
+}
 .color-light-blue-a500, .color-light-blue-a500-hover:hover {
   color: rgba(3, 169, 244, 0.5) !important;
+}
+.color-light-blue-a550, .color-light-blue-a550-hover:hover {
+  color: rgba(3, 169, 244, 0.55) !important;
 }
 .color-light-blue-a600, .color-light-blue-a600-hover:hover {
   color: rgba(3, 169, 244, 0.6) !important;
 }
+.color-light-blue-a650, .color-light-blue-a650-hover:hover {
+  color: rgba(3, 169, 244, 0.65) !important;
+}
 .color-light-blue-a700, .color-light-blue-a700-hover:hover {
   color: rgba(3, 169, 244, 0.7) !important;
+}
+.color-light-blue-a750, .color-light-blue-a750-hover:hover {
+  color: rgba(3, 169, 244, 0.75) !important;
 }
 .color-light-blue-a800, .color-light-blue-a800-hover:hover {
   color: rgba(3, 169, 244, 0.8) !important;
 }
+.color-light-blue-a850, .color-light-blue-a850-hover:hover {
+  color: rgba(3, 169, 244, 0.85) !important;
+}
 .color-light-blue-a900, .color-light-blue-a900-hover:hover {
   color: rgba(3, 169, 244, 0.9) !important;
+}
+.color-light-blue-a950, .color-light-blue-a950-hover:hover {
+  color: rgba(3, 169, 244, 0.95) !important;
+}
+.color-blue-a50, .color-blue-a50-hover:hover {
+  color: rgba(33, 150, 243, 0.05) !important;
 }
 .color-blue-a100, .color-blue-a100-hover:hover {
   color: rgba(33, 150, 243, 0.1) !important;
 }
+.color-blue-a150, .color-blue-a150-hover:hover {
+  color: rgba(33, 150, 243, 0.15) !important;
+}
 .color-blue-a200, .color-blue-a200-hover:hover {
   color: rgba(33, 150, 243, 0.2) !important;
+}
+.color-blue-a250, .color-blue-a250-hover:hover {
+  color: rgba(33, 150, 243, 0.25) !important;
 }
 .color-blue-a300, .color-blue-a300-hover:hover {
   color: rgba(33, 150, 243, 0.3) !important;
 }
+.color-blue-a350, .color-blue-a350-hover:hover {
+  color: rgba(33, 150, 243, 0.35) !important;
+}
 .color-blue-a400, .color-blue-a400-hover:hover {
   color: rgba(33, 150, 243, 0.4) !important;
+}
+.color-blue-a450, .color-blue-a450-hover:hover {
+  color: rgba(33, 150, 243, 0.45) !important;
 }
 .color-blue-a500, .color-blue-a500-hover:hover {
   color: rgba(33, 150, 243, 0.5) !important;
 }
+.color-blue-a550, .color-blue-a550-hover:hover {
+  color: rgba(33, 150, 243, 0.55) !important;
+}
 .color-blue-a600, .color-blue-a600-hover:hover {
   color: rgba(33, 150, 243, 0.6) !important;
+}
+.color-blue-a650, .color-blue-a650-hover:hover {
+  color: rgba(33, 150, 243, 0.65) !important;
 }
 .color-blue-a700, .color-blue-a700-hover:hover {
   color: rgba(33, 150, 243, 0.7) !important;
 }
+.color-blue-a750, .color-blue-a750-hover:hover {
+  color: rgba(33, 150, 243, 0.75) !important;
+}
 .color-blue-a800, .color-blue-a800-hover:hover {
   color: rgba(33, 150, 243, 0.8) !important;
+}
+.color-blue-a850, .color-blue-a850-hover:hover {
+  color: rgba(33, 150, 243, 0.85) !important;
 }
 .color-blue-a900, .color-blue-a900-hover:hover {
   color: rgba(33, 150, 243, 0.9) !important;
 }
+.color-blue-a950, .color-blue-a950-hover:hover {
+  color: rgba(33, 150, 243, 0.95) !important;
+}
+.color-indigo-a50, .color-indigo-a50-hover:hover {
+  color: rgba(63, 81, 181, 0.05) !important;
+}
 .color-indigo-a100, .color-indigo-a100-hover:hover {
   color: rgba(63, 81, 181, 0.1) !important;
+}
+.color-indigo-a150, .color-indigo-a150-hover:hover {
+  color: rgba(63, 81, 181, 0.15) !important;
 }
 .color-indigo-a200, .color-indigo-a200-hover:hover {
   color: rgba(63, 81, 181, 0.2) !important;
 }
+.color-indigo-a250, .color-indigo-a250-hover:hover {
+  color: rgba(63, 81, 181, 0.25) !important;
+}
 .color-indigo-a300, .color-indigo-a300-hover:hover {
   color: rgba(63, 81, 181, 0.3) !important;
+}
+.color-indigo-a350, .color-indigo-a350-hover:hover {
+  color: rgba(63, 81, 181, 0.35) !important;
 }
 .color-indigo-a400, .color-indigo-a400-hover:hover {
   color: rgba(63, 81, 181, 0.4) !important;
 }
+.color-indigo-a450, .color-indigo-a450-hover:hover {
+  color: rgba(63, 81, 181, 0.45) !important;
+}
 .color-indigo-a500, .color-indigo-a500-hover:hover {
   color: rgba(63, 81, 181, 0.5) !important;
+}
+.color-indigo-a550, .color-indigo-a550-hover:hover {
+  color: rgba(63, 81, 181, 0.55) !important;
 }
 .color-indigo-a600, .color-indigo-a600-hover:hover {
   color: rgba(63, 81, 181, 0.6) !important;
 }
+.color-indigo-a650, .color-indigo-a650-hover:hover {
+  color: rgba(63, 81, 181, 0.65) !important;
+}
 .color-indigo-a700, .color-indigo-a700-hover:hover {
   color: rgba(63, 81, 181, 0.7) !important;
+}
+.color-indigo-a750, .color-indigo-a750-hover:hover {
+  color: rgba(63, 81, 181, 0.75) !important;
 }
 .color-indigo-a800, .color-indigo-a800-hover:hover {
   color: rgba(63, 81, 181, 0.8) !important;
 }
+.color-indigo-a850, .color-indigo-a850-hover:hover {
+  color: rgba(63, 81, 181, 0.85) !important;
+}
 .color-indigo-a900, .color-indigo-a900-hover:hover {
   color: rgba(63, 81, 181, 0.9) !important;
+}
+.color-indigo-a950, .color-indigo-a950-hover:hover {
+  color: rgba(63, 81, 181, 0.95) !important;
+}
+.color-purple-a50, .color-purple-a50-hover:hover {
+  color: rgba(156, 39, 176, 0.05) !important;
 }
 .color-purple-a100, .color-purple-a100-hover:hover {
   color: rgba(156, 39, 176, 0.1) !important;
 }
+.color-purple-a150, .color-purple-a150-hover:hover {
+  color: rgba(156, 39, 176, 0.15) !important;
+}
 .color-purple-a200, .color-purple-a200-hover:hover {
   color: rgba(156, 39, 176, 0.2) !important;
+}
+.color-purple-a250, .color-purple-a250-hover:hover {
+  color: rgba(156, 39, 176, 0.25) !important;
 }
 .color-purple-a300, .color-purple-a300-hover:hover {
   color: rgba(156, 39, 176, 0.3) !important;
 }
+.color-purple-a350, .color-purple-a350-hover:hover {
+  color: rgba(156, 39, 176, 0.35) !important;
+}
 .color-purple-a400, .color-purple-a400-hover:hover {
   color: rgba(156, 39, 176, 0.4) !important;
+}
+.color-purple-a450, .color-purple-a450-hover:hover {
+  color: rgba(156, 39, 176, 0.45) !important;
 }
 .color-purple-a500, .color-purple-a500-hover:hover {
   color: rgba(156, 39, 176, 0.5) !important;
 }
+.color-purple-a550, .color-purple-a550-hover:hover {
+  color: rgba(156, 39, 176, 0.55) !important;
+}
 .color-purple-a600, .color-purple-a600-hover:hover {
   color: rgba(156, 39, 176, 0.6) !important;
+}
+.color-purple-a650, .color-purple-a650-hover:hover {
+  color: rgba(156, 39, 176, 0.65) !important;
 }
 .color-purple-a700, .color-purple-a700-hover:hover {
   color: rgba(156, 39, 176, 0.7) !important;
 }
+.color-purple-a750, .color-purple-a750-hover:hover {
+  color: rgba(156, 39, 176, 0.75) !important;
+}
 .color-purple-a800, .color-purple-a800-hover:hover {
   color: rgba(156, 39, 176, 0.8) !important;
+}
+.color-purple-a850, .color-purple-a850-hover:hover {
+  color: rgba(156, 39, 176, 0.85) !important;
 }
 .color-purple-a900, .color-purple-a900-hover:hover {
   color: rgba(156, 39, 176, 0.9) !important;
 }
+.color-purple-a950, .color-purple-a950-hover:hover {
+  color: rgba(156, 39, 176, 0.95) !important;
+}
+.color-deep-purple-a50, .color-deep-purple-a50-hover:hover {
+  color: rgba(103, 58, 183, 0.05) !important;
+}
 .color-deep-purple-a100, .color-deep-purple-a100-hover:hover {
   color: rgba(103, 58, 183, 0.1) !important;
+}
+.color-deep-purple-a150, .color-deep-purple-a150-hover:hover {
+  color: rgba(103, 58, 183, 0.15) !important;
 }
 .color-deep-purple-a200, .color-deep-purple-a200-hover:hover {
   color: rgba(103, 58, 183, 0.2) !important;
 }
+.color-deep-purple-a250, .color-deep-purple-a250-hover:hover {
+  color: rgba(103, 58, 183, 0.25) !important;
+}
 .color-deep-purple-a300, .color-deep-purple-a300-hover:hover {
   color: rgba(103, 58, 183, 0.3) !important;
+}
+.color-deep-purple-a350, .color-deep-purple-a350-hover:hover {
+  color: rgba(103, 58, 183, 0.35) !important;
 }
 .color-deep-purple-a400, .color-deep-purple-a400-hover:hover {
   color: rgba(103, 58, 183, 0.4) !important;
 }
+.color-deep-purple-a450, .color-deep-purple-a450-hover:hover {
+  color: rgba(103, 58, 183, 0.45) !important;
+}
 .color-deep-purple-a500, .color-deep-purple-a500-hover:hover {
   color: rgba(103, 58, 183, 0.5) !important;
+}
+.color-deep-purple-a550, .color-deep-purple-a550-hover:hover {
+  color: rgba(103, 58, 183, 0.55) !important;
 }
 .color-deep-purple-a600, .color-deep-purple-a600-hover:hover {
   color: rgba(103, 58, 183, 0.6) !important;
 }
+.color-deep-purple-a650, .color-deep-purple-a650-hover:hover {
+  color: rgba(103, 58, 183, 0.65) !important;
+}
 .color-deep-purple-a700, .color-deep-purple-a700-hover:hover {
   color: rgba(103, 58, 183, 0.7) !important;
+}
+.color-deep-purple-a750, .color-deep-purple-a750-hover:hover {
+  color: rgba(103, 58, 183, 0.75) !important;
 }
 .color-deep-purple-a800, .color-deep-purple-a800-hover:hover {
   color: rgba(103, 58, 183, 0.8) !important;
 }
+.color-deep-purple-a850, .color-deep-purple-a850-hover:hover {
+  color: rgba(103, 58, 183, 0.85) !important;
+}
 .color-deep-purple-a900, .color-deep-purple-a900-hover:hover {
   color: rgba(103, 58, 183, 0.9) !important;
+}
+.color-deep-purple-a950, .color-deep-purple-a950-hover:hover {
+  color: rgba(103, 58, 183, 0.95) !important;
+}
+.color-pink-a50, .color-pink-a50-hover:hover {
+  color: rgba(233, 30, 99, 0.05) !important;
 }
 .color-pink-a100, .color-pink-a100-hover:hover {
   color: rgba(233, 30, 99, 0.1) !important;
 }
+.color-pink-a150, .color-pink-a150-hover:hover {
+  color: rgba(233, 30, 99, 0.15) !important;
+}
 .color-pink-a200, .color-pink-a200-hover:hover {
   color: rgba(233, 30, 99, 0.2) !important;
+}
+.color-pink-a250, .color-pink-a250-hover:hover {
+  color: rgba(233, 30, 99, 0.25) !important;
 }
 .color-pink-a300, .color-pink-a300-hover:hover {
   color: rgba(233, 30, 99, 0.3) !important;
 }
+.color-pink-a350, .color-pink-a350-hover:hover {
+  color: rgba(233, 30, 99, 0.35) !important;
+}
 .color-pink-a400, .color-pink-a400-hover:hover {
   color: rgba(233, 30, 99, 0.4) !important;
+}
+.color-pink-a450, .color-pink-a450-hover:hover {
+  color: rgba(233, 30, 99, 0.45) !important;
 }
 .color-pink-a500, .color-pink-a500-hover:hover {
   color: rgba(233, 30, 99, 0.5) !important;
 }
+.color-pink-a550, .color-pink-a550-hover:hover {
+  color: rgba(233, 30, 99, 0.55) !important;
+}
 .color-pink-a600, .color-pink-a600-hover:hover {
   color: rgba(233, 30, 99, 0.6) !important;
+}
+.color-pink-a650, .color-pink-a650-hover:hover {
+  color: rgba(233, 30, 99, 0.65) !important;
 }
 .color-pink-a700, .color-pink-a700-hover:hover {
   color: rgba(233, 30, 99, 0.7) !important;
 }
+.color-pink-a750, .color-pink-a750-hover:hover {
+  color: rgba(233, 30, 99, 0.75) !important;
+}
 .color-pink-a800, .color-pink-a800-hover:hover {
   color: rgba(233, 30, 99, 0.8) !important;
+}
+.color-pink-a850, .color-pink-a850-hover:hover {
+  color: rgba(233, 30, 99, 0.85) !important;
 }
 .color-pink-a900, .color-pink-a900-hover:hover {
   color: rgba(233, 30, 99, 0.9) !important;
 }
+.color-pink-a950, .color-pink-a950-hover:hover {
+  color: rgba(233, 30, 99, 0.95) !important;
+}
+.color-red-a50, .color-red-a50-hover:hover {
+  color: rgba(244, 67, 54, 0.05) !important;
+}
 .color-red-a100, .color-red-a100-hover:hover {
   color: rgba(244, 67, 54, 0.1) !important;
+}
+.color-red-a150, .color-red-a150-hover:hover {
+  color: rgba(244, 67, 54, 0.15) !important;
 }
 .color-red-a200, .color-red-a200-hover:hover {
   color: rgba(244, 67, 54, 0.2) !important;
 }
+.color-red-a250, .color-red-a250-hover:hover {
+  color: rgba(244, 67, 54, 0.25) !important;
+}
 .color-red-a300, .color-red-a300-hover:hover {
   color: rgba(244, 67, 54, 0.3) !important;
+}
+.color-red-a350, .color-red-a350-hover:hover {
+  color: rgba(244, 67, 54, 0.35) !important;
 }
 .color-red-a400, .color-red-a400-hover:hover {
   color: rgba(244, 67, 54, 0.4) !important;
 }
+.color-red-a450, .color-red-a450-hover:hover {
+  color: rgba(244, 67, 54, 0.45) !important;
+}
 .color-red-a500, .color-red-a500-hover:hover {
   color: rgba(244, 67, 54, 0.5) !important;
+}
+.color-red-a550, .color-red-a550-hover:hover {
+  color: rgba(244, 67, 54, 0.55) !important;
 }
 .color-red-a600, .color-red-a600-hover:hover {
   color: rgba(244, 67, 54, 0.6) !important;
 }
+.color-red-a650, .color-red-a650-hover:hover {
+  color: rgba(244, 67, 54, 0.65) !important;
+}
 .color-red-a700, .color-red-a700-hover:hover {
   color: rgba(244, 67, 54, 0.7) !important;
+}
+.color-red-a750, .color-red-a750-hover:hover {
+  color: rgba(244, 67, 54, 0.75) !important;
 }
 .color-red-a800, .color-red-a800-hover:hover {
   color: rgba(244, 67, 54, 0.8) !important;
 }
+.color-red-a850, .color-red-a850-hover:hover {
+  color: rgba(244, 67, 54, 0.85) !important;
+}
 .color-red-a900, .color-red-a900-hover:hover {
   color: rgba(244, 67, 54, 0.9) !important;
+}
+.color-red-a950, .color-red-a950-hover:hover {
+  color: rgba(244, 67, 54, 0.95) !important;
+}
+.color-deep-orange-a50, .color-deep-orange-a50-hover:hover {
+  color: rgba(255, 87, 34, 0.05) !important;
 }
 .color-deep-orange-a100, .color-deep-orange-a100-hover:hover {
   color: rgba(255, 87, 34, 0.1) !important;
 }
+.color-deep-orange-a150, .color-deep-orange-a150-hover:hover {
+  color: rgba(255, 87, 34, 0.15) !important;
+}
 .color-deep-orange-a200, .color-deep-orange-a200-hover:hover {
   color: rgba(255, 87, 34, 0.2) !important;
+}
+.color-deep-orange-a250, .color-deep-orange-a250-hover:hover {
+  color: rgba(255, 87, 34, 0.25) !important;
 }
 .color-deep-orange-a300, .color-deep-orange-a300-hover:hover {
   color: rgba(255, 87, 34, 0.3) !important;
 }
+.color-deep-orange-a350, .color-deep-orange-a350-hover:hover {
+  color: rgba(255, 87, 34, 0.35) !important;
+}
 .color-deep-orange-a400, .color-deep-orange-a400-hover:hover {
   color: rgba(255, 87, 34, 0.4) !important;
+}
+.color-deep-orange-a450, .color-deep-orange-a450-hover:hover {
+  color: rgba(255, 87, 34, 0.45) !important;
 }
 .color-deep-orange-a500, .color-deep-orange-a500-hover:hover {
   color: rgba(255, 87, 34, 0.5) !important;
 }
+.color-deep-orange-a550, .color-deep-orange-a550-hover:hover {
+  color: rgba(255, 87, 34, 0.55) !important;
+}
 .color-deep-orange-a600, .color-deep-orange-a600-hover:hover {
   color: rgba(255, 87, 34, 0.6) !important;
+}
+.color-deep-orange-a650, .color-deep-orange-a650-hover:hover {
+  color: rgba(255, 87, 34, 0.65) !important;
 }
 .color-deep-orange-a700, .color-deep-orange-a700-hover:hover {
   color: rgba(255, 87, 34, 0.7) !important;
 }
+.color-deep-orange-a750, .color-deep-orange-a750-hover:hover {
+  color: rgba(255, 87, 34, 0.75) !important;
+}
 .color-deep-orange-a800, .color-deep-orange-a800-hover:hover {
   color: rgba(255, 87, 34, 0.8) !important;
+}
+.color-deep-orange-a850, .color-deep-orange-a850-hover:hover {
+  color: rgba(255, 87, 34, 0.85) !important;
 }
 .color-deep-orange-a900, .color-deep-orange-a900-hover:hover {
   color: rgba(255, 87, 34, 0.9) !important;
 }
+.color-deep-orange-a950, .color-deep-orange-a950-hover:hover {
+  color: rgba(255, 87, 34, 0.95) !important;
+}
+.color-orange-a50, .color-orange-a50-hover:hover {
+  color: rgba(255, 152, 0, 0.05) !important;
+}
 .color-orange-a100, .color-orange-a100-hover:hover {
   color: rgba(255, 152, 0, 0.1) !important;
+}
+.color-orange-a150, .color-orange-a150-hover:hover {
+  color: rgba(255, 152, 0, 0.15) !important;
 }
 .color-orange-a200, .color-orange-a200-hover:hover {
   color: rgba(255, 152, 0, 0.2) !important;
 }
+.color-orange-a250, .color-orange-a250-hover:hover {
+  color: rgba(255, 152, 0, 0.25) !important;
+}
 .color-orange-a300, .color-orange-a300-hover:hover {
   color: rgba(255, 152, 0, 0.3) !important;
+}
+.color-orange-a350, .color-orange-a350-hover:hover {
+  color: rgba(255, 152, 0, 0.35) !important;
 }
 .color-orange-a400, .color-orange-a400-hover:hover {
   color: rgba(255, 152, 0, 0.4) !important;
 }
+.color-orange-a450, .color-orange-a450-hover:hover {
+  color: rgba(255, 152, 0, 0.45) !important;
+}
 .color-orange-a500, .color-orange-a500-hover:hover {
   color: rgba(255, 152, 0, 0.5) !important;
+}
+.color-orange-a550, .color-orange-a550-hover:hover {
+  color: rgba(255, 152, 0, 0.55) !important;
 }
 .color-orange-a600, .color-orange-a600-hover:hover {
   color: rgba(255, 152, 0, 0.6) !important;
 }
+.color-orange-a650, .color-orange-a650-hover:hover {
+  color: rgba(255, 152, 0, 0.65) !important;
+}
 .color-orange-a700, .color-orange-a700-hover:hover {
   color: rgba(255, 152, 0, 0.7) !important;
+}
+.color-orange-a750, .color-orange-a750-hover:hover {
+  color: rgba(255, 152, 0, 0.75) !important;
 }
 .color-orange-a800, .color-orange-a800-hover:hover {
   color: rgba(255, 152, 0, 0.8) !important;
 }
+.color-orange-a850, .color-orange-a850-hover:hover {
+  color: rgba(255, 152, 0, 0.85) !important;
+}
 .color-orange-a900, .color-orange-a900-hover:hover {
   color: rgba(255, 152, 0, 0.9) !important;
+}
+.color-orange-a950, .color-orange-a950-hover:hover {
+  color: rgba(255, 152, 0, 0.95) !important;
+}
+.color-amber-a50, .color-amber-a50-hover:hover {
+  color: rgba(255, 193, 7, 0.05) !important;
 }
 .color-amber-a100, .color-amber-a100-hover:hover {
   color: rgba(255, 193, 7, 0.1) !important;
 }
+.color-amber-a150, .color-amber-a150-hover:hover {
+  color: rgba(255, 193, 7, 0.15) !important;
+}
 .color-amber-a200, .color-amber-a200-hover:hover {
   color: rgba(255, 193, 7, 0.2) !important;
+}
+.color-amber-a250, .color-amber-a250-hover:hover {
+  color: rgba(255, 193, 7, 0.25) !important;
 }
 .color-amber-a300, .color-amber-a300-hover:hover {
   color: rgba(255, 193, 7, 0.3) !important;
 }
+.color-amber-a350, .color-amber-a350-hover:hover {
+  color: rgba(255, 193, 7, 0.35) !important;
+}
 .color-amber-a400, .color-amber-a400-hover:hover {
   color: rgba(255, 193, 7, 0.4) !important;
+}
+.color-amber-a450, .color-amber-a450-hover:hover {
+  color: rgba(255, 193, 7, 0.45) !important;
 }
 .color-amber-a500, .color-amber-a500-hover:hover {
   color: rgba(255, 193, 7, 0.5) !important;
 }
+.color-amber-a550, .color-amber-a550-hover:hover {
+  color: rgba(255, 193, 7, 0.55) !important;
+}
 .color-amber-a600, .color-amber-a600-hover:hover {
   color: rgba(255, 193, 7, 0.6) !important;
+}
+.color-amber-a650, .color-amber-a650-hover:hover {
+  color: rgba(255, 193, 7, 0.65) !important;
 }
 .color-amber-a700, .color-amber-a700-hover:hover {
   color: rgba(255, 193, 7, 0.7) !important;
 }
+.color-amber-a750, .color-amber-a750-hover:hover {
+  color: rgba(255, 193, 7, 0.75) !important;
+}
 .color-amber-a800, .color-amber-a800-hover:hover {
   color: rgba(255, 193, 7, 0.8) !important;
+}
+.color-amber-a850, .color-amber-a850-hover:hover {
+  color: rgba(255, 193, 7, 0.85) !important;
 }
 .color-amber-a900, .color-amber-a900-hover:hover {
   color: rgba(255, 193, 7, 0.9) !important;
 }
+.color-amber-a950, .color-amber-a950-hover:hover {
+  color: rgba(255, 193, 7, 0.95) !important;
+}
+.color-yellow-a50, .color-yellow-a50-hover:hover {
+  color: rgba(255, 235, 59, 0.05) !important;
+}
 .color-yellow-a100, .color-yellow-a100-hover:hover {
   color: rgba(255, 235, 59, 0.1) !important;
+}
+.color-yellow-a150, .color-yellow-a150-hover:hover {
+  color: rgba(255, 235, 59, 0.15) !important;
 }
 .color-yellow-a200, .color-yellow-a200-hover:hover {
   color: rgba(255, 235, 59, 0.2) !important;
 }
+.color-yellow-a250, .color-yellow-a250-hover:hover {
+  color: rgba(255, 235, 59, 0.25) !important;
+}
 .color-yellow-a300, .color-yellow-a300-hover:hover {
   color: rgba(255, 235, 59, 0.3) !important;
+}
+.color-yellow-a350, .color-yellow-a350-hover:hover {
+  color: rgba(255, 235, 59, 0.35) !important;
 }
 .color-yellow-a400, .color-yellow-a400-hover:hover {
   color: rgba(255, 235, 59, 0.4) !important;
 }
+.color-yellow-a450, .color-yellow-a450-hover:hover {
+  color: rgba(255, 235, 59, 0.45) !important;
+}
 .color-yellow-a500, .color-yellow-a500-hover:hover {
   color: rgba(255, 235, 59, 0.5) !important;
+}
+.color-yellow-a550, .color-yellow-a550-hover:hover {
+  color: rgba(255, 235, 59, 0.55) !important;
 }
 .color-yellow-a600, .color-yellow-a600-hover:hover {
   color: rgba(255, 235, 59, 0.6) !important;
 }
+.color-yellow-a650, .color-yellow-a650-hover:hover {
+  color: rgba(255, 235, 59, 0.65) !important;
+}
 .color-yellow-a700, .color-yellow-a700-hover:hover {
   color: rgba(255, 235, 59, 0.7) !important;
+}
+.color-yellow-a750, .color-yellow-a750-hover:hover {
+  color: rgba(255, 235, 59, 0.75) !important;
 }
 .color-yellow-a800, .color-yellow-a800-hover:hover {
   color: rgba(255, 235, 59, 0.8) !important;
 }
+.color-yellow-a850, .color-yellow-a850-hover:hover {
+  color: rgba(255, 235, 59, 0.85) !important;
+}
 .color-yellow-a900, .color-yellow-a900-hover:hover {
   color: rgba(255, 235, 59, 0.9) !important;
+}
+.color-yellow-a950, .color-yellow-a950-hover:hover {
+  color: rgba(255, 235, 59, 0.95) !important;
+}
+.color-lime-a50, .color-lime-a50-hover:hover {
+  color: rgba(205, 220, 57, 0.05) !important;
 }
 .color-lime-a100, .color-lime-a100-hover:hover {
   color: rgba(205, 220, 57, 0.1) !important;
 }
+.color-lime-a150, .color-lime-a150-hover:hover {
+  color: rgba(205, 220, 57, 0.15) !important;
+}
 .color-lime-a200, .color-lime-a200-hover:hover {
   color: rgba(205, 220, 57, 0.2) !important;
+}
+.color-lime-a250, .color-lime-a250-hover:hover {
+  color: rgba(205, 220, 57, 0.25) !important;
 }
 .color-lime-a300, .color-lime-a300-hover:hover {
   color: rgba(205, 220, 57, 0.3) !important;
 }
+.color-lime-a350, .color-lime-a350-hover:hover {
+  color: rgba(205, 220, 57, 0.35) !important;
+}
 .color-lime-a400, .color-lime-a400-hover:hover {
   color: rgba(205, 220, 57, 0.4) !important;
+}
+.color-lime-a450, .color-lime-a450-hover:hover {
+  color: rgba(205, 220, 57, 0.45) !important;
 }
 .color-lime-a500, .color-lime-a500-hover:hover {
   color: rgba(205, 220, 57, 0.5) !important;
 }
+.color-lime-a550, .color-lime-a550-hover:hover {
+  color: rgba(205, 220, 57, 0.55) !important;
+}
 .color-lime-a600, .color-lime-a600-hover:hover {
   color: rgba(205, 220, 57, 0.6) !important;
+}
+.color-lime-a650, .color-lime-a650-hover:hover {
+  color: rgba(205, 220, 57, 0.65) !important;
 }
 .color-lime-a700, .color-lime-a700-hover:hover {
   color: rgba(205, 220, 57, 0.7) !important;
 }
+.color-lime-a750, .color-lime-a750-hover:hover {
+  color: rgba(205, 220, 57, 0.75) !important;
+}
 .color-lime-a800, .color-lime-a800-hover:hover {
   color: rgba(205, 220, 57, 0.8) !important;
+}
+.color-lime-a850, .color-lime-a850-hover:hover {
+  color: rgba(205, 220, 57, 0.85) !important;
 }
 .color-lime-a900, .color-lime-a900-hover:hover {
   color: rgba(205, 220, 57, 0.9) !important;
 }
+.color-lime-a950, .color-lime-a950-hover:hover {
+  color: rgba(205, 220, 57, 0.95) !important;
+}
+.color-light-green-a50, .color-light-green-a50-hover:hover {
+  color: rgba(139, 195, 74, 0.05) !important;
+}
 .color-light-green-a100, .color-light-green-a100-hover:hover {
   color: rgba(139, 195, 74, 0.1) !important;
+}
+.color-light-green-a150, .color-light-green-a150-hover:hover {
+  color: rgba(139, 195, 74, 0.15) !important;
 }
 .color-light-green-a200, .color-light-green-a200-hover:hover {
   color: rgba(139, 195, 74, 0.2) !important;
 }
+.color-light-green-a250, .color-light-green-a250-hover:hover {
+  color: rgba(139, 195, 74, 0.25) !important;
+}
 .color-light-green-a300, .color-light-green-a300-hover:hover {
   color: rgba(139, 195, 74, 0.3) !important;
+}
+.color-light-green-a350, .color-light-green-a350-hover:hover {
+  color: rgba(139, 195, 74, 0.35) !important;
 }
 .color-light-green-a400, .color-light-green-a400-hover:hover {
   color: rgba(139, 195, 74, 0.4) !important;
 }
+.color-light-green-a450, .color-light-green-a450-hover:hover {
+  color: rgba(139, 195, 74, 0.45) !important;
+}
 .color-light-green-a500, .color-light-green-a500-hover:hover {
   color: rgba(139, 195, 74, 0.5) !important;
+}
+.color-light-green-a550, .color-light-green-a550-hover:hover {
+  color: rgba(139, 195, 74, 0.55) !important;
 }
 .color-light-green-a600, .color-light-green-a600-hover:hover {
   color: rgba(139, 195, 74, 0.6) !important;
 }
+.color-light-green-a650, .color-light-green-a650-hover:hover {
+  color: rgba(139, 195, 74, 0.65) !important;
+}
 .color-light-green-a700, .color-light-green-a700-hover:hover {
   color: rgba(139, 195, 74, 0.7) !important;
+}
+.color-light-green-a750, .color-light-green-a750-hover:hover {
+  color: rgba(139, 195, 74, 0.75) !important;
 }
 .color-light-green-a800, .color-light-green-a800-hover:hover {
   color: rgba(139, 195, 74, 0.8) !important;
 }
+.color-light-green-a850, .color-light-green-a850-hover:hover {
+  color: rgba(139, 195, 74, 0.85) !important;
+}
 .color-light-green-a900, .color-light-green-a900-hover:hover {
   color: rgba(139, 195, 74, 0.9) !important;
+}
+.color-light-green-a950, .color-light-green-a950-hover:hover {
+  color: rgba(139, 195, 74, 0.95) !important;
+}
+.color-green-a50, .color-green-a50-hover:hover {
+  color: rgba(76, 175, 80, 0.05) !important;
 }
 .color-green-a100, .color-green-a100-hover:hover {
   color: rgba(76, 175, 80, 0.1) !important;
 }
+.color-green-a150, .color-green-a150-hover:hover {
+  color: rgba(76, 175, 80, 0.15) !important;
+}
 .color-green-a200, .color-green-a200-hover:hover {
   color: rgba(76, 175, 80, 0.2) !important;
+}
+.color-green-a250, .color-green-a250-hover:hover {
+  color: rgba(76, 175, 80, 0.25) !important;
 }
 .color-green-a300, .color-green-a300-hover:hover {
   color: rgba(76, 175, 80, 0.3) !important;
 }
+.color-green-a350, .color-green-a350-hover:hover {
+  color: rgba(76, 175, 80, 0.35) !important;
+}
 .color-green-a400, .color-green-a400-hover:hover {
   color: rgba(76, 175, 80, 0.4) !important;
+}
+.color-green-a450, .color-green-a450-hover:hover {
+  color: rgba(76, 175, 80, 0.45) !important;
 }
 .color-green-a500, .color-green-a500-hover:hover {
   color: rgba(76, 175, 80, 0.5) !important;
 }
+.color-green-a550, .color-green-a550-hover:hover {
+  color: rgba(76, 175, 80, 0.55) !important;
+}
 .color-green-a600, .color-green-a600-hover:hover {
   color: rgba(76, 175, 80, 0.6) !important;
+}
+.color-green-a650, .color-green-a650-hover:hover {
+  color: rgba(76, 175, 80, 0.65) !important;
 }
 .color-green-a700, .color-green-a700-hover:hover {
   color: rgba(76, 175, 80, 0.7) !important;
 }
+.color-green-a750, .color-green-a750-hover:hover {
+  color: rgba(76, 175, 80, 0.75) !important;
+}
 .color-green-a800, .color-green-a800-hover:hover {
   color: rgba(76, 175, 80, 0.8) !important;
+}
+.color-green-a850, .color-green-a850-hover:hover {
+  color: rgba(76, 175, 80, 0.85) !important;
 }
 .color-green-a900, .color-green-a900-hover:hover {
   color: rgba(76, 175, 80, 0.9) !important;
 }
+.color-green-a950, .color-green-a950-hover:hover {
+  color: rgba(76, 175, 80, 0.95) !important;
+}
+.color-teal-a50, .color-teal-a50-hover:hover {
+  color: rgba(0, 150, 136, 0.05) !important;
+}
 .color-teal-a100, .color-teal-a100-hover:hover {
   color: rgba(0, 150, 136, 0.1) !important;
+}
+.color-teal-a150, .color-teal-a150-hover:hover {
+  color: rgba(0, 150, 136, 0.15) !important;
 }
 .color-teal-a200, .color-teal-a200-hover:hover {
   color: rgba(0, 150, 136, 0.2) !important;
 }
+.color-teal-a250, .color-teal-a250-hover:hover {
+  color: rgba(0, 150, 136, 0.25) !important;
+}
 .color-teal-a300, .color-teal-a300-hover:hover {
   color: rgba(0, 150, 136, 0.3) !important;
+}
+.color-teal-a350, .color-teal-a350-hover:hover {
+  color: rgba(0, 150, 136, 0.35) !important;
 }
 .color-teal-a400, .color-teal-a400-hover:hover {
   color: rgba(0, 150, 136, 0.4) !important;
 }
+.color-teal-a450, .color-teal-a450-hover:hover {
+  color: rgba(0, 150, 136, 0.45) !important;
+}
 .color-teal-a500, .color-teal-a500-hover:hover {
   color: rgba(0, 150, 136, 0.5) !important;
+}
+.color-teal-a550, .color-teal-a550-hover:hover {
+  color: rgba(0, 150, 136, 0.55) !important;
 }
 .color-teal-a600, .color-teal-a600-hover:hover {
   color: rgba(0, 150, 136, 0.6) !important;
 }
+.color-teal-a650, .color-teal-a650-hover:hover {
+  color: rgba(0, 150, 136, 0.65) !important;
+}
 .color-teal-a700, .color-teal-a700-hover:hover {
   color: rgba(0, 150, 136, 0.7) !important;
+}
+.color-teal-a750, .color-teal-a750-hover:hover {
+  color: rgba(0, 150, 136, 0.75) !important;
 }
 .color-teal-a800, .color-teal-a800-hover:hover {
   color: rgba(0, 150, 136, 0.8) !important;
 }
+.color-teal-a850, .color-teal-a850-hover:hover {
+  color: rgba(0, 150, 136, 0.85) !important;
+}
 .color-teal-a900, .color-teal-a900-hover:hover {
   color: rgba(0, 150, 136, 0.9) !important;
+}
+.color-teal-a950, .color-teal-a950-hover:hover {
+  color: rgba(0, 150, 136, 0.95) !important;
+}
+.color-cyan-a50, .color-cyan-a50-hover:hover {
+  color: rgba(0, 188, 212, 0.05) !important;
 }
 .color-cyan-a100, .color-cyan-a100-hover:hover {
   color: rgba(0, 188, 212, 0.1) !important;
 }
+.color-cyan-a150, .color-cyan-a150-hover:hover {
+  color: rgba(0, 188, 212, 0.15) !important;
+}
 .color-cyan-a200, .color-cyan-a200-hover:hover {
   color: rgba(0, 188, 212, 0.2) !important;
+}
+.color-cyan-a250, .color-cyan-a250-hover:hover {
+  color: rgba(0, 188, 212, 0.25) !important;
 }
 .color-cyan-a300, .color-cyan-a300-hover:hover {
   color: rgba(0, 188, 212, 0.3) !important;
 }
+.color-cyan-a350, .color-cyan-a350-hover:hover {
+  color: rgba(0, 188, 212, 0.35) !important;
+}
 .color-cyan-a400, .color-cyan-a400-hover:hover {
   color: rgba(0, 188, 212, 0.4) !important;
+}
+.color-cyan-a450, .color-cyan-a450-hover:hover {
+  color: rgba(0, 188, 212, 0.45) !important;
 }
 .color-cyan-a500, .color-cyan-a500-hover:hover {
   color: rgba(0, 188, 212, 0.5) !important;
 }
+.color-cyan-a550, .color-cyan-a550-hover:hover {
+  color: rgba(0, 188, 212, 0.55) !important;
+}
 .color-cyan-a600, .color-cyan-a600-hover:hover {
   color: rgba(0, 188, 212, 0.6) !important;
+}
+.color-cyan-a650, .color-cyan-a650-hover:hover {
+  color: rgba(0, 188, 212, 0.65) !important;
 }
 .color-cyan-a700, .color-cyan-a700-hover:hover {
   color: rgba(0, 188, 212, 0.7) !important;
 }
+.color-cyan-a750, .color-cyan-a750-hover:hover {
+  color: rgba(0, 188, 212, 0.75) !important;
+}
 .color-cyan-a800, .color-cyan-a800-hover:hover {
   color: rgba(0, 188, 212, 0.8) !important;
+}
+.color-cyan-a850, .color-cyan-a850-hover:hover {
+  color: rgba(0, 188, 212, 0.85) !important;
 }
 .color-cyan-a900, .color-cyan-a900-hover:hover {
   color: rgba(0, 188, 212, 0.9) !important;
 }
+.color-cyan-a950, .color-cyan-a950-hover:hover {
+  color: rgba(0, 188, 212, 0.95) !important;
+}
+.color-brown-a50, .color-brown-a50-hover:hover {
+  color: rgba(121, 85, 72, 0.05) !important;
+}
 .color-brown-a100, .color-brown-a100-hover:hover {
   color: rgba(121, 85, 72, 0.1) !important;
+}
+.color-brown-a150, .color-brown-a150-hover:hover {
+  color: rgba(121, 85, 72, 0.15) !important;
 }
 .color-brown-a200, .color-brown-a200-hover:hover {
   color: rgba(121, 85, 72, 0.2) !important;
 }
+.color-brown-a250, .color-brown-a250-hover:hover {
+  color: rgba(121, 85, 72, 0.25) !important;
+}
 .color-brown-a300, .color-brown-a300-hover:hover {
   color: rgba(121, 85, 72, 0.3) !important;
+}
+.color-brown-a350, .color-brown-a350-hover:hover {
+  color: rgba(121, 85, 72, 0.35) !important;
 }
 .color-brown-a400, .color-brown-a400-hover:hover {
   color: rgba(121, 85, 72, 0.4) !important;
 }
+.color-brown-a450, .color-brown-a450-hover:hover {
+  color: rgba(121, 85, 72, 0.45) !important;
+}
 .color-brown-a500, .color-brown-a500-hover:hover {
   color: rgba(121, 85, 72, 0.5) !important;
+}
+.color-brown-a550, .color-brown-a550-hover:hover {
+  color: rgba(121, 85, 72, 0.55) !important;
 }
 .color-brown-a600, .color-brown-a600-hover:hover {
   color: rgba(121, 85, 72, 0.6) !important;
 }
+.color-brown-a650, .color-brown-a650-hover:hover {
+  color: rgba(121, 85, 72, 0.65) !important;
+}
 .color-brown-a700, .color-brown-a700-hover:hover {
   color: rgba(121, 85, 72, 0.7) !important;
+}
+.color-brown-a750, .color-brown-a750-hover:hover {
+  color: rgba(121, 85, 72, 0.75) !important;
 }
 .color-brown-a800, .color-brown-a800-hover:hover {
   color: rgba(121, 85, 72, 0.8) !important;
 }
+.color-brown-a850, .color-brown-a850-hover:hover {
+  color: rgba(121, 85, 72, 0.85) !important;
+}
 .color-brown-a900, .color-brown-a900-hover:hover {
   color: rgba(121, 85, 72, 0.9) !important;
+}
+.color-brown-a950, .color-brown-a950-hover:hover {
+  color: rgba(121, 85, 72, 0.95) !important;
+}
+.color-blue-gray-a50, .color-blue-gray-a50-hover:hover {
+  color: rgba(96, 125, 139, 0.05) !important;
 }
 .color-blue-gray-a100, .color-blue-gray-a100-hover:hover {
   color: rgba(96, 125, 139, 0.1) !important;
 }
+.color-blue-gray-a150, .color-blue-gray-a150-hover:hover {
+  color: rgba(96, 125, 139, 0.15) !important;
+}
 .color-blue-gray-a200, .color-blue-gray-a200-hover:hover {
   color: rgba(96, 125, 139, 0.2) !important;
+}
+.color-blue-gray-a250, .color-blue-gray-a250-hover:hover {
+  color: rgba(96, 125, 139, 0.25) !important;
 }
 .color-blue-gray-a300, .color-blue-gray-a300-hover:hover {
   color: rgba(96, 125, 139, 0.3) !important;
 }
+.color-blue-gray-a350, .color-blue-gray-a350-hover:hover {
+  color: rgba(96, 125, 139, 0.35) !important;
+}
 .color-blue-gray-a400, .color-blue-gray-a400-hover:hover {
   color: rgba(96, 125, 139, 0.4) !important;
+}
+.color-blue-gray-a450, .color-blue-gray-a450-hover:hover {
+  color: rgba(96, 125, 139, 0.45) !important;
 }
 .color-blue-gray-a500, .color-blue-gray-a500-hover:hover {
   color: rgba(96, 125, 139, 0.5) !important;
 }
+.color-blue-gray-a550, .color-blue-gray-a550-hover:hover {
+  color: rgba(96, 125, 139, 0.55) !important;
+}
 .color-blue-gray-a600, .color-blue-gray-a600-hover:hover {
   color: rgba(96, 125, 139, 0.6) !important;
+}
+.color-blue-gray-a650, .color-blue-gray-a650-hover:hover {
+  color: rgba(96, 125, 139, 0.65) !important;
 }
 .color-blue-gray-a700, .color-blue-gray-a700-hover:hover {
   color: rgba(96, 125, 139, 0.7) !important;
 }
+.color-blue-gray-a750, .color-blue-gray-a750-hover:hover {
+  color: rgba(96, 125, 139, 0.75) !important;
+}
 .color-blue-gray-a800, .color-blue-gray-a800-hover:hover {
   color: rgba(96, 125, 139, 0.8) !important;
+}
+.color-blue-gray-a850, .color-blue-gray-a850-hover:hover {
+  color: rgba(96, 125, 139, 0.85) !important;
 }
 .color-blue-gray-a900, .color-blue-gray-a900-hover:hover {
   color: rgba(96, 125, 139, 0.9) !important;
 }
+.color-blue-gray-a950, .color-blue-gray-a950-hover:hover {
+  color: rgba(96, 125, 139, 0.95) !important;
+}
+.color-gray-a50, .color-gray-a50-hover:hover {
+  color: rgba(158, 158, 158, 0.05) !important;
+}
 .color-gray-a100, .color-gray-a100-hover:hover {
   color: rgba(158, 158, 158, 0.1) !important;
+}
+.color-gray-a150, .color-gray-a150-hover:hover {
+  color: rgba(158, 158, 158, 0.15) !important;
 }
 .color-gray-a200, .color-gray-a200-hover:hover {
   color: rgba(158, 158, 158, 0.2) !important;
 }
+.color-gray-a250, .color-gray-a250-hover:hover {
+  color: rgba(158, 158, 158, 0.25) !important;
+}
 .color-gray-a300, .color-gray-a300-hover:hover {
   color: rgba(158, 158, 158, 0.3) !important;
+}
+.color-gray-a350, .color-gray-a350-hover:hover {
+  color: rgba(158, 158, 158, 0.35) !important;
 }
 .color-gray-a400, .color-gray-a400-hover:hover {
   color: rgba(158, 158, 158, 0.4) !important;
 }
+.color-gray-a450, .color-gray-a450-hover:hover {
+  color: rgba(158, 158, 158, 0.45) !important;
+}
 .color-gray-a500, .color-gray-a500-hover:hover {
   color: rgba(158, 158, 158, 0.5) !important;
+}
+.color-gray-a550, .color-gray-a550-hover:hover {
+  color: rgba(158, 158, 158, 0.55) !important;
 }
 .color-gray-a600, .color-gray-a600-hover:hover {
   color: rgba(158, 158, 158, 0.6) !important;
 }
+.color-gray-a650, .color-gray-a650-hover:hover {
+  color: rgba(158, 158, 158, 0.65) !important;
+}
 .color-gray-a700, .color-gray-a700-hover:hover {
   color: rgba(158, 158, 158, 0.7) !important;
+}
+.color-gray-a750, .color-gray-a750-hover:hover {
+  color: rgba(158, 158, 158, 0.75) !important;
 }
 .color-gray-a800, .color-gray-a800-hover:hover {
   color: rgba(158, 158, 158, 0.8) !important;
 }
+.color-gray-a850, .color-gray-a850-hover:hover {
+  color: rgba(158, 158, 158, 0.85) !important;
+}
 .color-gray-a900, .color-gray-a900-hover:hover {
   color: rgba(158, 158, 158, 0.9) !important;
+}
+.color-gray-a950, .color-gray-a950-hover:hover {
+  color: rgba(158, 158, 158, 0.95) !important;
 }
 
 /*
@@ -2817,518 +3387,1088 @@
 }
 
 /* Color Alphas */
+.bg-light-blue-a50, .bg-light-blue-a50-hover:hover {
+  background-color: rgba(3, 169, 244, 0.05) !important;
+}
 .bg-light-blue-a100, .bg-light-blue-a100-hover:hover {
   background-color: rgba(3, 169, 244, 0.1) !important;
+}
+.bg-light-blue-a150, .bg-light-blue-a150-hover:hover {
+  background-color: rgba(3, 169, 244, 0.15) !important;
 }
 .bg-light-blue-a200, .bg-light-blue-a200-hover:hover {
   background-color: rgba(3, 169, 244, 0.2) !important;
 }
+.bg-light-blue-a250, .bg-light-blue-a250-hover:hover {
+  background-color: rgba(3, 169, 244, 0.25) !important;
+}
 .bg-light-blue-a300, .bg-light-blue-a300-hover:hover {
   background-color: rgba(3, 169, 244, 0.3) !important;
+}
+.bg-light-blue-a350, .bg-light-blue-a350-hover:hover {
+  background-color: rgba(3, 169, 244, 0.35) !important;
 }
 .bg-light-blue-a400, .bg-light-blue-a400-hover:hover {
   background-color: rgba(3, 169, 244, 0.4) !important;
 }
+.bg-light-blue-a450, .bg-light-blue-a450-hover:hover {
+  background-color: rgba(3, 169, 244, 0.45) !important;
+}
 .bg-light-blue-a500, .bg-light-blue-a500-hover:hover {
   background-color: rgba(3, 169, 244, 0.5) !important;
+}
+.bg-light-blue-a550, .bg-light-blue-a550-hover:hover {
+  background-color: rgba(3, 169, 244, 0.55) !important;
 }
 .bg-light-blue-a600, .bg-light-blue-a600-hover:hover {
   background-color: rgba(3, 169, 244, 0.6) !important;
 }
+.bg-light-blue-a650, .bg-light-blue-a650-hover:hover {
+  background-color: rgba(3, 169, 244, 0.65) !important;
+}
 .bg-light-blue-a700, .bg-light-blue-a700-hover:hover {
   background-color: rgba(3, 169, 244, 0.7) !important;
+}
+.bg-light-blue-a750, .bg-light-blue-a750-hover:hover {
+  background-color: rgba(3, 169, 244, 0.75) !important;
 }
 .bg-light-blue-a800, .bg-light-blue-a800-hover:hover {
   background-color: rgba(3, 169, 244, 0.8) !important;
 }
+.bg-light-blue-a850, .bg-light-blue-a850-hover:hover {
+  background-color: rgba(3, 169, 244, 0.85) !important;
+}
 .bg-light-blue-a900, .bg-light-blue-a900-hover:hover {
   background-color: rgba(3, 169, 244, 0.9) !important;
+}
+.bg-light-blue-a950, .bg-light-blue-a950-hover:hover {
+  background-color: rgba(3, 169, 244, 0.95) !important;
+}
+.bg-blue-a50, .bg-blue-a50-hover:hover {
+  background-color: rgba(33, 150, 243, 0.05) !important;
 }
 .bg-blue-a100, .bg-blue-a100-hover:hover {
   background-color: rgba(33, 150, 243, 0.1) !important;
 }
+.bg-blue-a150, .bg-blue-a150-hover:hover {
+  background-color: rgba(33, 150, 243, 0.15) !important;
+}
 .bg-blue-a200, .bg-blue-a200-hover:hover {
   background-color: rgba(33, 150, 243, 0.2) !important;
+}
+.bg-blue-a250, .bg-blue-a250-hover:hover {
+  background-color: rgba(33, 150, 243, 0.25) !important;
 }
 .bg-blue-a300, .bg-blue-a300-hover:hover {
   background-color: rgba(33, 150, 243, 0.3) !important;
 }
+.bg-blue-a350, .bg-blue-a350-hover:hover {
+  background-color: rgba(33, 150, 243, 0.35) !important;
+}
 .bg-blue-a400, .bg-blue-a400-hover:hover {
   background-color: rgba(33, 150, 243, 0.4) !important;
+}
+.bg-blue-a450, .bg-blue-a450-hover:hover {
+  background-color: rgba(33, 150, 243, 0.45) !important;
 }
 .bg-blue-a500, .bg-blue-a500-hover:hover {
   background-color: rgba(33, 150, 243, 0.5) !important;
 }
+.bg-blue-a550, .bg-blue-a550-hover:hover {
+  background-color: rgba(33, 150, 243, 0.55) !important;
+}
 .bg-blue-a600, .bg-blue-a600-hover:hover {
   background-color: rgba(33, 150, 243, 0.6) !important;
+}
+.bg-blue-a650, .bg-blue-a650-hover:hover {
+  background-color: rgba(33, 150, 243, 0.65) !important;
 }
 .bg-blue-a700, .bg-blue-a700-hover:hover {
   background-color: rgba(33, 150, 243, 0.7) !important;
 }
+.bg-blue-a750, .bg-blue-a750-hover:hover {
+  background-color: rgba(33, 150, 243, 0.75) !important;
+}
 .bg-blue-a800, .bg-blue-a800-hover:hover {
   background-color: rgba(33, 150, 243, 0.8) !important;
+}
+.bg-blue-a850, .bg-blue-a850-hover:hover {
+  background-color: rgba(33, 150, 243, 0.85) !important;
 }
 .bg-blue-a900, .bg-blue-a900-hover:hover {
   background-color: rgba(33, 150, 243, 0.9) !important;
 }
+.bg-blue-a950, .bg-blue-a950-hover:hover {
+  background-color: rgba(33, 150, 243, 0.95) !important;
+}
+.bg-indigo-a50, .bg-indigo-a50-hover:hover {
+  background-color: rgba(63, 81, 181, 0.05) !important;
+}
 .bg-indigo-a100, .bg-indigo-a100-hover:hover {
   background-color: rgba(63, 81, 181, 0.1) !important;
+}
+.bg-indigo-a150, .bg-indigo-a150-hover:hover {
+  background-color: rgba(63, 81, 181, 0.15) !important;
 }
 .bg-indigo-a200, .bg-indigo-a200-hover:hover {
   background-color: rgba(63, 81, 181, 0.2) !important;
 }
+.bg-indigo-a250, .bg-indigo-a250-hover:hover {
+  background-color: rgba(63, 81, 181, 0.25) !important;
+}
 .bg-indigo-a300, .bg-indigo-a300-hover:hover {
   background-color: rgba(63, 81, 181, 0.3) !important;
+}
+.bg-indigo-a350, .bg-indigo-a350-hover:hover {
+  background-color: rgba(63, 81, 181, 0.35) !important;
 }
 .bg-indigo-a400, .bg-indigo-a400-hover:hover {
   background-color: rgba(63, 81, 181, 0.4) !important;
 }
+.bg-indigo-a450, .bg-indigo-a450-hover:hover {
+  background-color: rgba(63, 81, 181, 0.45) !important;
+}
 .bg-indigo-a500, .bg-indigo-a500-hover:hover {
   background-color: rgba(63, 81, 181, 0.5) !important;
+}
+.bg-indigo-a550, .bg-indigo-a550-hover:hover {
+  background-color: rgba(63, 81, 181, 0.55) !important;
 }
 .bg-indigo-a600, .bg-indigo-a600-hover:hover {
   background-color: rgba(63, 81, 181, 0.6) !important;
 }
+.bg-indigo-a650, .bg-indigo-a650-hover:hover {
+  background-color: rgba(63, 81, 181, 0.65) !important;
+}
 .bg-indigo-a700, .bg-indigo-a700-hover:hover {
   background-color: rgba(63, 81, 181, 0.7) !important;
+}
+.bg-indigo-a750, .bg-indigo-a750-hover:hover {
+  background-color: rgba(63, 81, 181, 0.75) !important;
 }
 .bg-indigo-a800, .bg-indigo-a800-hover:hover {
   background-color: rgba(63, 81, 181, 0.8) !important;
 }
+.bg-indigo-a850, .bg-indigo-a850-hover:hover {
+  background-color: rgba(63, 81, 181, 0.85) !important;
+}
 .bg-indigo-a900, .bg-indigo-a900-hover:hover {
   background-color: rgba(63, 81, 181, 0.9) !important;
+}
+.bg-indigo-a950, .bg-indigo-a950-hover:hover {
+  background-color: rgba(63, 81, 181, 0.95) !important;
+}
+.bg-purple-a50, .bg-purple-a50-hover:hover {
+  background-color: rgba(156, 39, 176, 0.05) !important;
 }
 .bg-purple-a100, .bg-purple-a100-hover:hover {
   background-color: rgba(156, 39, 176, 0.1) !important;
 }
+.bg-purple-a150, .bg-purple-a150-hover:hover {
+  background-color: rgba(156, 39, 176, 0.15) !important;
+}
 .bg-purple-a200, .bg-purple-a200-hover:hover {
   background-color: rgba(156, 39, 176, 0.2) !important;
+}
+.bg-purple-a250, .bg-purple-a250-hover:hover {
+  background-color: rgba(156, 39, 176, 0.25) !important;
 }
 .bg-purple-a300, .bg-purple-a300-hover:hover {
   background-color: rgba(156, 39, 176, 0.3) !important;
 }
+.bg-purple-a350, .bg-purple-a350-hover:hover {
+  background-color: rgba(156, 39, 176, 0.35) !important;
+}
 .bg-purple-a400, .bg-purple-a400-hover:hover {
   background-color: rgba(156, 39, 176, 0.4) !important;
+}
+.bg-purple-a450, .bg-purple-a450-hover:hover {
+  background-color: rgba(156, 39, 176, 0.45) !important;
 }
 .bg-purple-a500, .bg-purple-a500-hover:hover {
   background-color: rgba(156, 39, 176, 0.5) !important;
 }
+.bg-purple-a550, .bg-purple-a550-hover:hover {
+  background-color: rgba(156, 39, 176, 0.55) !important;
+}
 .bg-purple-a600, .bg-purple-a600-hover:hover {
   background-color: rgba(156, 39, 176, 0.6) !important;
+}
+.bg-purple-a650, .bg-purple-a650-hover:hover {
+  background-color: rgba(156, 39, 176, 0.65) !important;
 }
 .bg-purple-a700, .bg-purple-a700-hover:hover {
   background-color: rgba(156, 39, 176, 0.7) !important;
 }
+.bg-purple-a750, .bg-purple-a750-hover:hover {
+  background-color: rgba(156, 39, 176, 0.75) !important;
+}
 .bg-purple-a800, .bg-purple-a800-hover:hover {
   background-color: rgba(156, 39, 176, 0.8) !important;
+}
+.bg-purple-a850, .bg-purple-a850-hover:hover {
+  background-color: rgba(156, 39, 176, 0.85) !important;
 }
 .bg-purple-a900, .bg-purple-a900-hover:hover {
   background-color: rgba(156, 39, 176, 0.9) !important;
 }
+.bg-purple-a950, .bg-purple-a950-hover:hover {
+  background-color: rgba(156, 39, 176, 0.95) !important;
+}
+.bg-deep-purple-a50, .bg-deep-purple-a50-hover:hover {
+  background-color: rgba(103, 58, 183, 0.05) !important;
+}
 .bg-deep-purple-a100, .bg-deep-purple-a100-hover:hover {
   background-color: rgba(103, 58, 183, 0.1) !important;
+}
+.bg-deep-purple-a150, .bg-deep-purple-a150-hover:hover {
+  background-color: rgba(103, 58, 183, 0.15) !important;
 }
 .bg-deep-purple-a200, .bg-deep-purple-a200-hover:hover {
   background-color: rgba(103, 58, 183, 0.2) !important;
 }
+.bg-deep-purple-a250, .bg-deep-purple-a250-hover:hover {
+  background-color: rgba(103, 58, 183, 0.25) !important;
+}
 .bg-deep-purple-a300, .bg-deep-purple-a300-hover:hover {
   background-color: rgba(103, 58, 183, 0.3) !important;
+}
+.bg-deep-purple-a350, .bg-deep-purple-a350-hover:hover {
+  background-color: rgba(103, 58, 183, 0.35) !important;
 }
 .bg-deep-purple-a400, .bg-deep-purple-a400-hover:hover {
   background-color: rgba(103, 58, 183, 0.4) !important;
 }
+.bg-deep-purple-a450, .bg-deep-purple-a450-hover:hover {
+  background-color: rgba(103, 58, 183, 0.45) !important;
+}
 .bg-deep-purple-a500, .bg-deep-purple-a500-hover:hover {
   background-color: rgba(103, 58, 183, 0.5) !important;
+}
+.bg-deep-purple-a550, .bg-deep-purple-a550-hover:hover {
+  background-color: rgba(103, 58, 183, 0.55) !important;
 }
 .bg-deep-purple-a600, .bg-deep-purple-a600-hover:hover {
   background-color: rgba(103, 58, 183, 0.6) !important;
 }
+.bg-deep-purple-a650, .bg-deep-purple-a650-hover:hover {
+  background-color: rgba(103, 58, 183, 0.65) !important;
+}
 .bg-deep-purple-a700, .bg-deep-purple-a700-hover:hover {
   background-color: rgba(103, 58, 183, 0.7) !important;
+}
+.bg-deep-purple-a750, .bg-deep-purple-a750-hover:hover {
+  background-color: rgba(103, 58, 183, 0.75) !important;
 }
 .bg-deep-purple-a800, .bg-deep-purple-a800-hover:hover {
   background-color: rgba(103, 58, 183, 0.8) !important;
 }
+.bg-deep-purple-a850, .bg-deep-purple-a850-hover:hover {
+  background-color: rgba(103, 58, 183, 0.85) !important;
+}
 .bg-deep-purple-a900, .bg-deep-purple-a900-hover:hover {
   background-color: rgba(103, 58, 183, 0.9) !important;
+}
+.bg-deep-purple-a950, .bg-deep-purple-a950-hover:hover {
+  background-color: rgba(103, 58, 183, 0.95) !important;
+}
+.bg-pink-a50, .bg-pink-a50-hover:hover {
+  background-color: rgba(233, 30, 99, 0.05) !important;
 }
 .bg-pink-a100, .bg-pink-a100-hover:hover {
   background-color: rgba(233, 30, 99, 0.1) !important;
 }
+.bg-pink-a150, .bg-pink-a150-hover:hover {
+  background-color: rgba(233, 30, 99, 0.15) !important;
+}
 .bg-pink-a200, .bg-pink-a200-hover:hover {
   background-color: rgba(233, 30, 99, 0.2) !important;
+}
+.bg-pink-a250, .bg-pink-a250-hover:hover {
+  background-color: rgba(233, 30, 99, 0.25) !important;
 }
 .bg-pink-a300, .bg-pink-a300-hover:hover {
   background-color: rgba(233, 30, 99, 0.3) !important;
 }
+.bg-pink-a350, .bg-pink-a350-hover:hover {
+  background-color: rgba(233, 30, 99, 0.35) !important;
+}
 .bg-pink-a400, .bg-pink-a400-hover:hover {
   background-color: rgba(233, 30, 99, 0.4) !important;
+}
+.bg-pink-a450, .bg-pink-a450-hover:hover {
+  background-color: rgba(233, 30, 99, 0.45) !important;
 }
 .bg-pink-a500, .bg-pink-a500-hover:hover {
   background-color: rgba(233, 30, 99, 0.5) !important;
 }
+.bg-pink-a550, .bg-pink-a550-hover:hover {
+  background-color: rgba(233, 30, 99, 0.55) !important;
+}
 .bg-pink-a600, .bg-pink-a600-hover:hover {
   background-color: rgba(233, 30, 99, 0.6) !important;
+}
+.bg-pink-a650, .bg-pink-a650-hover:hover {
+  background-color: rgba(233, 30, 99, 0.65) !important;
 }
 .bg-pink-a700, .bg-pink-a700-hover:hover {
   background-color: rgba(233, 30, 99, 0.7) !important;
 }
+.bg-pink-a750, .bg-pink-a750-hover:hover {
+  background-color: rgba(233, 30, 99, 0.75) !important;
+}
 .bg-pink-a800, .bg-pink-a800-hover:hover {
   background-color: rgba(233, 30, 99, 0.8) !important;
+}
+.bg-pink-a850, .bg-pink-a850-hover:hover {
+  background-color: rgba(233, 30, 99, 0.85) !important;
 }
 .bg-pink-a900, .bg-pink-a900-hover:hover {
   background-color: rgba(233, 30, 99, 0.9) !important;
 }
+.bg-pink-a950, .bg-pink-a950-hover:hover {
+  background-color: rgba(233, 30, 99, 0.95) !important;
+}
+.bg-red-a50, .bg-red-a50-hover:hover {
+  background-color: rgba(244, 67, 54, 0.05) !important;
+}
 .bg-red-a100, .bg-red-a100-hover:hover {
   background-color: rgba(244, 67, 54, 0.1) !important;
+}
+.bg-red-a150, .bg-red-a150-hover:hover {
+  background-color: rgba(244, 67, 54, 0.15) !important;
 }
 .bg-red-a200, .bg-red-a200-hover:hover {
   background-color: rgba(244, 67, 54, 0.2) !important;
 }
+.bg-red-a250, .bg-red-a250-hover:hover {
+  background-color: rgba(244, 67, 54, 0.25) !important;
+}
 .bg-red-a300, .bg-red-a300-hover:hover {
   background-color: rgba(244, 67, 54, 0.3) !important;
+}
+.bg-red-a350, .bg-red-a350-hover:hover {
+  background-color: rgba(244, 67, 54, 0.35) !important;
 }
 .bg-red-a400, .bg-red-a400-hover:hover {
   background-color: rgba(244, 67, 54, 0.4) !important;
 }
+.bg-red-a450, .bg-red-a450-hover:hover {
+  background-color: rgba(244, 67, 54, 0.45) !important;
+}
 .bg-red-a500, .bg-red-a500-hover:hover {
   background-color: rgba(244, 67, 54, 0.5) !important;
+}
+.bg-red-a550, .bg-red-a550-hover:hover {
+  background-color: rgba(244, 67, 54, 0.55) !important;
 }
 .bg-red-a600, .bg-red-a600-hover:hover {
   background-color: rgba(244, 67, 54, 0.6) !important;
 }
+.bg-red-a650, .bg-red-a650-hover:hover {
+  background-color: rgba(244, 67, 54, 0.65) !important;
+}
 .bg-red-a700, .bg-red-a700-hover:hover {
   background-color: rgba(244, 67, 54, 0.7) !important;
+}
+.bg-red-a750, .bg-red-a750-hover:hover {
+  background-color: rgba(244, 67, 54, 0.75) !important;
 }
 .bg-red-a800, .bg-red-a800-hover:hover {
   background-color: rgba(244, 67, 54, 0.8) !important;
 }
+.bg-red-a850, .bg-red-a850-hover:hover {
+  background-color: rgba(244, 67, 54, 0.85) !important;
+}
 .bg-red-a900, .bg-red-a900-hover:hover {
   background-color: rgba(244, 67, 54, 0.9) !important;
+}
+.bg-red-a950, .bg-red-a950-hover:hover {
+  background-color: rgba(244, 67, 54, 0.95) !important;
+}
+.bg-deep-orange-a50, .bg-deep-orange-a50-hover:hover {
+  background-color: rgba(255, 87, 34, 0.05) !important;
 }
 .bg-deep-orange-a100, .bg-deep-orange-a100-hover:hover {
   background-color: rgba(255, 87, 34, 0.1) !important;
 }
+.bg-deep-orange-a150, .bg-deep-orange-a150-hover:hover {
+  background-color: rgba(255, 87, 34, 0.15) !important;
+}
 .bg-deep-orange-a200, .bg-deep-orange-a200-hover:hover {
   background-color: rgba(255, 87, 34, 0.2) !important;
+}
+.bg-deep-orange-a250, .bg-deep-orange-a250-hover:hover {
+  background-color: rgba(255, 87, 34, 0.25) !important;
 }
 .bg-deep-orange-a300, .bg-deep-orange-a300-hover:hover {
   background-color: rgba(255, 87, 34, 0.3) !important;
 }
+.bg-deep-orange-a350, .bg-deep-orange-a350-hover:hover {
+  background-color: rgba(255, 87, 34, 0.35) !important;
+}
 .bg-deep-orange-a400, .bg-deep-orange-a400-hover:hover {
   background-color: rgba(255, 87, 34, 0.4) !important;
+}
+.bg-deep-orange-a450, .bg-deep-orange-a450-hover:hover {
+  background-color: rgba(255, 87, 34, 0.45) !important;
 }
 .bg-deep-orange-a500, .bg-deep-orange-a500-hover:hover {
   background-color: rgba(255, 87, 34, 0.5) !important;
 }
+.bg-deep-orange-a550, .bg-deep-orange-a550-hover:hover {
+  background-color: rgba(255, 87, 34, 0.55) !important;
+}
 .bg-deep-orange-a600, .bg-deep-orange-a600-hover:hover {
   background-color: rgba(255, 87, 34, 0.6) !important;
+}
+.bg-deep-orange-a650, .bg-deep-orange-a650-hover:hover {
+  background-color: rgba(255, 87, 34, 0.65) !important;
 }
 .bg-deep-orange-a700, .bg-deep-orange-a700-hover:hover {
   background-color: rgba(255, 87, 34, 0.7) !important;
 }
+.bg-deep-orange-a750, .bg-deep-orange-a750-hover:hover {
+  background-color: rgba(255, 87, 34, 0.75) !important;
+}
 .bg-deep-orange-a800, .bg-deep-orange-a800-hover:hover {
   background-color: rgba(255, 87, 34, 0.8) !important;
+}
+.bg-deep-orange-a850, .bg-deep-orange-a850-hover:hover {
+  background-color: rgba(255, 87, 34, 0.85) !important;
 }
 .bg-deep-orange-a900, .bg-deep-orange-a900-hover:hover {
   background-color: rgba(255, 87, 34, 0.9) !important;
 }
+.bg-deep-orange-a950, .bg-deep-orange-a950-hover:hover {
+  background-color: rgba(255, 87, 34, 0.95) !important;
+}
+.bg-orange-a50, .bg-orange-a50-hover:hover {
+  background-color: rgba(255, 152, 0, 0.05) !important;
+}
 .bg-orange-a100, .bg-orange-a100-hover:hover {
   background-color: rgba(255, 152, 0, 0.1) !important;
+}
+.bg-orange-a150, .bg-orange-a150-hover:hover {
+  background-color: rgba(255, 152, 0, 0.15) !important;
 }
 .bg-orange-a200, .bg-orange-a200-hover:hover {
   background-color: rgba(255, 152, 0, 0.2) !important;
 }
+.bg-orange-a250, .bg-orange-a250-hover:hover {
+  background-color: rgba(255, 152, 0, 0.25) !important;
+}
 .bg-orange-a300, .bg-orange-a300-hover:hover {
   background-color: rgba(255, 152, 0, 0.3) !important;
+}
+.bg-orange-a350, .bg-orange-a350-hover:hover {
+  background-color: rgba(255, 152, 0, 0.35) !important;
 }
 .bg-orange-a400, .bg-orange-a400-hover:hover {
   background-color: rgba(255, 152, 0, 0.4) !important;
 }
+.bg-orange-a450, .bg-orange-a450-hover:hover {
+  background-color: rgba(255, 152, 0, 0.45) !important;
+}
 .bg-orange-a500, .bg-orange-a500-hover:hover {
   background-color: rgba(255, 152, 0, 0.5) !important;
+}
+.bg-orange-a550, .bg-orange-a550-hover:hover {
+  background-color: rgba(255, 152, 0, 0.55) !important;
 }
 .bg-orange-a600, .bg-orange-a600-hover:hover {
   background-color: rgba(255, 152, 0, 0.6) !important;
 }
+.bg-orange-a650, .bg-orange-a650-hover:hover {
+  background-color: rgba(255, 152, 0, 0.65) !important;
+}
 .bg-orange-a700, .bg-orange-a700-hover:hover {
   background-color: rgba(255, 152, 0, 0.7) !important;
+}
+.bg-orange-a750, .bg-orange-a750-hover:hover {
+  background-color: rgba(255, 152, 0, 0.75) !important;
 }
 .bg-orange-a800, .bg-orange-a800-hover:hover {
   background-color: rgba(255, 152, 0, 0.8) !important;
 }
+.bg-orange-a850, .bg-orange-a850-hover:hover {
+  background-color: rgba(255, 152, 0, 0.85) !important;
+}
 .bg-orange-a900, .bg-orange-a900-hover:hover {
   background-color: rgba(255, 152, 0, 0.9) !important;
+}
+.bg-orange-a950, .bg-orange-a950-hover:hover {
+  background-color: rgba(255, 152, 0, 0.95) !important;
+}
+.bg-amber-a50, .bg-amber-a50-hover:hover {
+  background-color: rgba(255, 193, 7, 0.05) !important;
 }
 .bg-amber-a100, .bg-amber-a100-hover:hover {
   background-color: rgba(255, 193, 7, 0.1) !important;
 }
+.bg-amber-a150, .bg-amber-a150-hover:hover {
+  background-color: rgba(255, 193, 7, 0.15) !important;
+}
 .bg-amber-a200, .bg-amber-a200-hover:hover {
   background-color: rgba(255, 193, 7, 0.2) !important;
+}
+.bg-amber-a250, .bg-amber-a250-hover:hover {
+  background-color: rgba(255, 193, 7, 0.25) !important;
 }
 .bg-amber-a300, .bg-amber-a300-hover:hover {
   background-color: rgba(255, 193, 7, 0.3) !important;
 }
+.bg-amber-a350, .bg-amber-a350-hover:hover {
+  background-color: rgba(255, 193, 7, 0.35) !important;
+}
 .bg-amber-a400, .bg-amber-a400-hover:hover {
   background-color: rgba(255, 193, 7, 0.4) !important;
+}
+.bg-amber-a450, .bg-amber-a450-hover:hover {
+  background-color: rgba(255, 193, 7, 0.45) !important;
 }
 .bg-amber-a500, .bg-amber-a500-hover:hover {
   background-color: rgba(255, 193, 7, 0.5) !important;
 }
+.bg-amber-a550, .bg-amber-a550-hover:hover {
+  background-color: rgba(255, 193, 7, 0.55) !important;
+}
 .bg-amber-a600, .bg-amber-a600-hover:hover {
   background-color: rgba(255, 193, 7, 0.6) !important;
+}
+.bg-amber-a650, .bg-amber-a650-hover:hover {
+  background-color: rgba(255, 193, 7, 0.65) !important;
 }
 .bg-amber-a700, .bg-amber-a700-hover:hover {
   background-color: rgba(255, 193, 7, 0.7) !important;
 }
+.bg-amber-a750, .bg-amber-a750-hover:hover {
+  background-color: rgba(255, 193, 7, 0.75) !important;
+}
 .bg-amber-a800, .bg-amber-a800-hover:hover {
   background-color: rgba(255, 193, 7, 0.8) !important;
+}
+.bg-amber-a850, .bg-amber-a850-hover:hover {
+  background-color: rgba(255, 193, 7, 0.85) !important;
 }
 .bg-amber-a900, .bg-amber-a900-hover:hover {
   background-color: rgba(255, 193, 7, 0.9) !important;
 }
+.bg-amber-a950, .bg-amber-a950-hover:hover {
+  background-color: rgba(255, 193, 7, 0.95) !important;
+}
+.bg-yellow-a50, .bg-yellow-a50-hover:hover {
+  background-color: rgba(255, 235, 59, 0.05) !important;
+}
 .bg-yellow-a100, .bg-yellow-a100-hover:hover {
   background-color: rgba(255, 235, 59, 0.1) !important;
+}
+.bg-yellow-a150, .bg-yellow-a150-hover:hover {
+  background-color: rgba(255, 235, 59, 0.15) !important;
 }
 .bg-yellow-a200, .bg-yellow-a200-hover:hover {
   background-color: rgba(255, 235, 59, 0.2) !important;
 }
+.bg-yellow-a250, .bg-yellow-a250-hover:hover {
+  background-color: rgba(255, 235, 59, 0.25) !important;
+}
 .bg-yellow-a300, .bg-yellow-a300-hover:hover {
   background-color: rgba(255, 235, 59, 0.3) !important;
+}
+.bg-yellow-a350, .bg-yellow-a350-hover:hover {
+  background-color: rgba(255, 235, 59, 0.35) !important;
 }
 .bg-yellow-a400, .bg-yellow-a400-hover:hover {
   background-color: rgba(255, 235, 59, 0.4) !important;
 }
+.bg-yellow-a450, .bg-yellow-a450-hover:hover {
+  background-color: rgba(255, 235, 59, 0.45) !important;
+}
 .bg-yellow-a500, .bg-yellow-a500-hover:hover {
   background-color: rgba(255, 235, 59, 0.5) !important;
+}
+.bg-yellow-a550, .bg-yellow-a550-hover:hover {
+  background-color: rgba(255, 235, 59, 0.55) !important;
 }
 .bg-yellow-a600, .bg-yellow-a600-hover:hover {
   background-color: rgba(255, 235, 59, 0.6) !important;
 }
+.bg-yellow-a650, .bg-yellow-a650-hover:hover {
+  background-color: rgba(255, 235, 59, 0.65) !important;
+}
 .bg-yellow-a700, .bg-yellow-a700-hover:hover {
   background-color: rgba(255, 235, 59, 0.7) !important;
+}
+.bg-yellow-a750, .bg-yellow-a750-hover:hover {
+  background-color: rgba(255, 235, 59, 0.75) !important;
 }
 .bg-yellow-a800, .bg-yellow-a800-hover:hover {
   background-color: rgba(255, 235, 59, 0.8) !important;
 }
+.bg-yellow-a850, .bg-yellow-a850-hover:hover {
+  background-color: rgba(255, 235, 59, 0.85) !important;
+}
 .bg-yellow-a900, .bg-yellow-a900-hover:hover {
   background-color: rgba(255, 235, 59, 0.9) !important;
+}
+.bg-yellow-a950, .bg-yellow-a950-hover:hover {
+  background-color: rgba(255, 235, 59, 0.95) !important;
+}
+.bg-lime-a50, .bg-lime-a50-hover:hover {
+  background-color: rgba(205, 220, 57, 0.05) !important;
 }
 .bg-lime-a100, .bg-lime-a100-hover:hover {
   background-color: rgba(205, 220, 57, 0.1) !important;
 }
+.bg-lime-a150, .bg-lime-a150-hover:hover {
+  background-color: rgba(205, 220, 57, 0.15) !important;
+}
 .bg-lime-a200, .bg-lime-a200-hover:hover {
   background-color: rgba(205, 220, 57, 0.2) !important;
+}
+.bg-lime-a250, .bg-lime-a250-hover:hover {
+  background-color: rgba(205, 220, 57, 0.25) !important;
 }
 .bg-lime-a300, .bg-lime-a300-hover:hover {
   background-color: rgba(205, 220, 57, 0.3) !important;
 }
+.bg-lime-a350, .bg-lime-a350-hover:hover {
+  background-color: rgba(205, 220, 57, 0.35) !important;
+}
 .bg-lime-a400, .bg-lime-a400-hover:hover {
   background-color: rgba(205, 220, 57, 0.4) !important;
+}
+.bg-lime-a450, .bg-lime-a450-hover:hover {
+  background-color: rgba(205, 220, 57, 0.45) !important;
 }
 .bg-lime-a500, .bg-lime-a500-hover:hover {
   background-color: rgba(205, 220, 57, 0.5) !important;
 }
+.bg-lime-a550, .bg-lime-a550-hover:hover {
+  background-color: rgba(205, 220, 57, 0.55) !important;
+}
 .bg-lime-a600, .bg-lime-a600-hover:hover {
   background-color: rgba(205, 220, 57, 0.6) !important;
+}
+.bg-lime-a650, .bg-lime-a650-hover:hover {
+  background-color: rgba(205, 220, 57, 0.65) !important;
 }
 .bg-lime-a700, .bg-lime-a700-hover:hover {
   background-color: rgba(205, 220, 57, 0.7) !important;
 }
+.bg-lime-a750, .bg-lime-a750-hover:hover {
+  background-color: rgba(205, 220, 57, 0.75) !important;
+}
 .bg-lime-a800, .bg-lime-a800-hover:hover {
   background-color: rgba(205, 220, 57, 0.8) !important;
+}
+.bg-lime-a850, .bg-lime-a850-hover:hover {
+  background-color: rgba(205, 220, 57, 0.85) !important;
 }
 .bg-lime-a900, .bg-lime-a900-hover:hover {
   background-color: rgba(205, 220, 57, 0.9) !important;
 }
+.bg-lime-a950, .bg-lime-a950-hover:hover {
+  background-color: rgba(205, 220, 57, 0.95) !important;
+}
+.bg-light-green-a50, .bg-light-green-a50-hover:hover {
+  background-color: rgba(139, 195, 74, 0.05) !important;
+}
 .bg-light-green-a100, .bg-light-green-a100-hover:hover {
   background-color: rgba(139, 195, 74, 0.1) !important;
+}
+.bg-light-green-a150, .bg-light-green-a150-hover:hover {
+  background-color: rgba(139, 195, 74, 0.15) !important;
 }
 .bg-light-green-a200, .bg-light-green-a200-hover:hover {
   background-color: rgba(139, 195, 74, 0.2) !important;
 }
+.bg-light-green-a250, .bg-light-green-a250-hover:hover {
+  background-color: rgba(139, 195, 74, 0.25) !important;
+}
 .bg-light-green-a300, .bg-light-green-a300-hover:hover {
   background-color: rgba(139, 195, 74, 0.3) !important;
+}
+.bg-light-green-a350, .bg-light-green-a350-hover:hover {
+  background-color: rgba(139, 195, 74, 0.35) !important;
 }
 .bg-light-green-a400, .bg-light-green-a400-hover:hover {
   background-color: rgba(139, 195, 74, 0.4) !important;
 }
+.bg-light-green-a450, .bg-light-green-a450-hover:hover {
+  background-color: rgba(139, 195, 74, 0.45) !important;
+}
 .bg-light-green-a500, .bg-light-green-a500-hover:hover {
   background-color: rgba(139, 195, 74, 0.5) !important;
+}
+.bg-light-green-a550, .bg-light-green-a550-hover:hover {
+  background-color: rgba(139, 195, 74, 0.55) !important;
 }
 .bg-light-green-a600, .bg-light-green-a600-hover:hover {
   background-color: rgba(139, 195, 74, 0.6) !important;
 }
+.bg-light-green-a650, .bg-light-green-a650-hover:hover {
+  background-color: rgba(139, 195, 74, 0.65) !important;
+}
 .bg-light-green-a700, .bg-light-green-a700-hover:hover {
   background-color: rgba(139, 195, 74, 0.7) !important;
+}
+.bg-light-green-a750, .bg-light-green-a750-hover:hover {
+  background-color: rgba(139, 195, 74, 0.75) !important;
 }
 .bg-light-green-a800, .bg-light-green-a800-hover:hover {
   background-color: rgba(139, 195, 74, 0.8) !important;
 }
+.bg-light-green-a850, .bg-light-green-a850-hover:hover {
+  background-color: rgba(139, 195, 74, 0.85) !important;
+}
 .bg-light-green-a900, .bg-light-green-a900-hover:hover {
   background-color: rgba(139, 195, 74, 0.9) !important;
+}
+.bg-light-green-a950, .bg-light-green-a950-hover:hover {
+  background-color: rgba(139, 195, 74, 0.95) !important;
+}
+.bg-green-a50, .bg-green-a50-hover:hover {
+  background-color: rgba(76, 175, 80, 0.05) !important;
 }
 .bg-green-a100, .bg-green-a100-hover:hover {
   background-color: rgba(76, 175, 80, 0.1) !important;
 }
+.bg-green-a150, .bg-green-a150-hover:hover {
+  background-color: rgba(76, 175, 80, 0.15) !important;
+}
 .bg-green-a200, .bg-green-a200-hover:hover {
   background-color: rgba(76, 175, 80, 0.2) !important;
+}
+.bg-green-a250, .bg-green-a250-hover:hover {
+  background-color: rgba(76, 175, 80, 0.25) !important;
 }
 .bg-green-a300, .bg-green-a300-hover:hover {
   background-color: rgba(76, 175, 80, 0.3) !important;
 }
+.bg-green-a350, .bg-green-a350-hover:hover {
+  background-color: rgba(76, 175, 80, 0.35) !important;
+}
 .bg-green-a400, .bg-green-a400-hover:hover {
   background-color: rgba(76, 175, 80, 0.4) !important;
+}
+.bg-green-a450, .bg-green-a450-hover:hover {
+  background-color: rgba(76, 175, 80, 0.45) !important;
 }
 .bg-green-a500, .bg-green-a500-hover:hover {
   background-color: rgba(76, 175, 80, 0.5) !important;
 }
+.bg-green-a550, .bg-green-a550-hover:hover {
+  background-color: rgba(76, 175, 80, 0.55) !important;
+}
 .bg-green-a600, .bg-green-a600-hover:hover {
   background-color: rgba(76, 175, 80, 0.6) !important;
+}
+.bg-green-a650, .bg-green-a650-hover:hover {
+  background-color: rgba(76, 175, 80, 0.65) !important;
 }
 .bg-green-a700, .bg-green-a700-hover:hover {
   background-color: rgba(76, 175, 80, 0.7) !important;
 }
+.bg-green-a750, .bg-green-a750-hover:hover {
+  background-color: rgba(76, 175, 80, 0.75) !important;
+}
 .bg-green-a800, .bg-green-a800-hover:hover {
   background-color: rgba(76, 175, 80, 0.8) !important;
+}
+.bg-green-a850, .bg-green-a850-hover:hover {
+  background-color: rgba(76, 175, 80, 0.85) !important;
 }
 .bg-green-a900, .bg-green-a900-hover:hover {
   background-color: rgba(76, 175, 80, 0.9) !important;
 }
+.bg-green-a950, .bg-green-a950-hover:hover {
+  background-color: rgba(76, 175, 80, 0.95) !important;
+}
+.bg-teal-a50, .bg-teal-a50-hover:hover {
+  background-color: rgba(0, 150, 136, 0.05) !important;
+}
 .bg-teal-a100, .bg-teal-a100-hover:hover {
   background-color: rgba(0, 150, 136, 0.1) !important;
+}
+.bg-teal-a150, .bg-teal-a150-hover:hover {
+  background-color: rgba(0, 150, 136, 0.15) !important;
 }
 .bg-teal-a200, .bg-teal-a200-hover:hover {
   background-color: rgba(0, 150, 136, 0.2) !important;
 }
+.bg-teal-a250, .bg-teal-a250-hover:hover {
+  background-color: rgba(0, 150, 136, 0.25) !important;
+}
 .bg-teal-a300, .bg-teal-a300-hover:hover {
   background-color: rgba(0, 150, 136, 0.3) !important;
+}
+.bg-teal-a350, .bg-teal-a350-hover:hover {
+  background-color: rgba(0, 150, 136, 0.35) !important;
 }
 .bg-teal-a400, .bg-teal-a400-hover:hover {
   background-color: rgba(0, 150, 136, 0.4) !important;
 }
+.bg-teal-a450, .bg-teal-a450-hover:hover {
+  background-color: rgba(0, 150, 136, 0.45) !important;
+}
 .bg-teal-a500, .bg-teal-a500-hover:hover {
   background-color: rgba(0, 150, 136, 0.5) !important;
+}
+.bg-teal-a550, .bg-teal-a550-hover:hover {
+  background-color: rgba(0, 150, 136, 0.55) !important;
 }
 .bg-teal-a600, .bg-teal-a600-hover:hover {
   background-color: rgba(0, 150, 136, 0.6) !important;
 }
+.bg-teal-a650, .bg-teal-a650-hover:hover {
+  background-color: rgba(0, 150, 136, 0.65) !important;
+}
 .bg-teal-a700, .bg-teal-a700-hover:hover {
   background-color: rgba(0, 150, 136, 0.7) !important;
+}
+.bg-teal-a750, .bg-teal-a750-hover:hover {
+  background-color: rgba(0, 150, 136, 0.75) !important;
 }
 .bg-teal-a800, .bg-teal-a800-hover:hover {
   background-color: rgba(0, 150, 136, 0.8) !important;
 }
+.bg-teal-a850, .bg-teal-a850-hover:hover {
+  background-color: rgba(0, 150, 136, 0.85) !important;
+}
 .bg-teal-a900, .bg-teal-a900-hover:hover {
   background-color: rgba(0, 150, 136, 0.9) !important;
+}
+.bg-teal-a950, .bg-teal-a950-hover:hover {
+  background-color: rgba(0, 150, 136, 0.95) !important;
+}
+.bg-cyan-a50, .bg-cyan-a50-hover:hover {
+  background-color: rgba(0, 188, 212, 0.05) !important;
 }
 .bg-cyan-a100, .bg-cyan-a100-hover:hover {
   background-color: rgba(0, 188, 212, 0.1) !important;
 }
+.bg-cyan-a150, .bg-cyan-a150-hover:hover {
+  background-color: rgba(0, 188, 212, 0.15) !important;
+}
 .bg-cyan-a200, .bg-cyan-a200-hover:hover {
   background-color: rgba(0, 188, 212, 0.2) !important;
+}
+.bg-cyan-a250, .bg-cyan-a250-hover:hover {
+  background-color: rgba(0, 188, 212, 0.25) !important;
 }
 .bg-cyan-a300, .bg-cyan-a300-hover:hover {
   background-color: rgba(0, 188, 212, 0.3) !important;
 }
+.bg-cyan-a350, .bg-cyan-a350-hover:hover {
+  background-color: rgba(0, 188, 212, 0.35) !important;
+}
 .bg-cyan-a400, .bg-cyan-a400-hover:hover {
   background-color: rgba(0, 188, 212, 0.4) !important;
+}
+.bg-cyan-a450, .bg-cyan-a450-hover:hover {
+  background-color: rgba(0, 188, 212, 0.45) !important;
 }
 .bg-cyan-a500, .bg-cyan-a500-hover:hover {
   background-color: rgba(0, 188, 212, 0.5) !important;
 }
+.bg-cyan-a550, .bg-cyan-a550-hover:hover {
+  background-color: rgba(0, 188, 212, 0.55) !important;
+}
 .bg-cyan-a600, .bg-cyan-a600-hover:hover {
   background-color: rgba(0, 188, 212, 0.6) !important;
+}
+.bg-cyan-a650, .bg-cyan-a650-hover:hover {
+  background-color: rgba(0, 188, 212, 0.65) !important;
 }
 .bg-cyan-a700, .bg-cyan-a700-hover:hover {
   background-color: rgba(0, 188, 212, 0.7) !important;
 }
+.bg-cyan-a750, .bg-cyan-a750-hover:hover {
+  background-color: rgba(0, 188, 212, 0.75) !important;
+}
 .bg-cyan-a800, .bg-cyan-a800-hover:hover {
   background-color: rgba(0, 188, 212, 0.8) !important;
+}
+.bg-cyan-a850, .bg-cyan-a850-hover:hover {
+  background-color: rgba(0, 188, 212, 0.85) !important;
 }
 .bg-cyan-a900, .bg-cyan-a900-hover:hover {
   background-color: rgba(0, 188, 212, 0.9) !important;
 }
+.bg-cyan-a950, .bg-cyan-a950-hover:hover {
+  background-color: rgba(0, 188, 212, 0.95) !important;
+}
+.bg-brown-a50, .bg-brown-a50-hover:hover {
+  background-color: rgba(121, 85, 72, 0.05) !important;
+}
 .bg-brown-a100, .bg-brown-a100-hover:hover {
   background-color: rgba(121, 85, 72, 0.1) !important;
+}
+.bg-brown-a150, .bg-brown-a150-hover:hover {
+  background-color: rgba(121, 85, 72, 0.15) !important;
 }
 .bg-brown-a200, .bg-brown-a200-hover:hover {
   background-color: rgba(121, 85, 72, 0.2) !important;
 }
+.bg-brown-a250, .bg-brown-a250-hover:hover {
+  background-color: rgba(121, 85, 72, 0.25) !important;
+}
 .bg-brown-a300, .bg-brown-a300-hover:hover {
   background-color: rgba(121, 85, 72, 0.3) !important;
+}
+.bg-brown-a350, .bg-brown-a350-hover:hover {
+  background-color: rgba(121, 85, 72, 0.35) !important;
 }
 .bg-brown-a400, .bg-brown-a400-hover:hover {
   background-color: rgba(121, 85, 72, 0.4) !important;
 }
+.bg-brown-a450, .bg-brown-a450-hover:hover {
+  background-color: rgba(121, 85, 72, 0.45) !important;
+}
 .bg-brown-a500, .bg-brown-a500-hover:hover {
   background-color: rgba(121, 85, 72, 0.5) !important;
+}
+.bg-brown-a550, .bg-brown-a550-hover:hover {
+  background-color: rgba(121, 85, 72, 0.55) !important;
 }
 .bg-brown-a600, .bg-brown-a600-hover:hover {
   background-color: rgba(121, 85, 72, 0.6) !important;
 }
+.bg-brown-a650, .bg-brown-a650-hover:hover {
+  background-color: rgba(121, 85, 72, 0.65) !important;
+}
 .bg-brown-a700, .bg-brown-a700-hover:hover {
   background-color: rgba(121, 85, 72, 0.7) !important;
+}
+.bg-brown-a750, .bg-brown-a750-hover:hover {
+  background-color: rgba(121, 85, 72, 0.75) !important;
 }
 .bg-brown-a800, .bg-brown-a800-hover:hover {
   background-color: rgba(121, 85, 72, 0.8) !important;
 }
+.bg-brown-a850, .bg-brown-a850-hover:hover {
+  background-color: rgba(121, 85, 72, 0.85) !important;
+}
 .bg-brown-a900, .bg-brown-a900-hover:hover {
   background-color: rgba(121, 85, 72, 0.9) !important;
+}
+.bg-brown-a950, .bg-brown-a950-hover:hover {
+  background-color: rgba(121, 85, 72, 0.95) !important;
+}
+.bg-blue-gray-a50, .bg-blue-gray-a50-hover:hover {
+  background-color: rgba(96, 125, 139, 0.05) !important;
 }
 .bg-blue-gray-a100, .bg-blue-gray-a100-hover:hover {
   background-color: rgba(96, 125, 139, 0.1) !important;
 }
+.bg-blue-gray-a150, .bg-blue-gray-a150-hover:hover {
+  background-color: rgba(96, 125, 139, 0.15) !important;
+}
 .bg-blue-gray-a200, .bg-blue-gray-a200-hover:hover {
   background-color: rgba(96, 125, 139, 0.2) !important;
+}
+.bg-blue-gray-a250, .bg-blue-gray-a250-hover:hover {
+  background-color: rgba(96, 125, 139, 0.25) !important;
 }
 .bg-blue-gray-a300, .bg-blue-gray-a300-hover:hover {
   background-color: rgba(96, 125, 139, 0.3) !important;
 }
+.bg-blue-gray-a350, .bg-blue-gray-a350-hover:hover {
+  background-color: rgba(96, 125, 139, 0.35) !important;
+}
 .bg-blue-gray-a400, .bg-blue-gray-a400-hover:hover {
   background-color: rgba(96, 125, 139, 0.4) !important;
+}
+.bg-blue-gray-a450, .bg-blue-gray-a450-hover:hover {
+  background-color: rgba(96, 125, 139, 0.45) !important;
 }
 .bg-blue-gray-a500, .bg-blue-gray-a500-hover:hover {
   background-color: rgba(96, 125, 139, 0.5) !important;
 }
+.bg-blue-gray-a550, .bg-blue-gray-a550-hover:hover {
+  background-color: rgba(96, 125, 139, 0.55) !important;
+}
 .bg-blue-gray-a600, .bg-blue-gray-a600-hover:hover {
   background-color: rgba(96, 125, 139, 0.6) !important;
+}
+.bg-blue-gray-a650, .bg-blue-gray-a650-hover:hover {
+  background-color: rgba(96, 125, 139, 0.65) !important;
 }
 .bg-blue-gray-a700, .bg-blue-gray-a700-hover:hover {
   background-color: rgba(96, 125, 139, 0.7) !important;
 }
+.bg-blue-gray-a750, .bg-blue-gray-a750-hover:hover {
+  background-color: rgba(96, 125, 139, 0.75) !important;
+}
 .bg-blue-gray-a800, .bg-blue-gray-a800-hover:hover {
   background-color: rgba(96, 125, 139, 0.8) !important;
+}
+.bg-blue-gray-a850, .bg-blue-gray-a850-hover:hover {
+  background-color: rgba(96, 125, 139, 0.85) !important;
 }
 .bg-blue-gray-a900, .bg-blue-gray-a900-hover:hover {
   background-color: rgba(96, 125, 139, 0.9) !important;
 }
+.bg-blue-gray-a950, .bg-blue-gray-a950-hover:hover {
+  background-color: rgba(96, 125, 139, 0.95) !important;
+}
+.bg-gray-a50, .bg-gray-a50-hover:hover {
+  background-color: rgba(158, 158, 158, 0.05) !important;
+}
 .bg-gray-a100, .bg-gray-a100-hover:hover {
   background-color: rgba(158, 158, 158, 0.1) !important;
+}
+.bg-gray-a150, .bg-gray-a150-hover:hover {
+  background-color: rgba(158, 158, 158, 0.15) !important;
 }
 .bg-gray-a200, .bg-gray-a200-hover:hover {
   background-color: rgba(158, 158, 158, 0.2) !important;
 }
+.bg-gray-a250, .bg-gray-a250-hover:hover {
+  background-color: rgba(158, 158, 158, 0.25) !important;
+}
 .bg-gray-a300, .bg-gray-a300-hover:hover {
   background-color: rgba(158, 158, 158, 0.3) !important;
+}
+.bg-gray-a350, .bg-gray-a350-hover:hover {
+  background-color: rgba(158, 158, 158, 0.35) !important;
 }
 .bg-gray-a400, .bg-gray-a400-hover:hover {
   background-color: rgba(158, 158, 158, 0.4) !important;
 }
+.bg-gray-a450, .bg-gray-a450-hover:hover {
+  background-color: rgba(158, 158, 158, 0.45) !important;
+}
 .bg-gray-a500, .bg-gray-a500-hover:hover {
   background-color: rgba(158, 158, 158, 0.5) !important;
+}
+.bg-gray-a550, .bg-gray-a550-hover:hover {
+  background-color: rgba(158, 158, 158, 0.55) !important;
 }
 .bg-gray-a600, .bg-gray-a600-hover:hover {
   background-color: rgba(158, 158, 158, 0.6) !important;
 }
+.bg-gray-a650, .bg-gray-a650-hover:hover {
+  background-color: rgba(158, 158, 158, 0.65) !important;
+}
 .bg-gray-a700, .bg-gray-a700-hover:hover {
   background-color: rgba(158, 158, 158, 0.7) !important;
+}
+.bg-gray-a750, .bg-gray-a750-hover:hover {
+  background-color: rgba(158, 158, 158, 0.75) !important;
 }
 .bg-gray-a800, .bg-gray-a800-hover:hover {
   background-color: rgba(158, 158, 158, 0.8) !important;
 }
+.bg-gray-a850, .bg-gray-a850-hover:hover {
+  background-color: rgba(158, 158, 158, 0.85) !important;
+}
 .bg-gray-a900, .bg-gray-a900-hover:hover {
   background-color: rgba(158, 158, 158, 0.9) !important;
+}
+.bg-gray-a950, .bg-gray-a950-hover:hover {
+  background-color: rgba(158, 158, 158, 0.95) !important;
 }
 
 /*# sourceMappingURL=material.css.map */
