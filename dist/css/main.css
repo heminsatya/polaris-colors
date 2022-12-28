@@ -1,8 +1,7 @@
 @charset "UTF-8";
 /**
  * Polaris Colors Plugin v1.3.2
- * Polaris Color Palettes
- * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
+ * MIT License github.com/heminsatya/polaris-plugins | © 2022 polarisui.com
 **/
 /* -------------------------------------------------- */
 /*                   Color Palettes                   */
@@ -5767,4 +5766,245 @@
   background-color: rgba(133, 141, 159, 0.95) !important;
 }
 
-/*# sourceMappingURL=polaris.css.map */
+/* -------------------------------------------------- */
+/*                    Color Packs                     */
+/* -------------------------------------------------- */
+/*
+* color
+*/
+/* Social Colors */
+.color-facebook, .color-facebook-hover:hover {
+  color: #3b5999 !important;
+}
+.color-messenger, .color-messenger-hover:hover {
+  color: #0084ff !important;
+}
+.color-twitter, .color-twitter-hover:hover {
+  color: #55acee !important;
+}
+.color-linkedin, .color-linkedin-hover:hover {
+  color: #0077B5 !important;
+}
+.color-skype, .color-skype-hover:hover {
+  color: #00AFF0 !important;
+}
+.color-dropbox, .color-dropbox-hover:hover {
+  color: #007ee5 !important;
+}
+.color-wordpress, .color-wordpress-hover:hover {
+  color: #21759b !important;
+}
+.color-vimeo, .color-vimeo-hover:hover {
+  color: #1ab7ea !important;
+}
+.color-slideshare, .color-slideshare-hover:hover {
+  color: #0077B5 !important;
+}
+.color-vk, .color-vk-hover:hover {
+  color: #4c75a3 !important;
+}
+.color-tumblr, .color-tumblr-hover:hover {
+  color: #34465d !important;
+}
+.color-yahoo, .color-yahoo-hover:hover {
+  color: #410093 !important;
+}
+.color-gmail, .color-gmail-hover:hover {
+  color: #dd4b39 !important;
+}
+.color-pinterest, .color-pinterest-hover:hover {
+  color: #bd081c !important;
+}
+.color-youtube, .color-youtube-hover:hover {
+  color: #cd201f !important;
+}
+.color-stumbleupon, .color-stumbleupon-hover:hover {
+  color: #eb4924 !important;
+}
+.color-reddit, .color-reddit-hover:hover {
+  color: #ff5700 !important;
+}
+.color-quora, .color-quora-hover:hover {
+  color: #b92b27 !important;
+}
+.color-yelp, .color-yelp-hover:hover {
+  color: #af0606 !important;
+}
+.color-weibo, .color-weibo-hover:hover {
+  color: #df2029 !important;
+}
+.color-producthunt, .color-producthunt-hover:hover {
+  color: #da552f !important;
+}
+.color-hackernews, .color-hackernews-hover:hover {
+  color: #ff6600 !important;
+}
+.color-soundcloud, .color-soundcloud-hover:hover {
+  color: #ff3300 !important;
+}
+.color-blogger, .color-blogger-hover:hover {
+  color: #f57d00 !important;
+}
+.color-whatsapp, .color-whatsapp-hover:hover {
+  color: #25D366 !important;
+}
+.color-wechat, .color-wechat-hover:hover {
+  color: #09b83e !important;
+}
+.color-line, .color-line-hover:hover {
+  color: #00c300 !important;
+}
+.color-medium, .color-medium-hover:hover {
+  color: #02b875 !important;
+}
+.color-vine, .color-vine-hover:hover {
+  color: #00b489 !important;
+}
+.color-slack, .color-slack-hover:hover {
+  color: #3aaf85 !important;
+}
+.color-instagram, .color-instagram-hover:hover {
+  color: #e4405f !important;
+}
+.color-dribbble, .color-dribbble-hover:hover {
+  color: #ea4c89 !important;
+}
+.color-flickr, .color-flickr-hover:hover {
+  color: #ff0084 !important;
+}
+.color-foursquare, .color-foursquare-hover:hover {
+  color: #f94877 !important;
+}
+.color-behance, .color-behance-hover:hover {
+  color: #131418 !important;
+}
+.color-snapchat, .color-snapchat-hover:hover {
+  color: #FFFC00 !important;
+}
+.color-telegram, .color-telegram-hover:hover {
+  color: #0088CC !important;
+}
+.color-github, .color-github-hover:hover {
+  color: #2FBB4F !important;
+}
+
+/*
+* background-color
+*/
+/* Social Colors */
+.bg-facebook, .bg-facebook-hover:hover {
+  background-color: #3b5999 !important;
+}
+.bg-messenger, .bg-messenger-hover:hover {
+  background-color: #0084ff !important;
+}
+.bg-twitter, .bg-twitter-hover:hover {
+  background-color: #55acee !important;
+}
+.bg-linkedin, .bg-linkedin-hover:hover {
+  background-color: #0077B5 !important;
+}
+.bg-skype, .bg-skype-hover:hover {
+  background-color: #00AFF0 !important;
+}
+.bg-dropbox, .bg-dropbox-hover:hover {
+  background-color: #007ee5 !important;
+}
+.bg-wordpress, .bg-wordpress-hover:hover {
+  background-color: #21759b !important;
+}
+.bg-vimeo, .bg-vimeo-hover:hover {
+  background-color: #1ab7ea !important;
+}
+.bg-slideshare, .bg-slideshare-hover:hover {
+  background-color: #0077B5 !important;
+}
+.bg-vk, .bg-vk-hover:hover {
+  background-color: #4c75a3 !important;
+}
+.bg-tumblr, .bg-tumblr-hover:hover {
+  background-color: #34465d !important;
+}
+.bg-yahoo, .bg-yahoo-hover:hover {
+  background-color: #410093 !important;
+}
+.bg-gmail, .bg-gmail-hover:hover {
+  background-color: #dd4b39 !important;
+}
+.bg-pinterest, .bg-pinterest-hover:hover {
+  background-color: #bd081c !important;
+}
+.bg-youtube, .bg-youtube-hover:hover {
+  background-color: #cd201f !important;
+}
+.bg-stumbleupon, .bg-stumbleupon-hover:hover {
+  background-color: #eb4924 !important;
+}
+.bg-reddit, .bg-reddit-hover:hover {
+  background-color: #ff5700 !important;
+}
+.bg-quora, .bg-quora-hover:hover {
+  background-color: #b92b27 !important;
+}
+.bg-yelp, .bg-yelp-hover:hover {
+  background-color: #af0606 !important;
+}
+.bg-weibo, .bg-weibo-hover:hover {
+  background-color: #df2029 !important;
+}
+.bg-producthunt, .bg-producthunt-hover:hover {
+  background-color: #da552f !important;
+}
+.bg-hackernews, .bg-hackernews-hover:hover {
+  background-color: #ff6600 !important;
+}
+.bg-soundcloud, .bg-soundcloud-hover:hover {
+  background-color: #ff3300 !important;
+}
+.bg-blogger, .bg-blogger-hover:hover {
+  background-color: #f57d00 !important;
+}
+.bg-whatsapp, .bg-whatsapp-hover:hover {
+  background-color: #25D366 !important;
+}
+.bg-wechat, .bg-wechat-hover:hover {
+  background-color: #09b83e !important;
+}
+.bg-line, .bg-line-hover:hover {
+  background-color: #00c300 !important;
+}
+.bg-medium, .bg-medium-hover:hover {
+  background-color: #02b875 !important;
+}
+.bg-vine, .bg-vine-hover:hover {
+  background-color: #00b489 !important;
+}
+.bg-slack, .bg-slack-hover:hover {
+  background-color: #3aaf85 !important;
+}
+.bg-instagram, .bg-instagram-hover:hover {
+  background-color: #e4405f !important;
+}
+.bg-dribbble, .bg-dribbble-hover:hover {
+  background-color: #ea4c89 !important;
+}
+.bg-flickr, .bg-flickr-hover:hover {
+  background-color: #ff0084 !important;
+}
+.bg-foursquare, .bg-foursquare-hover:hover {
+  background-color: #f94877 !important;
+}
+.bg-behance, .bg-behance-hover:hover {
+  background-color: #131418 !important;
+}
+.bg-snapchat, .bg-snapchat-hover:hover {
+  background-color: #FFFC00 !important;
+}
+.bg-telegram, .bg-telegram-hover:hover {
+  background-color: #0088CC !important;
+}
+.bg-github, .bg-github-hover:hover {
+  background-color: #2FBB4F !important;
+}
+
+/*# sourceMappingURL=main.css.map */

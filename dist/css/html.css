@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /**
- * Polaris Colors Plugin v1.3.1
+ * Polaris Colors Plugin v1.3.2
  * Standard HTML Colors
  * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
@@ -77,7 +77,7 @@
   color: LightSlateGray !important;
 }
 .color-gray, .color-gray-hover:hover {
-  color: Gray !important;
+  color: var(--gray, Gray) !important;
 }
 .color-slate-gray, .color-slate-gray-hover:hover {
   color: SlateGray !important;
@@ -504,7 +504,7 @@
   background-color: LightSlateGray !important;
 }
 .color-gray, .color-gray-hover:hover {
-  background-color: Gray !important;
+  background-color: var(--gray, Gray) !important;
 }
 .color-slate-gray, .color-slate-gray-hover:hover {
   background-color: SlateGray !important;
