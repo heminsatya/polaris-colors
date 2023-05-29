@@ -9,10 +9,17 @@ $plugin-alphas:         null;
 
 $strict-colors: true !default;
 
-$social-pack:   true !default;      // true | false
-$html-pack:     false !default;     // true | false
-$metro-pack:    false !default;     // true | false
-$flat-pack:     false !default;     // true | false
+$social-pack: true !default;        // true | false
+$html-pack:   false !default;       // true | false
+$metro-pack:  false !default;       // true | false
+$flat-pack:   false !default;       // true | false
+
+$color-system:                "polaris" !default;       // polaris | material
+$has-plugin-color:            true !default;            // true | false
+$has-plugin-background-color: true !default;            // true | false
+$has-plugin-border-color:     false !default;           // true | false
+$has-plugin-outline-color:    false !default;           // true | false
+
 
 // -- Polaris Colors -- //
 // Sky Blue

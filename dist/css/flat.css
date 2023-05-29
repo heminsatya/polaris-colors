@@ -1,7 +1,9 @@
 @charset "UTF-8";
 /**
- * Polaris Colors Plugin v1.3.2
  * Flat UI Colors
+**/
+/**
+ * Polaris Colors Plugin v1.4.0
  * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
 /* -------------------------------------------------- */
@@ -74,64 +76,64 @@
 /*
 * background-color
 */
-.color-turquoise, .color-turquoise-hover:hover {
+.bg-turquoise, .bg-turquoise-hover:hover {
   background-color: #1abc9c !important;
 }
-.color-emerland, .color-emerland-hover:hover {
+.bg-emerland, .bg-emerland-hover:hover {
   background-color: #2ecc71 !important;
 }
-.color-peterriver, .color-peterriver-hover:hover {
+.bg-peterriver, .bg-peterriver-hover:hover {
   background-color: #3498db !important;
 }
-.color-amethyst, .color-amethyst-hover:hover {
+.bg-amethyst, .bg-amethyst-hover:hover {
   background-color: #9b59b6 !important;
 }
-.color-wetasphalt, .color-wetasphalt-hover:hover {
+.bg-wetasphalt, .bg-wetasphalt-hover:hover {
   background-color: #34495e !important;
 }
-.color-greensea, .color-greensea-hover:hover {
+.bg-greensea, .bg-greensea-hover:hover {
   background-color: #16a085 !important;
 }
-.color-nephritis, .color-nephritis-hover:hover {
+.bg-nephritis, .bg-nephritis-hover:hover {
   background-color: #27ae60 !important;
 }
-.color-belizehole, .color-belizehole-hover:hover {
+.bg-belizehole, .bg-belizehole-hover:hover {
   background-color: #2980b9 !important;
 }
-.color-wisteria, .color-wisteria-hover:hover {
+.bg-wisteria, .bg-wisteria-hover:hover {
   background-color: #8e44ad !important;
 }
-.color-midnightblue, .color-midnightblue-hover:hover {
+.bg-midnightblue, .bg-midnightblue-hover:hover {
   background-color: #2c3e50 !important;
 }
-.color-sunflower, .color-sunflower-hover:hover {
+.bg-sunflower, .bg-sunflower-hover:hover {
   background-color: #f1c40f !important;
 }
-.color-carrot, .color-carrot-hover:hover {
+.bg-carrot, .bg-carrot-hover:hover {
   background-color: #e67e22 !important;
 }
-.color-alizarin, .color-alizarin-hover:hover {
+.bg-alizarin, .bg-alizarin-hover:hover {
   background-color: #e74c3c !important;
 }
-.color-clouds, .color-clouds-hover:hover {
+.bg-clouds, .bg-clouds-hover:hover {
   background-color: #ecf0f1 !important;
 }
-.color-concrete, .color-concrete-hover:hover {
+.bg-concrete, .bg-concrete-hover:hover {
   background-color: #95a5a6 !important;
 }
-.color-orange, .color-orange-hover:hover {
+.bg-orange, .bg-orange-hover:hover {
   background-color: #f39c12 !important;
 }
-.color-pumpkin, .color-pumpkin-hover:hover {
+.bg-pumpkin, .bg-pumpkin-hover:hover {
   background-color: #d35400 !important;
 }
-.color-pomegranate, .color-pomegranate-hover:hover {
+.bg-pomegranate, .bg-pomegranate-hover:hover {
   background-color: #c0392b !important;
 }
-.color-silver, .color-silver-hover:hover {
+.bg-silver, .bg-silver-hover:hover {
   background-color: #bdc3c7 !important;
 }
-.color-asbestos, .color-asbestos-hover:hover {
+.bg-asbestos, .bg-asbestos-hover:hover {
   background-color: #7f8c8d !important;
 }
 

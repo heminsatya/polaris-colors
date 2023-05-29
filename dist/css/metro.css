@@ -1,7 +1,9 @@
 @charset "UTF-8";
 /**
- * Polaris Colors Plugin v1.3.2
  * Metro Colors
+**/
+/**
+ * Polaris Colors Plugin v1.4.0
  * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
 /* -------------------------------------------------- */
@@ -74,64 +76,64 @@
 /*
 * background-color
 */
-.color-lime, .color-lime-hover:hover {
+.bg-lime, .bg-lime-hover:hover {
   background-color: #a4c400 !important;
 }
-.color-green, .color-green-hover:hover {
+.bg-green, .bg-green-hover:hover {
   background-color: #60a917 !important;
 }
-.color-emerald, .color-emerald-hover:hover {
+.bg-emerald, .bg-emerald-hover:hover {
   background-color: #008a00 !important;
 }
-.color-teal, .color-teal-hover:hover {
+.bg-teal, .bg-teal-hover:hover {
   background-color: #00aba9 !important;
 }
-.color-cyan, .color-cyan-hover:hover {
+.bg-cyan, .bg-cyan-hover:hover {
   background-color: #1ba1e2 !important;
 }
-.color-cobalt, .color-cobalt-hover:hover {
+.bg-cobalt, .bg-cobalt-hover:hover {
   background-color: #0050ef !important;
 }
-.color-indigo, .color-indigo-hover:hover {
+.bg-indigo, .bg-indigo-hover:hover {
   background-color: #6a00ff !important;
 }
-.color-violet, .color-violet-hover:hover {
+.bg-violet, .bg-violet-hover:hover {
   background-color: #aa00ff !important;
 }
-.color-pink, .color-pink-hover:hover {
+.bg-pink, .bg-pink-hover:hover {
   background-color: #f472d0 !important;
 }
-.color-magenta, .color-magenta-hover:hover {
+.bg-magenta, .bg-magenta-hover:hover {
   background-color: #d80073 !important;
 }
-.color-crimson, .color-crimson-hover:hover {
+.bg-crimson, .bg-crimson-hover:hover {
   background-color: #a20025 !important;
 }
-.color-red, .color-red-hover:hover {
+.bg-red, .bg-red-hover:hover {
   background-color: #e51400 !important;
 }
-.color-orange, .color-orange-hover:hover {
+.bg-orange, .bg-orange-hover:hover {
   background-color: #fa6800 !important;
 }
-.color-amber, .color-amber-hover:hover {
+.bg-amber, .bg-amber-hover:hover {
   background-color: #f0a30a !important;
 }
-.color-yellow, .color-yellow-hover:hover {
+.bg-yellow, .bg-yellow-hover:hover {
   background-color: #e3c800 !important;
 }
-.color-brown, .color-brown-hover:hover {
+.bg-brown, .bg-brown-hover:hover {
   background-color: #825a2c !important;
 }
-.color-olive, .color-olive-hover:hover {
+.bg-olive, .bg-olive-hover:hover {
   background-color: #6d8764 !important;
 }
-.color-steel, .color-steel-hover:hover {
+.bg-steel, .bg-steel-hover:hover {
   background-color: #647687 !important;
 }
-.color-mauve, .color-mauve-hover:hover {
+.bg-mauve, .bg-mauve-hover:hover {
   background-color: #76608a !important;
 }
-.color-sienna, .color-sienna-hover:hover {
+.bg-sienna, .bg-sienna-hover:hover {
   background-color: #a0522d !important;
 }
 

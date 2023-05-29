@@ -1,7 +1,5 @@
 /**
- * Polaris Colors Plugin v1.3.2
  * Flat UI Colors
- * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
 // -------------------------------------------------- //
 //                    Constructor                     //
@@ -27,7 +25,7 @@
     /*
     * background-color
     */
-    @include color-class($flat-colors, $name-color, "background-color", $strict-colors);
+    @include color-class($flat-colors, $name-bg-color, "background-color", $strict-colors);
 }
 
 
@@ -35,7 +33,7 @@
     /*
     * border-color
     */
-    @include color-class($flat-colors, $name-color, "border-color", $strict-colors);
+    @include color-class($flat-colors, $name-border-color, "border-color", $strict-colors);
 }
 
 
@@ -43,5 +41,5 @@
     /*
     * outline-color
     */
-    @include color-class($flat-colors, $name-color, "outline-color", $strict-colors);
+    @include color-class($flat-colors, $name-outline-color, "outline-color", $strict-colors);
 }
