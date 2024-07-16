@@ -1,4 +1,4 @@
-# Polaris Colors Plugin (v1.5.0)
+# Polaris Colors Plugin (v1.5.1)
 
 In addition to the built-in features and components comes with [Polaris framework](https://github.com/heminsatya/polaris), you can also use a set of useful plugins.
 
