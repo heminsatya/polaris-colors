@@ -3,7 +3,7 @@
  * Metro Colors
 **/
 /**
- * Polaris Colors Plugin v1.4.3
+ * Polaris Colors Plugin v1.5.0
  * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
 /* -------------------------------------------------- */
@@ -135,6 +135,70 @@
 }
 .bg-sienna, .bg-sienna-hover:hover {
   background-color: #a0522d !important;
+}
+
+/*
+* border-color
+*/
+.b-lime, .b-lime-hover:hover {
+  border-color: #a4c400 !important;
+}
+.b-green, .b-green-hover:hover {
+  border-color: #60a917 !important;
+}
+.b-emerald, .b-emerald-hover:hover {
+  border-color: #008a00 !important;
+}
+.b-teal, .b-teal-hover:hover {
+  border-color: #00aba9 !important;
+}
+.b-cyan, .b-cyan-hover:hover {
+  border-color: #1ba1e2 !important;
+}
+.b-cobalt, .b-cobalt-hover:hover {
+  border-color: #0050ef !important;
+}
+.b-indigo, .b-indigo-hover:hover {
+  border-color: #6a00ff !important;
+}
+.b-violet, .b-violet-hover:hover {
+  border-color: #aa00ff !important;
+}
+.b-pink, .b-pink-hover:hover {
+  border-color: #f472d0 !important;
+}
+.b-magenta, .b-magenta-hover:hover {
+  border-color: #d80073 !important;
+}
+.b-crimson, .b-crimson-hover:hover {
+  border-color: #a20025 !important;
+}
+.b-red, .b-red-hover:hover {
+  border-color: #e51400 !important;
+}
+.b-orange, .b-orange-hover:hover {
+  border-color: #fa6800 !important;
+}
+.b-amber, .b-amber-hover:hover {
+  border-color: #f0a30a !important;
+}
+.b-yellow, .b-yellow-hover:hover {
+  border-color: #e3c800 !important;
+}
+.b-brown, .b-brown-hover:hover {
+  border-color: #825a2c !important;
+}
+.b-olive, .b-olive-hover:hover {
+  border-color: #6d8764 !important;
+}
+.b-steel, .b-steel-hover:hover {
+  border-color: #647687 !important;
+}
+.b-mauve, .b-mauve-hover:hover {
+  border-color: #76608a !important;
+}
+.b-sienna, .b-sienna-hover:hover {
+  border-color: #a0522d !important;
 }
 
 /*# sourceMappingURL=metro.css.map */

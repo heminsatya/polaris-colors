@@ -3,7 +3,7 @@
  * Standard HTML Colors
 **/
 /**
- * Polaris Colors Plugin v1.4.3
+ * Polaris Colors Plugin v1.5.0
  * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
 /* -------------------------------------------------- */
@@ -861,6 +861,433 @@
 }
 .bg-medium-violet-red, .bg-medium-violet-red-hover:hover {
   background-color: MediumVioletRed !important;
+}
+
+/*
+* border-color
+*/
+.b-white, .b-white-hover:hover {
+  border-color: White !important;
+}
+.b-azure, .b-azure-hover:hover {
+  border-color: Azure !important;
+}
+.b-mint-cream, .b-mint-cream-hover:hover {
+  border-color: MintCream !important;
+}
+.b-ivory, .b-ivory-hover:hover {
+  border-color: Ivory !important;
+}
+.b-honey-dew, .b-honey-dew-hover:hover {
+  border-color: HoneyDew !important;
+}
+.b-snow, .b-snow-hover:hover {
+  border-color: Snow !important;
+}
+.b-floral-white, .b-floral-white-hover:hover {
+  border-color: FloralWhite !important;
+}
+.b-ghost-white, .b-ghost-white-hover:hover {
+  border-color: GhostWhite !important;
+}
+.b-alice-blue, .b-alice-blue-hover:hover {
+  border-color: AliceBlue !important;
+}
+.b-sea-shell, .b-sea-shell-hover:hover {
+  border-color: SeaShell !important;
+}
+.b-white-smoke, .b-white-smoke-hover:hover {
+  border-color: WhiteSmoke !important;
+}
+.b-old-lace, .b-old-lace-hover:hover {
+  border-color: OldLace !important;
+}
+.b-beige, .b-beige-hover:hover {
+  border-color: Beige !important;
+}
+.b-lavender-blush, .b-lavender-blush-hover:hover {
+  border-color: LavenderBlush !important;
+}
+.b-linen, .b-linen-hover:hover {
+  border-color: Linen !important;
+}
+.b-antique-white, .b-antique-white-hover:hover {
+  border-color: AntiqueWhite !important;
+}
+.b-misty-rose, .b-misty-rose-hover:hover {
+  border-color: MistyRose !important;
+}
+.b-gainsboro, .b-gainsboro-hover:hover {
+  border-color: Gainsboro !important;
+}
+.b-light-gray, .b-light-gray-hover:hover {
+  border-color: LightGray !important;
+}
+.b-silver, .b-silver-hover:hover {
+  border-color: Silver !important;
+}
+.b-dark-gray, .b-dark-gray-hover:hover {
+  border-color: DarkGray !important;
+}
+.b-light-slate-gray, .b-light-slate-gray-hover:hover {
+  border-color: LightSlateGray !important;
+}
+.b-gray, .b-gray-hover:hover {
+  border-color: var(--gray, Gray) !important;
+}
+.b-slate-gray, .b-slate-gray-hover:hover {
+  border-color: SlateGray !important;
+}
+.b-dim-gray, .b-dim-gray-hover:hover {
+  border-color: DimGray !important;
+}
+.b-dark-slate-gray, .b-dark-slate-gray-hover:hover {
+  border-color: DarkSlateGray !important;
+}
+.b-black, .b-black-hover:hover {
+  border-color: Black !important;
+}
+.b-cornsilk, .b-cornsilk-hover:hover {
+  border-color: Cornsilk !important;
+}
+.b-blanched-almond, .b-blanched-almond-hover:hover {
+  border-color: BlanchedAlmond !important;
+}
+.b-bisque, .b-bisque-hover:hover {
+  border-color: Bisque !important;
+}
+.b-navajo-white, .b-navajo-white-hover:hover {
+  border-color: NavajoWhite !important;
+}
+.b-wheat, .b-wheat-hover:hover {
+  border-color: Wheat !important;
+}
+.b-burly-wood, .b-burly-wood-hover:hover {
+  border-color: BurlyWood !important;
+}
+.b-tan, .b-tan-hover:hover {
+  border-color: Tan !important;
+}
+.b-sandy-brown, .b-sandy-brown-hover:hover {
+  border-color: SandyBrown !important;
+}
+.b-goldenrod, .b-goldenrod-hover:hover {
+  border-color: Goldenrod !important;
+}
+.b-rosy-brown, .b-rosy-brown-hover:hover {
+  border-color: RosyBrown !important;
+}
+.b-peru, .b-peru-hover:hover {
+  border-color: Peru !important;
+}
+.b-dark-goldenrod, .b-dark-goldenrod-hover:hover {
+  border-color: DarkGoldenrod !important;
+}
+.b-chocolate, .b-chocolate-hover:hover {
+  border-color: Chocolate !important;
+}
+.b-sienna, .b-sienna-hover:hover {
+  border-color: Sienna !important;
+}
+.b-saddle-brown, .b-saddle-brown-hover:hover {
+  border-color: SaddleBrown !important;
+}
+.b-brown, .b-brown-hover:hover {
+  border-color: Brown !important;
+}
+.b-maroon, .b-maroon-hover:hover {
+  border-color: Maroon !important;
+}
+.b-light-salmon, .b-light-salmon-hover:hover {
+  border-color: LightSalmon !important;
+}
+.b-dark-salmon, .b-dark-salmon-hover:hover {
+  border-color: DarkSalmon !important;
+}
+.b-salmon, .b-salmon-hover:hover {
+  border-color: Salmon !important;
+}
+.b-light-coral, .b-light-coral-hover:hover {
+  border-color: LightCoral !important;
+}
+.b-indian-red, .b-indian-red-hover:hover {
+  border-color: IndianRed !important;
+}
+.b-red, .b-red-hover:hover {
+  border-color: Red !important;
+}
+.b-crimson, .b-crimson-hover:hover {
+  border-color: Crimson !important;
+}
+.b-fire-brick, .b-fire-brick-hover:hover {
+  border-color: FireBrick !important;
+}
+.b-darkRed, .b-darkRed-hover:hover {
+  border-color: darkred !important;
+}
+.b-orange, .b-orange-hover:hover {
+  border-color: Orange !important;
+}
+.b-dark-orange, .b-dark-orange-hover:hover {
+  border-color: DarkOrange !important;
+}
+.b-coral, .b-coral-hover:hover {
+  border-color: Coral !important;
+}
+.b-tomato, .b-tomato-hover:hover {
+  border-color: Tomato !important;
+}
+.b-orange-red, .b-orange-red-hover:hover {
+  border-color: OrangeRed !important;
+}
+.b-light-yellow, .b-light-yellow-hover:hover {
+  border-color: LightYellow !important;
+}
+.b-lemon-chiffon, .b-lemon-chiffon-hover:hover {
+  border-color: LemonChiffon !important;
+}
+.b-light-goldenrod-yellow, .b-light-goldenrod-yellow-hover:hover {
+  border-color: LightGoldenrodYellow !important;
+}
+.b-yellow, .b-yellow-hover:hover {
+  border-color: Yellow !important;
+}
+.b-papaya-whip, .b-papaya-whip-hover:hover {
+  border-color: PapayaWhip !important;
+}
+.b-moccasin, .b-moccasin-hover:hover {
+  border-color: Moccasin !important;
+}
+.b-pale-goldenrod, .b-pale-goldenrod-hover:hover {
+  border-color: PaleGoldenrod !important;
+}
+.b-khaki, .b-khaki-hover:hover {
+  border-color: Khaki !important;
+}
+.b-peach-puff, .b-peach-puff-hover:hover {
+  border-color: PeachPuff !important;
+}
+.b-gold, .b-gold-hover:hover {
+  border-color: Gold !important;
+}
+.b-dark-khaki, .b-dark-khaki-hover:hover {
+  border-color: DarkKhaki !important;
+}
+.b-green-yellow, .b-green-yellow-hover:hover {
+  border-color: GreenYellow !important;
+}
+.b-pale-green, .b-pale-green-hover:hover {
+  border-color: PaleGreen !important;
+}
+.b-spring-green, .b-spring-green-hover:hover {
+  border-color: SpringGreen !important;
+}
+.b-chartreuse, .b-chartreuse-hover:hover {
+  border-color: Chartreuse !important;
+}
+.b-lime, .b-lime-hover:hover {
+  border-color: Lime !important;
+}
+.b-lawn-green, .b-lawn-green-hover:hover {
+  border-color: LawnGreen !important;
+}
+.b-medium-spring-green, .b-medium-spring-green-hover:hover {
+  border-color: MediumSpringGreen !important;
+}
+.b-light-green, .b-light-green-hover:hover {
+  border-color: LightGreen !important;
+}
+.b-yellow-green, .b-yellow-green-hover:hover {
+  border-color: YellowGreen !important;
+}
+.b-medium-aquamarine, .b-medium-aquamarine-hover:hover {
+  border-color: MediumAquamarine !important;
+}
+.b-lime-green, .b-lime-green-hover:hover {
+  border-color: LimeGreen !important;
+}
+.b-dark-sea-green, .b-dark-sea-green-hover:hover {
+  border-color: DarkSeaGreen !important;
+}
+.b-light-sea-green, .b-light-sea-green-hover:hover {
+  border-color: LightSeaGreen !important;
+}
+.b-medium-sea-green, .b-medium-sea-green-hover:hover {
+  border-color: MediumSeaGreen !important;
+}
+.b-olive-drab, .b-olive-drab-hover:hover {
+  border-color: OliveDrab !important;
+}
+.b-dark-cyan, .b-dark-cyan-hover:hover {
+  border-color: DarkCyan !important;
+}
+.b-sea-green, .b-sea-green-hover:hover {
+  border-color: SeaGreen !important;
+}
+.b-forest-green, .b-forest-green-hover:hover {
+  border-color: ForestGreen !important;
+}
+.b-olive, .b-olive-hover:hover {
+  border-color: Olive !important;
+}
+.b-teal, .b-teal-hover:hover {
+  border-color: Teal !important;
+}
+.b-green, .b-green-hover:hover {
+  border-color: Green !important;
+}
+.b-dark-olive-green, .b-dark-olive-green-hover:hover {
+  border-color: DarkOliveGreen !important;
+}
+.b-dark-green, .b-dark-green-hover:hover {
+  border-color: DarkGreen !important;
+}
+.b-light-cyan, .b-light-cyan-hover:hover {
+  border-color: LightCyan !important;
+}
+.b-aqua, .b-aqua-hover:hover {
+  border-color: Aqua !important;
+}
+.b-cyan, .b-cyan-hover:hover {
+  border-color: Cyan !important;
+}
+.b-aquamarine, .b-aquamarine-hover:hover {
+  border-color: Aquamarine !important;
+}
+.b-pale-turquoise, .b-pale-turquoise-hover:hover {
+  border-color: PaleTurquoise !important;
+}
+.b-powder-blue, .b-powder-blue-hover:hover {
+  border-color: PowderBlue !important;
+}
+.b-light-blue, .b-light-blue-hover:hover {
+  border-color: LightBlue !important;
+}
+.b-turquoise, .b-turquoise-hover:hover {
+  border-color: Turquoise !important;
+}
+.b-light-sky-blue, .b-light-sky-blue-hover:hover {
+  border-color: LightSkyBlue !important;
+}
+.b-sky-blue, .b-sky-blue-hover:hover {
+  border-color: SkyBlue !important;
+}
+.b-medium-turquoise, .b-medium-turquoise-hover:hover {
+  border-color: MediumTurquoise !important;
+}
+.b-light-steel-blue, .b-light-steel-blue-hover:hover {
+  border-color: LightSteelBlue !important;
+}
+.b-dark-turquoise, .b-dark-turquoise-hover:hover {
+  border-color: DarkTurquoise !important;
+}
+.b-deep-sky-blue, .b-deep-sky-blue-hover:hover {
+  border-color: DeepSkyBlue !important;
+}
+.b-cornflower-blue, .b-cornflower-blue-hover:hover {
+  border-color: CornflowerBlue !important;
+}
+.b-cadet-blue, .b-cadet-blue-hover:hover {
+  border-color: CadetBlue !important;
+}
+.b-dodger-blue, .b-dodger-blue-hover:hover {
+  border-color: DodgerBlue !important;
+}
+.b-steel-blue, .b-steel-blue-hover:hover {
+  border-color: SteelBlue !important;
+}
+.b-royal-blue, .b-royal-blue-hover:hover {
+  border-color: RoyalBlue !important;
+}
+.b-blue, .b-blue-hover:hover {
+  border-color: Blue !important;
+}
+.b-medium-blue, .b-medium-blue-hover:hover {
+  border-color: MediumBlue !important;
+}
+.b-dark-blue, .b-dark-blue-hover:hover {
+  border-color: DarkBlue !important;
+}
+.b-navy, .b-navy-hover:hover {
+  border-color: Navy !important;
+}
+.b-midnight-blue, .b-midnight-blue-hover:hover {
+  border-color: MidnightBlue !important;
+}
+.b-lavender, .b-lavender-hover:hover {
+  border-color: Lavender !important;
+}
+.b-thistle, .b-thistle-hover:hover {
+  border-color: Thistle !important;
+}
+.b-plum, .b-plum-hover:hover {
+  border-color: Plum !important;
+}
+.b-violet, .b-violet-hover:hover {
+  border-color: Violet !important;
+}
+.b-orchid, .b-orchid-hover:hover {
+  border-color: Orchid !important;
+}
+.b-fuchsia, .b-fuchsia-hover:hover {
+  border-color: Fuchsia !important;
+}
+.b-magenta, .b-magenta-hover:hover {
+  border-color: Magenta !important;
+}
+.b-medium-purple, .b-medium-purple-hover:hover {
+  border-color: MediumPurple !important;
+}
+.b-medium-slate-blue, .b-medium-slate-blue-hover:hover {
+  border-color: MediumSlateBlue !important;
+}
+.b-medium-orchid, .b-medium-orchid-hover:hover {
+  border-color: MediumOrchid !important;
+}
+.b-slate-blue, .b-slate-blue-hover:hover {
+  border-color: SlateBlue !important;
+}
+.b-blue-violet, .b-blue-violet-hover:hover {
+  border-color: BlueViolet !important;
+}
+.b-dark-orchid, .b-dark-orchid-hover:hover {
+  border-color: DarkOrchid !important;
+}
+.b-dark-violet, .b-dark-violet-hover:hover {
+  border-color: DarkViolet !important;
+}
+.b-rebecca-purple, .b-rebecca-purple-hover:hover {
+  border-color: RebeccaPurple !important;
+}
+.b-dark-slate-blue, .b-dark-slate-blue-hover:hover {
+  border-color: DarkSlateBlue !important;
+}
+.b-dark-magenta, .b-dark-magenta-hover:hover {
+  border-color: DarkMagenta !important;
+}
+.b-purple, .b-purple-hover:hover {
+  border-color: Purple !important;
+}
+.b-indigo, .b-indigo-hover:hover {
+  border-color: Indigo !important;
+}
+.b-pink, .b-pink-hover:hover {
+  border-color: Pink !important;
+}
+.b-light-pink, .b-light-pink-hover:hover {
+  border-color: LightPink !important;
+}
+.b-hot-pink, .b-hot-pink-hover:hover {
+  border-color: HotPink !important;
+}
+.b-pale-violet-red, .b-pale-violet-red-hover:hover {
+  border-color: PaleVioletRed !important;
+}
+.b-deep-pink, .b-deep-pink-hover:hover {
+  border-color: DeepPink !important;
+}
+.b-medium-violet-red, .b-medium-violet-red-hover:hover {
+  border-color: MediumVioletRed !important;
 }
 
 /*# sourceMappingURL=html.css.map */

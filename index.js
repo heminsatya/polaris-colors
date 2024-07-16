@@ -1,5 +1,5 @@
 const msg = `
-    Polaris Colors Plugin v1.4.3
+    Polaris Colors Plugin v1.5.0
 `
 
 module.exports = msg

@@ -3,7 +3,7 @@
  * Social Network Colors
 **/
 /**
- * Polaris Colors Plugin v1.4.3
+ * Polaris Colors Plugin v1.5.0
  * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
 /* -------------------------------------------------- */
@@ -243,6 +243,124 @@
 }
 .bg-github, .bg-github-hover:hover {
   background-color: #2FBB4F !important;
+}
+
+/*
+* border-color
+*/
+.b-facebook, .b-facebook-hover:hover {
+  border-color: #3b5999 !important;
+}
+.b-messenger, .b-messenger-hover:hover {
+  border-color: #0084ff !important;
+}
+.b-twitter, .b-twitter-hover:hover {
+  border-color: #55acee !important;
+}
+.b-linkedin, .b-linkedin-hover:hover {
+  border-color: #0077B5 !important;
+}
+.b-skype, .b-skype-hover:hover {
+  border-color: #00AFF0 !important;
+}
+.b-dropbox, .b-dropbox-hover:hover {
+  border-color: #007ee5 !important;
+}
+.b-wordpress, .b-wordpress-hover:hover {
+  border-color: #21759b !important;
+}
+.b-vimeo, .b-vimeo-hover:hover {
+  border-color: #1ab7ea !important;
+}
+.b-slideshare, .b-slideshare-hover:hover {
+  border-color: #0077B5 !important;
+}
+.b-vk, .b-vk-hover:hover {
+  border-color: #4c75a3 !important;
+}
+.b-tumblr, .b-tumblr-hover:hover {
+  border-color: #34465d !important;
+}
+.b-yahoo, .b-yahoo-hover:hover {
+  border-color: #410093 !important;
+}
+.b-gmail, .b-gmail-hover:hover {
+  border-color: #dd4b39 !important;
+}
+.b-pinterest, .b-pinterest-hover:hover {
+  border-color: #bd081c !important;
+}
+.b-youtube, .b-youtube-hover:hover {
+  border-color: #cd201f !important;
+}
+.b-stumbleupon, .b-stumbleupon-hover:hover {
+  border-color: #eb4924 !important;
+}
+.b-reddit, .b-reddit-hover:hover {
+  border-color: #ff5700 !important;
+}
+.b-quora, .b-quora-hover:hover {
+  border-color: #b92b27 !important;
+}
+.b-yelp, .b-yelp-hover:hover {
+  border-color: #af0606 !important;
+}
+.b-weibo, .b-weibo-hover:hover {
+  border-color: #df2029 !important;
+}
+.b-producthunt, .b-producthunt-hover:hover {
+  border-color: #da552f !important;
+}
+.b-hackernews, .b-hackernews-hover:hover {
+  border-color: #ff6600 !important;
+}
+.b-soundcloud, .b-soundcloud-hover:hover {
+  border-color: #ff3300 !important;
+}
+.b-blogger, .b-blogger-hover:hover {
+  border-color: #f57d00 !important;
+}
+.b-whatsapp, .b-whatsapp-hover:hover {
+  border-color: #25D366 !important;
+}
+.b-wechat, .b-wechat-hover:hover {
+  border-color: #09b83e !important;
+}
+.b-line, .b-line-hover:hover {
+  border-color: #00c300 !important;
+}
+.b-medium, .b-medium-hover:hover {
+  border-color: #02b875 !important;
+}
+.b-vine, .b-vine-hover:hover {
+  border-color: #00b489 !important;
+}
+.b-slack, .b-slack-hover:hover {
+  border-color: #3aaf85 !important;
+}
+.b-instagram, .b-instagram-hover:hover {
+  border-color: #e4405f !important;
+}
+.b-dribbble, .b-dribbble-hover:hover {
+  border-color: #ea4c89 !important;
+}
+.b-flickr, .b-flickr-hover:hover {
+  border-color: #ff0084 !important;
+}
+.b-foursquare, .b-foursquare-hover:hover {
+  border-color: #f94877 !important;
+}
+.b-behance, .b-behance-hover:hover {
+  border-color: #131418 !important;
+}
+.b-snapchat, .b-snapchat-hover:hover {
+  border-color: #FFFC00 !important;
+}
+.b-telegram, .b-telegram-hover:hover {
+  border-color: #0088CC !important;
+}
+.b-github, .b-github-hover:hover {
+  border-color: #2FBB4F !important;
 }
 
 /*# sourceMappingURL=social.css.map */

@@ -3,7 +3,7 @@
  * Flat UI Colors
 **/
 /**
- * Polaris Colors Plugin v1.4.3
+ * Polaris Colors Plugin v1.5.0
  * MIT License github.com/heminsatya/polaris-colors | © 2022 polarisui.com
 **/
 /* -------------------------------------------------- */
@@ -135,6 +135,70 @@
 }
 .bg-asbestos, .bg-asbestos-hover:hover {
   background-color: #7f8c8d !important;
+}
+
+/*
+* border-color
+*/
+.b-turquoise, .b-turquoise-hover:hover {
+  border-color: #1abc9c !important;
+}
+.b-emerland, .b-emerland-hover:hover {
+  border-color: #2ecc71 !important;
+}
+.b-peterriver, .b-peterriver-hover:hover {
+  border-color: #3498db !important;
+}
+.b-amethyst, .b-amethyst-hover:hover {
+  border-color: #9b59b6 !important;
+}
+.b-wetasphalt, .b-wetasphalt-hover:hover {
+  border-color: #34495e !important;
+}
+.b-greensea, .b-greensea-hover:hover {
+  border-color: #16a085 !important;
+}
+.b-nephritis, .b-nephritis-hover:hover {
+  border-color: #27ae60 !important;
+}
+.b-belizehole, .b-belizehole-hover:hover {
+  border-color: #2980b9 !important;
+}
+.b-wisteria, .b-wisteria-hover:hover {
+  border-color: #8e44ad !important;
+}
+.b-midnightblue, .b-midnightblue-hover:hover {
+  border-color: #2c3e50 !important;
+}
+.b-sunflower, .b-sunflower-hover:hover {
+  border-color: #f1c40f !important;
+}
+.b-carrot, .b-carrot-hover:hover {
+  border-color: #e67e22 !important;
+}
+.b-alizarin, .b-alizarin-hover:hover {
+  border-color: #e74c3c !important;
+}
+.b-clouds, .b-clouds-hover:hover {
+  border-color: #ecf0f1 !important;
+}
+.b-concrete, .b-concrete-hover:hover {
+  border-color: #95a5a6 !important;
+}
+.b-orange, .b-orange-hover:hover {
+  border-color: #f39c12 !important;
+}
+.b-pumpkin, .b-pumpkin-hover:hover {
+  border-color: #d35400 !important;
+}
+.b-pomegranate, .b-pomegranate-hover:hover {
+  border-color: #c0392b !important;
+}
+.b-silver, .b-silver-hover:hover {
+  border-color: #bdc3c7 !important;
+}
+.b-asbestos, .b-asbestos-hover:hover {
+  border-color: #7f8c8d !important;
 }
 
 /*# sourceMappingURL=flat.css.map */

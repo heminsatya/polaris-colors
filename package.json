@@ -1,6 +1,6 @@
 {
   "name": "polaris-colors",
-  "version": "1.4.3",
+  "version": "1.5.0",
   "description": "Polaris Colors Plugin for Polaris Framework. A set of beautiful flat colors that you can use in your web apps.",
   "author": "Hemin Satya",
   "license": "MIT",
@@ -28,24 +28,24 @@
     "url": "https://github.com/heminsatya/polaris-colors/issues"
   },
   "devDependencies": {
-    "polaris-core": "^0.9.15",
+    "polaris-core": "^1.0.0",
     "sass": "^1.56.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "main": "sass src/scss/main.scss dist/css/main.min.css --style compressed --load-path=node_modules",
+    "main": "sass src/scss/main.scss dist/css/main.min.css --style compressed --load-path=node_modules --no-source-map",
     "main-dev": "sass src/scss/main.scss dist/css/main.css --watch --load-path=node_modules",
-    "polaris": "sass src/scss/polaris.scss dist/css/polaris.min.css --style compressed --load-path=node_modules",
+    "polaris": "sass src/scss/polaris.scss dist/css/polaris.min.css --style compressed --load-path=node_modules --no-source-map",
     "polaris-dev": "sass src/scss/polaris.scss dist/css/polaris.css --watch --load-path=node_modules",
-    "material": "sass src/scss/material.scss dist/css/material.min.css --style compressed --load-path=node_modules",
+    "material": "sass src/scss/material.scss dist/css/material.min.css --style compressed --load-path=node_modules --no-source-map",
     "material-dev": "sass src/scss/material.scss dist/css/material.css --watch --load-path=node_modules",
-    "html": "sass src/scss/html.scss dist/css/html.min.css --style compressed --load-path=node_modules",
+    "html": "sass src/scss/html.scss dist/css/html.min.css --style compressed --load-path=node_modules --no-source-map",
     "html-dev": "sass src/scss/html.scss dist/css/html.css --watch --load-path=node_modules",
-    "flat": "sass src/scss/flat.scss dist/css/flat.min.css --style compressed --load-path=node_modules",
+    "flat": "sass src/scss/flat.scss dist/css/flat.min.css --style compressed --load-path=node_modules --no-source-map",
     "flat-dev": "sass src/scss/flat.scss dist/css/flat.css --watch --load-path=node_modules",
-    "metro": "sass src/scss/metro.scss dist/css/metro.min.css --style compressed --load-path=node_modules",
+    "metro": "sass src/scss/metro.scss dist/css/metro.min.css --style compressed --load-path=node_modules --no-source-map",
     "metro-dev": "sass src/scss/metro.scss dist/css/metro.css --watch --load-path=node_modules",
-    "social": "sass src/scss/social.scss dist/css/social.min.css --style compressed --load-path=node_modules",
+    "social": "sass src/scss/social.scss dist/css/social.min.css --style compressed --load-path=node_modules --no-source-map",
     "social-dev": "sass src/scss/social.scss dist/css/social.css --watch --load-path=node_modules"
   }
 }
