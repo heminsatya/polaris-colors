@@ -4,16 +4,15 @@ Detailed historical release notes are preserved in [`changelog/`](changelog/).
 
 ## Unreleased
 
-### Documentation and maintenance
+No changes recorded since the v1.5.2 release candidate was prepared.
 
-- Refreshed README and introduced `/docs/` guides and root changelog index.
-- Updated repository, homepage, and issue-tracker metadata to SigmaScript.
-- Updated development dependencies to Polaris Core 1.0.6 and Sass 1.105.2.
-- Refreshed the npm dependency lockfile and resolved reported npm audit advisories (zero vulnerabilities in the latest local audit).
-- Verified production and development Sass builds; retained existing scripts and public Sass interfaces.
-- Regenerated compiled CSS where needed; Material `DARKGRAY` fallback normalized to equivalent `#A9A9A9`.
+## Release candidate
 
-**Release status:** Not yet tagged or published. Version selection and final compatibility checks are pending.
+### v1.5.2 — Maintenance and SigmaScript migration
+
+- [Full release notes](./changelog/v1.5.2.md)
+
+**Status:** Release candidate; not yet tagged or published.
 
 ## Published version history
 
