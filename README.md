@@ -46,8 +46,8 @@ For the complete list of production and watch commands, see [Development](docs/d
 
 ## Compatibility
 
-The current package declares `polaris-core` as a development dependency. Before publishing a future version, verify the plugin's Sass imports and compiled output against the selected Core version. Compatibility with Core 1.0.6 has **not yet been verified** in this documentation batch.
+The development toolchain uses Polaris Core 1.0.6 and Sass 1.105.2. Production and development CSS builds passed, and the refreshed dependency audit reported zero vulnerabilities.
 
 ## Support and license
 
-Report issues in the [SigmaScript repository](https://github.com/sigmascript/polaris-colors/issues) **after its transfer is completed**. Until then, use the repository's currently active issue tracker. Licensed under MIT; see `LICENSE`.
+Report issues through the [repository issue tracker](https://github.com/sigmascript/polaris-colors/issues). Licensed under MIT; see `LICENSE`.

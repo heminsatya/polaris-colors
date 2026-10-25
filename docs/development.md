@@ -12,20 +12,20 @@ The current project scripts are:
 
 | Script | Command |
 |---|---|
-| `npm run main` | `sass src/scss/main.scss dist/css/main.min.css --style compressed --load-path=node_modules --no-source-map` |
-| `npm run main-dev` | `sass src/scss/main.scss dist/css/main.css --watch --load-path=node_modules` |
-| `npm run polaris` | `sass src/scss/polaris.scss dist/css/polaris.min.css --style compressed --load-path=node_modules --no-source-map` |
-| `npm run polaris-dev` | `sass src/scss/polaris.scss dist/css/polaris.css --watch --load-path=node_modules` |
-| `npm run material` | `sass src/scss/material.scss dist/css/material.min.css --style compressed --load-path=node_modules --no-source-map` |
-| `npm run material-dev` | `sass src/scss/material.scss dist/css/material.css --watch --load-path=node_modules` |
-| `npm run html` | `sass src/scss/html.scss dist/css/html.min.css --style compressed --load-path=node_modules --no-source-map` |
-| `npm run html-dev` | `sass src/scss/html.scss dist/css/html.css --watch --load-path=node_modules` |
-| `npm run flat` | `sass src/scss/flat.scss dist/css/flat.min.css --style compressed --load-path=node_modules --no-source-map` |
-| `npm run flat-dev` | `sass src/scss/flat.scss dist/css/flat.css --watch --load-path=node_modules` |
-| `npm run metro` | `sass src/scss/metro.scss dist/css/metro.min.css --style compressed --load-path=node_modules --no-source-map` |
-| `npm run metro-dev` | `sass src/scss/metro.scss dist/css/metro.css --watch --load-path=node_modules` |
-| `npm run social` | `sass src/scss/social.scss dist/css/social.min.css --style compressed --load-path=node_modules --no-source-map` |
-| `npm run social-dev` | `sass src/scss/social.scss dist/css/social.css --watch --load-path=node_modules` |
+| `npm run main` | `sass src/scss/main.scss dist/css/main.min.css --style compressed --load-path=node_modules --no-source-map --silence-deprecation=import,global-builtin,if-function` |
+| `npm run main-dev` | `sass src/scss/main.scss dist/css/main.css --watch --load-path=node_modules --silence-deprecation=import,global-builtin,if-function` |
+| `npm run polaris` | `sass src/scss/polaris.scss dist/css/polaris.min.css --style compressed --load-path=node_modules --no-source-map --silence-deprecation=import,global-builtin,if-function` |
+| `npm run polaris-dev` | `sass src/scss/polaris.scss dist/css/polaris.css --watch --load-path=node_modules --silence-deprecation=import,global-builtin,if-function` |
+| `npm run material` | `sass src/scss/material.scss dist/css/material.min.css --style compressed --load-path=node_modules --no-source-map --silence-deprecation=import,global-builtin,if-function` |
+| `npm run material-dev` | `sass src/scss/material.scss dist/css/material.css --watch --load-path=node_modules --silence-deprecation=import,global-builtin,if-function` |
+| `npm run html` | `sass src/scss/html.scss dist/css/html.min.css --style compressed --load-path=node_modules --no-source-map --silence-deprecation=import,global-builtin,if-function` |
+| `npm run html-dev` | `sass src/scss/html.scss dist/css/html.css --watch --load-path=node_modules --silence-deprecation=import,global-builtin,if-function` |
+| `npm run flat` | `sass src/scss/flat.scss dist/css/flat.min.css --style compressed --load-path=node_modules --no-source-map --silence-deprecation=import,global-builtin,if-function` |
+| `npm run flat-dev` | `sass src/scss/flat.scss dist/css/flat.css --watch --load-path=node_modules --silence-deprecation=import,global-builtin,if-function` |
+| `npm run metro` | `sass src/scss/metro.scss dist/css/metro.min.css --style compressed --load-path=node_modules --no-source-map --silence-deprecation=import,global-builtin,if-function` |
+| `npm run metro-dev` | `sass src/scss/metro.scss dist/css/metro.css --watch --load-path=node_modules --silence-deprecation=import,global-builtin,if-function` |
+| `npm run social` | `sass src/scss/social.scss dist/css/social.min.css --style compressed --load-path=node_modules --no-source-map --silence-deprecation=import,global-builtin,if-function` |
+| `npm run social-dev` | `sass src/scss/social.scss dist/css/social.css --watch --load-path=node_modules --silence-deprecation=import,global-builtin,if-function` |
 
 ## Production and watch commands
 

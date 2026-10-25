@@ -4,8 +4,16 @@ Detailed historical release notes are preserved in [`changelog/`](changelog/).
 
 ## Unreleased
 
-- Documentation foundation prepared: refreshed README, getting-started and development guides, and a changelog index.
-- No version bump, package publication, API change, or compatibility certification is implied by this documentation batch.
+### Documentation and maintenance
+
+- Refreshed README and introduced `/docs/` guides and root changelog index.
+- Updated repository, homepage, and issue-tracker metadata to SigmaScript.
+- Updated development dependencies to Polaris Core 1.0.6 and Sass 1.105.2.
+- Refreshed the npm dependency lockfile and resolved reported npm audit advisories (zero vulnerabilities in the latest local audit).
+- Verified production and development Sass builds; retained existing scripts and public Sass interfaces.
+- Regenerated compiled CSS where needed; Material `DARKGRAY` fallback normalized to equivalent `#A9A9A9`.
+
+**Release status:** Not yet tagged or published. Version selection and final compatibility checks are pending.
 
 ## Published version history
 

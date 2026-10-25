@@ -19,13 +19,13 @@
     "Web",
     "Framework"
   ],
-  "homepage": "https://github.com/heminsatya/polaris-colors#readme",
+  "homepage": "https://github.com/sigmascript/polaris-colors#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heminsatya/polaris-colors.git"
+    "url": "git+https://github.com/sigmascript/polaris-colors.git"
   },
   "bugs": {
-    "url": "https://github.com/heminsatya/polaris-colors/issues"
+    "url": "https://github.com/sigmascript/polaris-colors/issues"
   },
   "devDependencies": {
     "polaris-core": "1.0.6",
