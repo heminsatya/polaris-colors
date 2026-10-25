@@ -1123,7 +1123,7 @@
   color: var(--gray-400, #B4B4B4) !important;
 }
 .color-gray-450, .color-gray-450-hover:hover {
-  color: var(--gray-450, DARKGRAY) !important;
+  color: var(--gray-450, #A9A9A9) !important;
 }
 .color-gray-500, .color-gray-500-hover:hover {
   color: var(--gray-500, #9E9E9E) !important;
@@ -3355,7 +3355,7 @@
   background-color: var(--gray-400, #B4B4B4) !important;
 }
 .bg-gray-450, .bg-gray-450-hover:hover {
-  background-color: var(--gray-450, DARKGRAY) !important;
+  background-color: var(--gray-450, #A9A9A9) !important;
 }
 .bg-gray-500, .bg-gray-500-hover:hover {
   background-color: var(--gray-500, #9E9E9E) !important;
@@ -5587,7 +5587,7 @@
   border-color: var(--gray-400, #B4B4B4) !important;
 }
 .b-gray-450, .b-gray-450-hover:hover {
-  border-color: var(--gray-450, DARKGRAY) !important;
+  border-color: var(--gray-450, #A9A9A9) !important;
 }
 .b-gray-500, .b-gray-500-hover:hover {
   border-color: var(--gray-500, #9E9E9E) !important;
